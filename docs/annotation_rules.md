@@ -1,5 +1,5 @@
 # Software
-- please use eHOST
+- please use eHOST: https://code.google.com/archive/p/ehost/downloads (ehost.zip june 2, 2012)
 - under Windows, eHOST should be installed under a Virtual Machine (to avoid UTF-16)
 
 
