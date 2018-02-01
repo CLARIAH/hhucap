@@ -10,7 +10,7 @@ Please see Schulz (2013) for details (pp.165-167) [link](https://dspace.library.
 - Nieuwe Tilburgsche Courant
 - Leeuwarder Courant
 
-This set reflects General, Liberal, Catholoc and Lower, Middle and Higher social
+This set reflects General, Liberal, Catholic and Lower, Middle and Higher social
 classes as well national and regional newspapers from different parts of the
 country.
 
