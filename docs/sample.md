@@ -31,4 +31,4 @@ country.
 - produce a week for a newspaper, whereby days are from different months
 - if more than 60 advertisements from a single newspaper issue: draw 60 randomly
 
-Total N is 2194 ads.
+Total Number is 2194 ads.
