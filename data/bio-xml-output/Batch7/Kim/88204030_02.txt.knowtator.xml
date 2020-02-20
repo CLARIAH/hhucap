@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88204030_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_42534" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="8" end="21" />
+        <spannedText>Konstschilder</spannedText>
+        <creationDate>Thu May 31 16:08:59 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42537">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_42534">
+        <hasSlotMention id="EHOST_Instance_42537" />
+        <mentionClass id="Profession">Konstschilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42535" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="282" end="293" />
+        <spannedText>Graaf van W</spannedText>
+        <creationDate>Thu May 31 16:09:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42538">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_42539">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_42536" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_42535">
+        <hasSlotMention id="EHOST_Instance_42538" />
+        <hasSlotMention id="EHOST_Instance_42539" />
+        <mentionClass id="Profession">Graaf van W</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42536" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="262" end="280" />
+        <spannedText>doorluchtenHendrik</spannedText>
+        <creationDate>Thu May 31 16:09:17 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42536">
+        <mentionClass id="Person">doorluchtenHendrik</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

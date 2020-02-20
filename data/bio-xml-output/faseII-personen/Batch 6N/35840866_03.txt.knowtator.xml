@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="35840866_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5719" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1372" end="1380" />
+        <spannedText>schilder</spannedText>
+        <creationDate>Sat May 19 15:36:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5725">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_5726">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_5720" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5719">
+        <hasSlotMention id="EHOST_Instance_5725" />
+        <hasSlotMention id="EHOST_Instance_5726" />
+        <mentionClass id="Profession">schilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5720" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1381" end="1393" />
+        <spannedText>Gabriel Haim</spannedText>
+        <creationDate>Sat May 19 15:36:10 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5720">
+        <mentionClass id="Person">Gabriel Haim</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5721" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="119" end="128" />
+        <spannedText>apotheker</spannedText>
+        <creationDate>Sat May 19 15:34:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5727">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5721">
+        <hasSlotMention id="EHOST_Instance_5727" />
+        <mentionClass id="Profession">apotheker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5722" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1052" end="1063" />
+        <spannedText>glasgraveur</spannedText>
+        <creationDate>Sat May 19 15:35:01 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5728">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5722">
+        <hasSlotMention id="EHOST_Instance_5728" />
+        <mentionClass id="Profession">glasgraveur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5723" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1372" end="1380" />
+        <spannedText>schilder</spannedText>
+        <creationDate>Sat May 19 15:36:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5729">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_5730">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_5724" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5723">
+        <hasSlotMention id="EHOST_Instance_5729" />
+        <hasSlotMention id="EHOST_Instance_5730" />
+        <mentionClass id="Profession">schilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5724" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1381" end="1393" />
+        <spannedText>Gabriel Haim</spannedText>
+        <creationDate>Sat May 19 15:36:10 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5724">
+        <mentionClass id="Person">Gabriel Haim</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

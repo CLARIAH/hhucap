@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="40605688_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_71382" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="458" end="466" />
+        <spannedText>bediende</spannedText>
+        <creationDate>Thu May 31 14:46:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_71388">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_71382">
+        <hasSlotMention id="EHOST_Instance_71388" />
+        <mentionClass id="Profession">bediende</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_71383" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="852" end="862" />
+        <spannedText>couturiers</spannedText>
+        <creationDate>Thu May 31 14:47:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_71389">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_71383">
+        <hasSlotMention id="EHOST_Instance_71389" />
+        <mentionClass id="Profession">couturiers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_71384" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="30" end="57" />
+        <spannedText>in dienst van Maison Hirsch</spannedText>
+        <creationDate>Wed Jul 11 10:52:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_71390">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_71384">
+        <hasSlotMention id="EHOST_Instance_71390" />
+        <mentionClass id="Profession">in dienst van Maison Hirsch</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_71385" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="90" end="122" />
+        <spannedText>medevennoot van Hirsch &amp;amp; Co.</spannedText>
+        <creationDate>Wed Jul 11 10:52:56 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_71391">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_71385">
+        <hasSlotMention id="EHOST_Instance_71391" />
+        <mentionClass id="Profession">medevennoot van Hirsch &amp;amp; Co.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_71386" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="183" end="190" />
+        <spannedText>vennoot</spannedText>
+        <creationDate>Wed Jul 11 10:53:00 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_71392">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_71393">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_71387" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_71386">
+        <hasSlotMention id="EHOST_Instance_71392" />
+        <hasSlotMention id="EHOST_Instance_71393" />
+        <mentionClass id="Profession">vennoot</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_71387" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="191" end="201" />
+        <spannedText>Sally Berg</spannedText>
+        <creationDate>Tue Jul 17 12:09:11 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_71387">
+        <mentionClass id="Person">Sally Berg</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

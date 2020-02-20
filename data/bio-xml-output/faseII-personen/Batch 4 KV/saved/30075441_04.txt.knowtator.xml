@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="30075441_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_21137" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="275" end="301" />
+        <spannedText>raadsheer van de Hoge Raad</spannedText>
+        <creationDate>Wed Apr 25 17:27:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_21144">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_21137">
+        <hasSlotMention id="EHOST_Instance_21144" />
+        <mentionClass id="Profession">raadsheer van de Hoge Raad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21138" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="556" end="564" />
+        <spannedText>advocaat</spannedText>
+        <creationDate>Wed Apr 25 17:27:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_21145">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_21138">
+        <hasSlotMention id="EHOST_Instance_21145" />
+        <mentionClass id="Profession">advocaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21139" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="603" end="629" />
+        <spannedText>raadsheer van de Hoge Raad</spannedText>
+        <creationDate>Wed Apr 25 17:27:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_21146">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_21139">
+        <hasSlotMention id="EHOST_Instance_21146" />
+        <mentionClass id="Profession">raadsheer van de Hoge Raad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21140" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="696" end="717" />
+        <spannedText>minister van justitie</spannedText>
+        <creationDate>Wed Apr 25 17:27:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_21147">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_21148">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_21141" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_21140">
+        <hasSlotMention id="EHOST_Instance_21147" />
+        <hasSlotMention id="EHOST_Instance_21148" />
+        <mentionClass id="Profession">minister van justitie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21141" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="718" end="739" />
+        <spannedText>Michel Henri Godefroi</spannedText>
+        <creationDate>Wed Apr 25 17:27:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_21141">
+        <mentionClass id="Person">Michel Henri Godefroi</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21142" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="896" end="908" />
+        <spannedText>T.M.C. Asser</spannedText>
+        <creationDate>Wed Apr 25 17:28:28 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_21142">
+        <mentionClass id="Person">T.M.C. Asser</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21143" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="861" end="875" />
+        <spannedText>rechtsgeleerde</spannedText>
+        <creationDate>Wed Apr 25 17:28:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_21149">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Child" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_21150">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_21142" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_21143">
+        <hasSlotMention id="EHOST_Instance_21149" />
+        <hasSlotMention id="EHOST_Instance_21150" />
+        <mentionClass id="Profession">rechtsgeleerde</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

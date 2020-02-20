@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="40605688_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_42059" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="458" end="466" />
+        <spannedText>bediende</spannedText>
+        <creationDate>Thu May 31 14:46:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42063">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_42064">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_42060" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_42059">
+        <hasSlotMention id="EHOST_Instance_42063" />
+        <hasSlotMention id="EHOST_Instance_42064" />
+        <mentionClass id="Profession">bediende</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42060" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="420" end="430" />
+        <spannedText>Sally Berg</spannedText>
+        <creationDate>Thu May 31 14:47:11 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42060">
+        <mentionClass id="Person">Sally Berg</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42061" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="458" end="466" />
+        <spannedText>bediende</spannedText>
+        <creationDate>Thu May 31 14:47:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42065">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_42061">
+        <hasSlotMention id="EHOST_Instance_42065" />
+        <mentionClass id="Profession">bediende</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42062" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="852" end="862" />
+        <spannedText>couturiers</spannedText>
+        <creationDate>Thu May 31 14:47:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42066">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_42062">
+        <hasSlotMention id="EHOST_Instance_42066" />
+        <mentionClass id="Profession">couturiers</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

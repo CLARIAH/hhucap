@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="70352305_09.txt">
+    <annotation>
+        <mention id="EHOST_Instance_62705" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1039" end="1047" />
+        <spannedText>raadslid</spannedText>
+        <creationDate>Tue May 29 12:37:28 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_62710">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_62705">
+        <hasSlotMention id="EHOST_Instance_62710" />
+        <mentionClass id="Profession">raadslid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62706" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1068" end="1082" />
+        <spannedText>PvdA-politicus</spannedText>
+        <creationDate>Tue May 29 12:37:36 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_62711">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_62712">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_62707" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_62706">
+        <hasSlotMention id="EHOST_Instance_62711" />
+        <hasSlotMention id="EHOST_Instance_62712" />
+        <mentionClass id="Profession">PvdA-politicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62707" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1083" end="1100" />
+        <spannedText>Gerard Nederhorst</spannedText>
+        <creationDate>Tue May 29 12:37:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_62707">
+        <mentionClass id="Person">Gerard Nederhorst</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62708" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1516" end="1539" />
+        <spannedText>lid van de Eerste Kamer</spannedText>
+        <creationDate>Tue May 29 12:38:00 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_62713">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_62708">
+        <hasSlotMention id="EHOST_Instance_62713" />
+        <mentionClass id="Profession">lid van de Eerste Kamer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62709" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="694" end="738" />
+        <spannedText>hoofdredactrice van 'De proletarische vrouw'</spannedText>
+        <creationDate>Mon Jul 30 18:35:19 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_62709">
+        <mentionClass id="Profession">hoofdredactrice van 'De proletarische vrouw'</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

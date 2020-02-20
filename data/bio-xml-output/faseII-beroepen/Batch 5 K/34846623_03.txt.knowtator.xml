@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="34846623_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_15981" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1292" end="1303" />
+        <spannedText>hoogleeraar</spannedText>
+        <creationDate>Thu May 03 12:09:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_15986">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_15981">
+        <hasSlotMention id="EHOST_Instance_15986" />
+        <mentionClass id="Profession">hoogleeraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_15982" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="603" end="634" />
+        <spannedText>assistent bij de Geo&amp;#173;logie</spannedText>
+        <creationDate>Fri Jul 06 09:43:34 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_15982">
+        <mentionClass id="Profession">assistent bij de Geo&amp;#173;logie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_15983" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="923" end="930" />
+        <spannedText>leeraar</spannedText>
+        <creationDate>Fri Jul 06 09:43:47 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_15983">
+        <mentionClass id="Profession">leeraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_15984" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="989" end="1003" />
+        <spannedText>privaat-docent</spannedText>
+        <creationDate>Fri Jul 06 09:43:51 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_15984">
+        <mentionClass id="Profession">privaat-docent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_15985" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1218" end="1224" />
+        <spannedText>lector</spannedText>
+        <creationDate>Fri Jul 06 09:43:57 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_15985">
+        <mentionClass id="Profession">lector</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

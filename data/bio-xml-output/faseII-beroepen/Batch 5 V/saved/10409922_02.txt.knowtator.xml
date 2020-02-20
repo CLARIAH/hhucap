@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="10409922_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_13529" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="104" end="123" />
+        <spannedText>sydelakenkoop- man</spannedText>
+        <creationDate>Tue May 15 20:10:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13532">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_13533">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_13530" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_13529">
+        <hasSlotMention id="EHOST_Instance_13532" />
+        <hasSlotMention id="EHOST_Instance_13533" />
+        <mentionClass id="Profession">sydelakenkoop- man</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13530" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="79" end="102" />
+        <spannedText>Isaac Jacobsz. Rooleeuw</spannedText>
+        <creationDate>Tue May 15 20:10:38 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_13530">
+        <mentionClass id="Person">Isaac Jacobsz. Rooleeuw</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13531" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="181" end="185" />
+        <spannedText>Arts</spannedText>
+        <creationDate>Tue May 15 20:10:51 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13534">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_13531">
+        <hasSlotMention id="EHOST_Instance_13534" />
+        <mentionClass id="Profession">Arts</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

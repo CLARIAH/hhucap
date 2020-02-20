@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="37271008_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_9311" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="217" end="239" />
+        <spannedText>Fokke Klazes Kleefstra</spannedText>
+        <creationDate>Thu Apr 12 19:43:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9311">
+        <mentionClass id="Person">Fokke Klazes Kleefstra</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9312" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="241" end="254" />
+        <spannedText>dorpsschilder</spannedText>
+        <creationDate>Thu Apr 12 19:43:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9318">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9319">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9311" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9312">
+        <hasSlotMention id="EHOST_Instance_9318" />
+        <hasSlotMention id="EHOST_Instance_9319" />
+        <mentionClass id="Profession">dorpsschilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9313" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="359" end="371" />
+        <spannedText>Jean Badeuil</spannedText>
+        <creationDate>Thu Apr 12 19:44:28 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9313">
+        <mentionClass id="Person">Jean Badeuil</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9314" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="373" end="397" />
+        <spannedText>groothandelaar in vodden</spannedText>
+        <creationDate>Thu Apr 12 19:44:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9320">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9321">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9313" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9314">
+        <hasSlotMention id="EHOST_Instance_9320" />
+        <hasSlotMention id="EHOST_Instance_9321" />
+        <mentionClass id="Profession">groothandelaar in vodden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9315" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="3788" end="3798" />
+        <spannedText>prostituée</spannedText>
+        <creationDate>Thu Apr 12 19:49:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9322">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9323">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9316" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9315">
+        <hasSlotMention id="EHOST_Instance_9322" />
+        <hasSlotMention id="EHOST_Instance_9323" />
+        <mentionClass id="Profession">prostituée</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9316" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="0" end="18" />
+        <spannedText>KLEEFSTRA, Geertje</spannedText>
+        <creationDate>Thu Apr 12 19:49:21 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9316">
+        <mentionClass id="Person">KLEEFSTRA, Geertje</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9317" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="4055" end="4079" />
+        <spannedText>groothandelaar in vodden</spannedText>
+        <creationDate>Thu Apr 12 19:50:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9324">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9325">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9313" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9317">
+        <hasSlotMention id="EHOST_Instance_9324" />
+        <hasSlotMention id="EHOST_Instance_9325" />
+        <mentionClass id="Profession">groothandelaar in vodden</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

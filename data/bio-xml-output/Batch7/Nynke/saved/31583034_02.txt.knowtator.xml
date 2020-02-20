@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="31583034_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_20606" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="26" end="36" />
+        <spannedText>ondernemer</spannedText>
+        <creationDate>Sat May 26 14:12:00 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20682">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20606">
+        <hasSlotMention id="EHOST_Instance_20682" />
+        <mentionClass id="Profession">ondernemer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20607" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="38" end="51" />
+        <spannedText>legerofficier</spannedText>
+        <creationDate>Sat May 26 14:12:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20683">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20607">
+        <hasSlotMention id="EHOST_Instance_20683" />
+        <mentionClass id="Profession">legerofficier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20608" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="55" end="64" />
+        <spannedText>publicist</spannedText>
+        <creationDate>Sat May 26 14:12:11 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20684">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20608">
+        <hasSlotMention id="EHOST_Instance_20684" />
+        <mentionClass id="Profession">publicist</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20609" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="119" end="135" />
+        <spannedText>Cornelis Swaving</spannedText>
+        <creationDate>Sat May 26 14:12:20 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20609">
+        <mentionClass id="Person">Cornelis Swaving</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20610" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="137" end="159" />
+        <spannedText>gereformeerd predikant</spannedText>
+        <creationDate>Sat May 26 14:12:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20685">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20686">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20609" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20610">
+        <hasSlotMention id="EHOST_Instance_20685" />
+        <hasSlotMention id="EHOST_Instance_20686" />
+        <mentionClass id="Profession">gereformeerd predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20611" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="666" end="689" />
+        <spannedText>gereformeerde predikant</spannedText>
+        <creationDate>Sat May 26 14:12:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20687">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20611">
+        <hasSlotMention id="EHOST_Instance_20687" />
+        <mentionClass id="Profession">gereformeerde predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20612" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="917" end="931" />
+        <spannedText>marineofficier</spannedText>
+        <creationDate>Sat May 26 14:12:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20688">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20612">
+        <hasSlotMention id="EHOST_Instance_20688" />
+        <mentionClass id="Profession">marineofficier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20613" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1007" end="1016" />
+        <spannedText>adelborst</spannedText>
+        <creationDate>Sat May 26 14:13:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20689">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20613">
+        <hasSlotMention id="EHOST_Instance_20689" />
+        <mentionClass id="Profession">adelborst</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20614" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1252" end="1262" />
+        <spannedText>officieren</spannedText>
+        <creationDate>Sat May 26 14:13:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20690">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20614">
+        <hasSlotMention id="EHOST_Instance_20690" />
+        <mentionClass id="Profession">officieren</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20615" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1266" end="1278" />
+        <spannedText>schepelingen</spannedText>
+        <creationDate>Sat May 26 14:13:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20691">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20615">
+        <hasSlotMention id="EHOST_Instance_20691" />
+        <mentionClass id="Profession">schepelingen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20616" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1565" end="1575" />
+        <spannedText>stadhouder</spannedText>
+        <creationDate>Sat May 26 14:13:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20692">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20693">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20617" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20616">
+        <hasSlotMention id="EHOST_Instance_20692" />
+        <hasSlotMention id="EHOST_Instance_20693" />
+        <mentionClass id="Profession">stadhouder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20617" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1576" end="1584" />
+        <spannedText>Willem V</spannedText>
+        <creationDate>Sat May 26 14:13:52 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20617">
+        <mentionClass id="Person">Willem V</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20618" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1888" end="1912" />
+        <spannedText>Boudewijn Donker Curtius</spannedText>
+        <creationDate>Sat May 26 14:14:15 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20618">
+        <mentionClass id="Person">Boudewijn Donker Curtius</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20619" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1914" end="1994" />
+        <spannedText>secretaris van het Comité tot de Algemene Zaken van het Bondgenootschap te Lande</spannedText>
+        <creationDate>Sat May 26 14:14:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20694">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20695">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20618" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20619">
+        <hasSlotMention id="EHOST_Instance_20694" />
+        <hasSlotMention id="EHOST_Instance_20695" />
+        <mentionClass id="Profession">secretaris van het Comité tot de Algemene Zaken van het Bondgenootschap te Lande</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20620" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2357" end="2362" />
+        <spannedText>klerk</spannedText>
+        <creationDate>Sat May 26 14:14:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20696">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20620">
+        <hasSlotMention id="EHOST_Instance_20696" />
+        <mentionClass id="Profession">klerk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20621" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2628" end="2639" />
+        <spannedText>Willem Kist</spannedText>
+        <creationDate>Sat May 26 14:15:21 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20621">
+        <mentionClass id="Person">Willem Kist</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20622" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2653" end="2659" />
+        <spannedText>auteur</spannedText>
+        <creationDate>Sat May 26 14:15:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20697">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20698">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20621" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20622">
+        <hasSlotMention id="EHOST_Instance_20697" />
+        <hasSlotMention id="EHOST_Instance_20698" />
+        <mentionClass id="Profession">auteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20623" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2795" end="2807" />
+        <spannedText>onderkoopman</spannedText>
+        <creationDate>Sat May 26 14:15:36 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20699">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20623">
+        <hasSlotMention id="EHOST_Instance_20699" />
+        <mentionClass id="Profession">onderkoopman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20624" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3902" end="3910" />
+        <spannedText>planters</spannedText>
+        <creationDate>Sat May 26 14:16:19 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20700">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20624">
+        <hasSlotMention id="EHOST_Instance_20700" />
+        <mentionClass id="Profession">planters</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20625" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4121" end="4133" />
+        <spannedText>medeplanters</spannedText>
+        <creationDate>Sat May 26 14:16:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20701">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20625">
+        <hasSlotMention id="EHOST_Instance_20701" />
+        <mentionClass id="Profession">medeplanters</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20626" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4404" end="4417" />
+        <spannedText>Paulus Eggers</spannedText>
+        <creationDate>Sat May 26 14:16:50 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20626">
+        <mentionClass id="Person">Paulus Eggers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20627" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4433" end="4455" />
+        <spannedText>secretaris van Berbice</spannedText>
+        <creationDate>Sat May 26 14:17:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20702">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="FatherInLaw" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20703">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20626" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20627">
+        <hasSlotMention id="EHOST_Instance_20702" />
+        <hasSlotMention id="EHOST_Instance_20703" />
+        <mentionClass id="Profession">secretaris van Berbice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20628" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4864" end="4871" />
+        <spannedText>planter</spannedText>
+        <creationDate>Sat May 26 14:17:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20704">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="FatherInLaw" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20705">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20629" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20628">
+        <hasSlotMention id="EHOST_Instance_20704" />
+        <hasSlotMention id="EHOST_Instance_20705" />
+        <mentionClass id="Profession">planter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20629" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4872" end="4881" />
+        <spannedText>Armstrong</spannedText>
+        <creationDate>Sat May 26 14:17:28 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20629">
+        <mentionClass id="Person">Armstrong</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20630" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="5189" end="5197" />
+        <spannedText>zakenman</spannedText>
+        <creationDate>Sat May 26 14:17:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20706">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20707">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20631" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20630">
+        <hasSlotMention id="EHOST_Instance_20706" />
+        <hasSlotMention id="EHOST_Instance_20707" />
+        <mentionClass id="Profession">zakenman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20631" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="5198" end="5212" />
+        <spannedText>Charles Rulach</spannedText>
+        <creationDate>Sat May 26 14:17:51 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20631">
+        <mentionClass id="Person">Charles Rulach</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20632" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="7006" end="7014" />
+        <spannedText>kapitein</spannedText>
+        <creationDate>Sat May 26 14:19:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20708">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20709">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20633" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20632">
+        <hasSlotMention id="EHOST_Instance_20708" />
+        <hasSlotMention id="EHOST_Instance_20709" />
+        <mentionClass id="Profession">kapitein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20633" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="7048" end="7052" />
+        <spannedText>Deze</spannedText>
+        <creationDate>Sat May 26 14:19:27 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20633">
+        <mentionClass id="Person">Deze</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20634" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="7792" end="7799" />
+        <spannedText>planter</spannedText>
+        <creationDate>Sat May 26 14:20:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20710">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20634">
+        <hasSlotMention id="EHOST_Instance_20710" />
+        <mentionClass id="Profession">planter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20635" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="7844" end="7866" />
+        <spannedText>politiefunctionarissen</spannedText>
+        <creationDate>Sat May 26 14:20:19 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20711">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20635">
+        <hasSlotMention id="EHOST_Instance_20711" />
+        <mentionClass id="Profession">politiefunctionarissen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20636" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="8078" end="8096" />
+        <spannedText>vrachtbootkapitein</spannedText>
+        <creationDate>Sat May 26 14:20:28 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20712">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20636">
+        <hasSlotMention id="EHOST_Instance_20712" />
+        <mentionClass id="Profession">vrachtbootkapitein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20637" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="8136" end="8156" />
+        <spannedText>lid van de bemanning</spannedText>
+        <creationDate>Sat May 26 14:20:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20713">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20637">
+        <hasSlotMention id="EHOST_Instance_20713" />
+        <mentionClass id="Profession">lid van de bemanning</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20638" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="8197" end="8205" />
+        <spannedText>kapitein</spannedText>
+        <creationDate>Sat May 26 14:20:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20714">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20638">
+        <hasSlotMention id="EHOST_Instance_20714" />
+        <mentionClass id="Profession">kapitein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20639" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="8226" end="8233" />
+        <spannedText>planter</spannedText>
+        <creationDate>Sat May 26 14:20:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20715">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20639">
+        <hasSlotMention id="EHOST_Instance_20715" />
+        <mentionClass id="Profession">planter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20640" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="9100" end="9119" />
+        <spannedText>gevangenisdirecteur</spannedText>
+        <creationDate>Sat May 26 14:21:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20716">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20717">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20641" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20640">
+        <hasSlotMention id="EHOST_Instance_20716" />
+        <hasSlotMention id="EHOST_Instance_20717" />
+        <mentionClass id="Profession">gevangenisdirecteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20641" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="9120" end="9124" />
+        <spannedText>Bell</spannedText>
+        <creationDate>Sat May 26 14:21:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20641">
+        <mentionClass id="Person">Bell</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20642" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="9128" end="9136" />
+        <spannedText>advocaat</spannedText>
+        <creationDate>Sat May 26 14:21:36 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20718">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20719">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20643" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20642">
+        <hasSlotMention id="EHOST_Instance_20718" />
+        <hasSlotMention id="EHOST_Instance_20719" />
+        <mentionClass id="Profession">advocaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20643" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="9137" end="9147" />
+        <spannedText>Joseph Fay</spannedText>
+        <creationDate>Sat May 26 14:21:37 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20643">
+        <mentionClass id="Person">Joseph Fay</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20644" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="9676" end="9692" />
+        <spannedText>wervingsofficier</spannedText>
+        <creationDate>Sat May 26 14:21:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20720">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20644">
+        <hasSlotMention id="EHOST_Instance_20720" />
+        <mentionClass id="Profession">wervingsofficier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20645" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="9732" end="9741" />
+        <spannedText>schrijver</spannedText>
+        <creationDate>Sat May 26 14:21:59 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20721">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20645">
+        <hasSlotMention id="EHOST_Instance_20721" />
+        <mentionClass id="Profession">schrijver</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20646" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="9815" end="9823" />
+        <spannedText>officier</spannedText>
+        <creationDate>Sat May 26 14:22:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20722">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20646">
+        <hasSlotMention id="EHOST_Instance_20722" />
+        <mentionClass id="Profession">officier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20647" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="10434" end="10449" />
+        <spannedText>bemanningsleden</spannedText>
+        <creationDate>Sat May 26 14:22:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20723">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20647">
+        <hasSlotMention id="EHOST_Instance_20723" />
+        <mentionClass id="Profession">bemanningsleden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20648" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="10630" end="10636" />
+        <spannedText>douane</spannedText>
+        <creationDate>Sat May 26 14:22:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20724">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20648">
+        <hasSlotMention id="EHOST_Instance_20724" />
+        <mentionClass id="Profession">douane</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20649" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="10664" end="10671" />
+        <spannedText>politie</spannedText>
+        <creationDate>Sat May 26 14:22:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20725">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20649">
+        <hasSlotMention id="EHOST_Instance_20725" />
+        <mentionClass id="Profession">politie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20650" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="11164" end="11178" />
+        <spannedText>Donker Curtius</spannedText>
+        <creationDate>Sat May 26 14:23:14 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20650">
+        <mentionClass id="Person">Donker Curtius</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20651" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="11190" end="11229" />
+        <spannedText>raadsheer in het Keizerlijk Gerechtshof</spannedText>
+        <creationDate>Sat May 26 14:23:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20726">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20727">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20650" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20651">
+        <hasSlotMention id="EHOST_Instance_20726" />
+        <hasSlotMention id="EHOST_Instance_20727" />
+        <mentionClass id="Profession">raadsheer in het Keizerlijk Gerechtshof</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20652" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="11277" end="11300" />
+        <spannedText>Charles-François Lebrun</spannedText>
+        <creationDate>Sat May 26 14:23:30 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20652">
+        <mentionClass id="Person">Charles-François Lebrun</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20653" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="11305" end="11324" />
+        <spannedText>gouverneur-generaal</spannedText>
+        <creationDate>Sat May 26 14:23:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20728">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20729">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20652" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20653">
+        <hasSlotMention id="EHOST_Instance_20728" />
+        <hasSlotMention id="EHOST_Instance_20729" />
+        <mentionClass id="Profession">gouverneur-generaal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20654" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="11669" end="11679" />
+        <spannedText>remplaçant</spannedText>
+        <creationDate>Sat May 26 14:24:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20730">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20654">
+        <hasSlotMention id="EHOST_Instance_20730" />
+        <mentionClass id="Profession">remplaçant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20655" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="12521" end="12537" />
+        <spannedText>tweede luitenant</spannedText>
+        <creationDate>Sat May 26 14:24:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20731">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20655">
+        <hasSlotMention id="EHOST_Instance_20731" />
+        <mentionClass id="Profession">tweede luitenant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20656" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="12548" end="12566" />
+        <spannedText>subaltern officier</spannedText>
+        <creationDate>Sat May 26 14:25:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20732">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20656">
+        <hasSlotMention id="EHOST_Instance_20732" />
+        <mentionClass id="Profession">subaltern officier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20657" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="12770" end="12785" />
+        <spannedText>beroepsmilitair</spannedText>
+        <creationDate>Sat May 26 14:25:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20733">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20657">
+        <hasSlotMention id="EHOST_Instance_20733" />
+        <mentionClass id="Profession">beroepsmilitair</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20658" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="12843" end="12858" />
+        <spannedText>garde d’honneur</spannedText>
+        <creationDate>Sat May 26 14:25:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20734">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20658">
+        <hasSlotMention id="EHOST_Instance_20734" />
+        <mentionClass id="Profession">garde d’honneur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20659" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="13144" end="13155" />
+        <spannedText>Oranjevorst</spannedText>
+        <creationDate>Sat May 26 14:25:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20735">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20659">
+        <hasSlotMention id="EHOST_Instance_20735" />
+        <mentionClass id="Profession">Oranjevorst</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20660" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="13527" end="13532" />
+        <spannedText>Prins</spannedText>
+        <creationDate>Sat May 26 14:25:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20736">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20737">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20661" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20660">
+        <hasSlotMention id="EHOST_Instance_20736" />
+        <hasSlotMention id="EHOST_Instance_20737" />
+        <mentionClass id="Profession">Prins</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20661" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="13533" end="13543" />
+        <spannedText>van Oranje</spannedText>
+        <creationDate>Sat May 26 14:25:59 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20661">
+        <mentionClass id="Person">van Oranje</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20662" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="13657" end="13689" />
+        <spannedText>eerste luitenant-kwartiermeester</spannedText>
+        <creationDate>Sat May 26 14:26:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20738">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20662">
+        <hasSlotMention id="EHOST_Instance_20738" />
+        <mentionClass id="Profession">eerste luitenant-kwartiermeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20663" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="14244" end="14259" />
+        <spannedText>Marinus Piepers</spannedText>
+        <creationDate>Sat May 26 14:26:30 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20663">
+        <mentionClass id="Person">Marinus Piepers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20664" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="14275" end="14325" />
+        <spannedText>intendant-generaal van de Administratie van Oorlog</spannedText>
+        <creationDate>Sat May 26 14:26:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20739">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20740">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20663" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20664">
+        <hasSlotMention id="EHOST_Instance_20739" />
+        <hasSlotMention id="EHOST_Instance_20740" />
+        <mentionClass id="Profession">intendant-generaal van de Administratie van Oorlog</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20665" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="14801" end="14833" />
+        <spannedText>eerste luitenant-kwartiermeester</spannedText>
+        <creationDate>Sat May 26 14:26:51 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20741">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20665">
+        <hasSlotMention id="EHOST_Instance_20741" />
+        <mentionClass id="Profession">eerste luitenant-kwartiermeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20666" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="14854" end="14860" />
+        <spannedText>leraar</spannedText>
+        <creationDate>Sat May 26 14:26:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20742">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20666">
+        <hasSlotMention id="EHOST_Instance_20742" />
+        <mentionClass id="Profession">leraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20667" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="14910" end="14921" />
+        <spannedText>docentschap</spannedText>
+        <creationDate>Sat May 26 14:27:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20743">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20667">
+        <hasSlotMention id="EHOST_Instance_20743" />
+        <mentionClass id="Profession">docentschap</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20668" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="16322" end="16331" />
+        <spannedText>directeur</spannedText>
+        <creationDate>Sat May 26 14:28:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20744">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20668">
+        <hasSlotMention id="EHOST_Instance_20744" />
+        <mentionClass id="Profession">directeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20669" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="16495" end="16505" />
+        <spannedText>kooplieden</spannedText>
+        <creationDate>Sat May 26 14:28:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20745">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20669">
+        <hasSlotMention id="EHOST_Instance_20745" />
+        <mentionClass id="Profession">kooplieden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20670" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="16509" end="16517" />
+        <spannedText>juristen</spannedText>
+        <creationDate>Sat May 26 14:28:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20746">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20670">
+        <hasSlotMention id="EHOST_Instance_20746" />
+        <mentionClass id="Profession">juristen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20671" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="16532" end="16540" />
+        <spannedText>juristen</spannedText>
+        <creationDate>Sat May 26 14:28:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20747">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20748">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20672" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20671">
+        <hasSlotMention id="EHOST_Instance_20747" />
+        <hasSlotMention id="EHOST_Instance_20748" />
+        <mentionClass id="Profession">juristen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20672" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="16545" end="16559" />
+        <spannedText>sir John Wylde</spannedText>
+        <creationDate>Sat May 26 14:28:29 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20672">
+        <mentionClass id="Person">sir John Wylde</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20673" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="16592" end="16605" />
+        <spannedText>tolk-vertaler</spannedText>
+        <creationDate>Sat May 26 14:28:38 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20749">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20673">
+        <hasSlotMention id="EHOST_Instance_20749" />
+        <mentionClass id="Profession">tolk-vertaler</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20674" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="16770" end="16794" />
+        <spannedText>interpreteur translateur</spannedText>
+        <creationDate>Sat May 26 14:28:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20750">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20674">
+        <hasSlotMention id="EHOST_Instance_20750" />
+        <mentionClass id="Profession">interpreteur translateur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20675" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="17235" end="17244" />
+        <spannedText>redacteur</spannedText>
+        <creationDate>Sat May 26 14:32:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20751">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20675">
+        <hasSlotMention id="EHOST_Instance_20751" />
+        <mentionClass id="Profession">redacteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20676" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="17551" end="17570" />
+        <spannedText>Napoleon Buonaparte</spannedText>
+        <creationDate>Sat May 26 14:32:22 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20676">
+        <mentionClass id="Person">Napoleon Buonaparte</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20677" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="17572" end="17578" />
+        <spannedText>keizer</spannedText>
+        <creationDate>Sat May 26 14:32:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20752">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20753">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20676" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20677">
+        <hasSlotMention id="EHOST_Instance_20752" />
+        <hasSlotMention id="EHOST_Instance_20753" />
+        <mentionClass id="Profession">keizer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20678" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="19553" end="19558" />
+        <spannedText>Prins</spannedText>
+        <creationDate>Sat May 26 14:33:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20754">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20755">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20679" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20678">
+        <hasSlotMention id="EHOST_Instance_20754" />
+        <hasSlotMention id="EHOST_Instance_20755" />
+        <mentionClass id="Profession">Prins</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20679" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="19559" end="19590" />
+        <spannedText>Frederik van Brunswĳk-Lunenburg</spannedText>
+        <creationDate>Sat May 26 14:33:49 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20679">
+        <mentionClass id="Person">Frederik van Brunswĳk-Lunenburg</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20680" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="19592" end="19617" />
+        <spannedText>Hertog van York en Albany</spannedText>
+        <creationDate>Sat May 26 14:33:56 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20756">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20757">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20679" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20680">
+        <hasSlotMention id="EHOST_Instance_20756" />
+        <hasSlotMention id="EHOST_Instance_20757" />
+        <mentionClass id="Profession">Hertog van York en Albany</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20681" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="20010" end="20021" />
+        <spannedText>artillerist</spannedText>
+        <creationDate>Sat May 26 14:34:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20758">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20681">
+        <hasSlotMention id="EHOST_Instance_20758" />
+        <mentionClass id="Profession">artillerist</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

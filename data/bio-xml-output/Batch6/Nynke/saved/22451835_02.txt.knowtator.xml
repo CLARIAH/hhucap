@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="22451835_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_13966" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="55" end="65" />
+        <spannedText>accountant</spannedText>
+        <creationDate>Fri May 18 12:32:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13972">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_13973">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_13967" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_13966">
+        <hasSlotMention id="EHOST_Instance_13972" />
+        <hasSlotMention id="EHOST_Instance_13973" />
+        <mentionClass id="Profession">accountant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13967" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="43" end="53" />
+        <spannedText>Koen Bruyn</spannedText>
+        <creationDate>Fri May 18 12:32:47 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_13967">
+        <mentionClass id="Person">Koen Bruyn</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13968" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="513" end="556" />
+        <spannedText>medewerkster bij een consumentenorganisatie</spannedText>
+        <creationDate>Fri May 18 12:33:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13974">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_13968">
+        <hasSlotMention id="EHOST_Instance_13974" />
+        <mentionClass id="Profession">medewerkster bij een consumentenorganisatie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13969" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="732" end="776" />
+        <spannedText>docente economie in het voortgezet onderwijs</spannedText>
+        <creationDate>Fri May 18 12:33:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13975">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_13969">
+        <hasSlotMention id="EHOST_Instance_13975" />
+        <mentionClass id="Profession">docente economie in het voortgezet onderwijs</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13970" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1338" end="1387" />
+        <spannedText>universitair docente aan de Economische Faculteit</spannedText>
+        <creationDate>Fri May 18 12:33:51 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13976">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_13970">
+        <hasSlotMention id="EHOST_Instance_13976" />
+        <mentionClass id="Profession">universitair docente aan de Economische Faculteit</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13971" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2393" end="2428" />
+        <spannedText>bestuurslid van het maandblad Opzij</spannedText>
+        <creationDate>Fri May 18 12:34:38 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13977">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_13971">
+        <hasSlotMention id="EHOST_Instance_13977" />
+        <mentionClass id="Profession">bestuurslid van het maandblad Opzij</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

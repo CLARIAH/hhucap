@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="74014049_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_36696" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="20" end="34" />
+        <spannedText>PvdA-wethouder</spannedText>
+        <creationDate>Mon May 28 15:35:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_36700">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_36696">
+        <hasSlotMention id="EHOST_Instance_36700" />
+        <mentionClass id="Profession">PvdA-wethouder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_36697" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="276" end="291" />
+        <spannedText>PvdA-raadsleden</spannedText>
+        <creationDate>Mon May 28 15:36:11 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_36701">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_36697">
+        <hasSlotMention id="EHOST_Instance_36701" />
+        <mentionClass id="Profession">PvdA-raadsleden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_36698" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="412" end="441" />
+        <spannedText>mr. L.R.J. ridder van Rappard</spannedText>
+        <creationDate>Mon May 28 15:36:25 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_36698">
+        <mentionClass id="Person">mr. L.R.J. ridder van Rappard</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_36699" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="399" end="411" />
+        <spannedText>burgemeester</spannedText>
+        <creationDate>Mon May 28 15:36:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_36702">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_36703">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_36698" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_36699">
+        <hasSlotMention id="EHOST_Instance_36702" />
+        <hasSlotMention id="EHOST_Instance_36703" />
+        <mentionClass id="Profession">burgemeester</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="62620346_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30455" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="0" end="8" />
+        <spannedText>Schilder</spannedText>
+        <creationDate>Fri May 25 20:53:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30460">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30455">
+        <hasSlotMention id="EHOST_Instance_30460" />
+        <mentionClass id="Profession">Schilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30456" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="480" end="486" />
+        <spannedText>leraar</spannedText>
+        <creationDate>Fri May 25 20:56:19 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30461">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30456">
+        <hasSlotMention id="EHOST_Instance_30461" />
+        <mentionClass id="Profession">leraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30457" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="998" end="1044" />
+        <spannedText>'luytenant in dienst der signorie van venetië'</spannedText>
+        <creationDate>Thu Jul 12 16:44:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30462">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30457">
+        <hasSlotMention id="EHOST_Instance_30462" />
+        <mentionClass id="Profession">'luytenant in dienst der signorie van venetië'</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30458" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1128" end="1160" />
+        <spannedText>Officier in dienst van de koning</spannedText>
+        <creationDate>Fri May 25 20:57:20 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30463">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30458">
+        <hasSlotMention id="EHOST_Instance_30463" />
+        <mentionClass id="Profession">Officier in dienst van de koning</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30459" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="826" end="853" />
+        <spannedText>Lid van het antwerpse gilde</spannedText>
+        <creationDate>Thu Jul 12 16:44:15 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30459">
+        <mentionClass id="Profession">Lid van het antwerpse gilde</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

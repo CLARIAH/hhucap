@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="75186020_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_20874" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="159" end="170" />
+        <spannedText>Herv. pred.</spannedText>
+        <creationDate>Tue May 29 10:44:41 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20877">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20874">
+        <hasSlotMention id="EHOST_Instance_20877" />
+        <mentionClass id="Profession">Herv. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20875" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="326" end="338" />
+        <spannedText>dich- teres</spannedText>
+        <creationDate>Tue May 29 10:44:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20878">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20879">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20876" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20875">
+        <hasSlotMention id="EHOST_Instance_20878" />
+        <hasSlotMention id="EHOST_Instance_20879" />
+        <mentionClass id="Profession">dich- teres</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20876" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="278" end="301" />
+        <spannedText>Elisa- beth Maria Post</spannedText>
+        <creationDate>Tue May 29 10:44:58 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20876">
+        <mentionClass id="Person">Elisa- beth Maria Post</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

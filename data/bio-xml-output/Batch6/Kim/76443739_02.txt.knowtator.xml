@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="76443739_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30705" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="917" end="925" />
+        <spannedText>aannemer</spannedText>
+        <creationDate>Sat May 19 19:41:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30712">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30713">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30706" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30705">
+        <hasSlotMention id="EHOST_Instance_30712" />
+        <hasSlotMention id="EHOST_Instance_30713" />
+        <mentionClass id="Profession">aannemer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30706" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="927" end="944" />
+        <spannedText>Jongbloed's vader</spannedText>
+        <creationDate>Sat May 19 19:41:20 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30706">
+        <mentionClass id="Person">Jongbloed's vader</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30707" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1221" end="1265" />
+        <spannedText>reserve-officier ingedeeld bij de infanterie</spannedText>
+        <creationDate>Sat May 19 19:41:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30714">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30707">
+        <hasSlotMention id="EHOST_Instance_30714" />
+        <mentionClass id="Profession">reserve-officier ingedeeld bij de infanterie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30708" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1418" end="1447" />
+        <spannedText>commandant van de vliegschool</spannedText>
+        <creationDate>Sat May 19 19:41:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30715">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30708">
+        <hasSlotMention id="EHOST_Instance_30715" />
+        <mentionClass id="Profession">commandant van de vliegschool</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30709" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2001" end="2012" />
+        <spannedText>onderwijzer</spannedText>
+        <creationDate>Sat May 19 19:42:10 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30716">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30709">
+        <hasSlotMention id="EHOST_Instance_30716" />
+        <mentionClass id="Profession">onderwijzer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30710" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2014" end="2025" />
+        <spannedText>infanterist</spannedText>
+        <creationDate>Sat May 19 19:42:11 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30717">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30710">
+        <hasSlotMention id="EHOST_Instance_30717" />
+        <mentionClass id="Profession">infanterist</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30711" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2039" end="2049" />
+        <spannedText>vliegenier</spannedText>
+        <creationDate>Sat May 19 19:42:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30718">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30711">
+        <hasSlotMention id="EHOST_Instance_30718" />
+        <mentionClass id="Profession">vliegenier</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

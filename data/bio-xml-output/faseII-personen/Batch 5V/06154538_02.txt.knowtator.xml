@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="06154538_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_42893" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="99" end="110" />
+        <spannedText>gifmengster</spannedText>
+        <creationDate>Tue May 08 12:13:10 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42897">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_42898">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_42894" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_42893">
+        <hasSlotMention id="EHOST_Instance_42897" />
+        <hasSlotMention id="EHOST_Instance_42898" />
+        <mentionClass id="Profession">gifmengster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42894" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="82" end="96" />
+        <spannedText>Hester Nepping</spannedText>
+        <creationDate>Tue May 08 12:13:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42894">
+        <mentionClass id="Person">Hester Nepping</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42895" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="213" end="225" />
+        <spannedText>dienstmeisje</spannedText>
+        <creationDate>Tue May 08 12:13:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42899">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_42895">
+        <hasSlotMention id="EHOST_Instance_42899" />
+        <mentionClass id="Profession">dienstmeisje</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42896" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="303" end="313" />
+        <spannedText>herbergier</spannedText>
+        <creationDate>Tue May 08 12:14:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42900">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_42896">
+        <hasSlotMention id="EHOST_Instance_42900" />
+        <mentionClass id="Profession">herbergier</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

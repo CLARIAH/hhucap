@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="04470560_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2801" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="734" end="751" />
+        <spannedText>erfmaarschalkambt</spannedText>
+        <creationDate>Mon May 07 14:58:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2803">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2801">
+        <hasSlotMention id="EHOST_Instance_2803" />
+        <mentionClass id="Profession">erfmaarschalkambt</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2802" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="839" end="869" />
+        <spannedText>commissaris van de ridderschap</spannedText>
+        <creationDate>Mon May 07 14:58:59 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2804">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2802">
+        <hasSlotMention id="EHOST_Instance_2804" />
+        <mentionClass id="Profession">commissaris van de ridderschap</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

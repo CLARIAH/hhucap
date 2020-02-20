@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="02781280_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_20303" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="56" end="68" />
+        <spannedText>geref. pred.</spannedText>
+        <creationDate>Thu May 24 20:48:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20304">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20303">
+        <hasSlotMention id="EHOST_Instance_20304" />
+        <mentionClass id="Profession">geref. pred.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

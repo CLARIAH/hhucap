@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="10442151_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_809" />
+        <annotator id="eHOST_2010">Daan</annotator>
+        <span start="6" end="26" />
+        <spannedText>benedictijner monnik</spannedText>
+        <creationDate>Thu Jun 14 13:58:26 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_813">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_809">
+        <hasSlotMention id="EHOST_Instance_813" />
+        <mentionClass id="Profession">benedictijner monnik</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_810" />
+        <annotator id="eHOST_2010">Daan</annotator>
+        <span start="30" end="38" />
+        <spannedText>bisschop</spannedText>
+        <creationDate>Thu Jun 14 13:58:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_814">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_810">
+        <hasSlotMention id="EHOST_Instance_814" />
+        <mentionClass id="Profession">bisschop</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_811" />
+        <annotator id="eHOST_2010">Daan</annotator>
+        <span start="210" end="216" />
+        <spannedText>monnik</spannedText>
+        <creationDate>Thu Jun 14 13:58:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_815">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_811">
+        <hasSlotMention id="EHOST_Instance_815" />
+        <mentionClass id="Profession">monnik</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_812" />
+        <annotator id="eHOST_2010">Daan</annotator>
+        <span start="472" end="480" />
+        <spannedText>bisschop</spannedText>
+        <creationDate>Thu Jun 14 13:59:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_816">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_812">
+        <hasSlotMention id="EHOST_Instance_816" />
+        <mentionClass id="Profession">bisschop</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

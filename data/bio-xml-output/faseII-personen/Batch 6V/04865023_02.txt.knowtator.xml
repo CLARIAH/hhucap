@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="04865023_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_1068" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="142" end="161" />
+        <spannedText>gouverneur-generaal</spannedText>
+        <creationDate>Fri May 25 17:38:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1072">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1068">
+        <hasSlotMention id="EHOST_Instance_1072" />
+        <mentionClass id="Profession">gouverneur-generaal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1069" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="248" end="266" />
+        <spannedText>luitenant-generaal</spannedText>
+        <creationDate>Mon Jul 09 11:18:28 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1069">
+        <mentionClass id="Profession">luitenant-generaal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1070" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="270" end="359" />
+        <spannedText>chef der land- en zeemagt van de Nederl. bezittingen ten oosten van de Kaap de Goede Hoop</spannedText>
+        <creationDate>Mon Jul 09 11:18:50 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1070">
+        <mentionClass id="Profession">chef der land- en zeemagt van de Nederl. bezittingen ten oosten van de Kaap de Goede Hoop</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1071" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="54" end="90" />
+        <spannedText>trad in Ned. dienst voor de O.-Indië</spannedText>
+        <creationDate>Mon Jul 09 11:19:07 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1071">
+        <mentionClass id="Profession">trad in Ned. dienst voor de O.-Indië</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="04128472_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30600" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="0" end="17" />
+        <spannedText>SCOT (Mr. Thomas)</spannedText>
+        <creationDate>Wed Apr 18 11:36:56 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30600">
+        <mentionClass id="Person">SCOT (Mr. Thomas)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30601" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="216" end="227" />
+        <spannedText>ambassadeur</spannedText>
+        <creationDate>Wed Apr 18 11:37:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30608">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30609">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30602" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30601">
+        <hasSlotMention id="EHOST_Instance_30608" />
+        <hasSlotMention id="EHOST_Instance_30609" />
+        <mentionClass id="Profession">ambassadeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30602" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="228" end="237" />
+        <spannedText>Gondomare</spannedText>
+        <creationDate>Wed Apr 18 11:37:08 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30602">
+        <mentionClass id="Person">Gondomare</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30603" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="259" end="268" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Wed Apr 18 11:37:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30610">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30603">
+        <hasSlotMention id="EHOST_Instance_30610" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30604" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="442" end="449" />
+        <spannedText>soldaat</spannedText>
+        <creationDate>Wed Apr 18 11:37:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30611">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30612">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30605" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30604">
+        <hasSlotMention id="EHOST_Instance_30611" />
+        <hasSlotMention id="EHOST_Instance_30612" />
+        <mentionClass id="Profession">soldaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30605" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="428" end="440" />
+        <spannedText>John Lambert</spannedText>
+        <creationDate>Wed Apr 18 11:37:38 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30605">
+        <mentionClass id="Person">John Lambert</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30606" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="795" end="836" />
+        <spannedText>minister to Sir Charles Morgan's regiment</spannedText>
+        <creationDate>Wed Apr 18 11:38:01 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30613">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30614">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30607" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30606">
+        <hasSlotMention id="EHOST_Instance_30613" />
+        <hasSlotMention id="EHOST_Instance_30614" />
+        <mentionClass id="Profession">minister to Sir Charles Morgan's regiment</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30607" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="774" end="793" />
+        <spannedText>mr. Samuel Bachiler</spannedText>
+        <creationDate>Wed Apr 18 11:38:05 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30607">
+        <mentionClass id="Person">mr. Samuel Bachiler</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

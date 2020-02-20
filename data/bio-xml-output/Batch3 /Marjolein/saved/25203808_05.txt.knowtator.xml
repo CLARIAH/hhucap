@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="25203808_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_9636" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="0" end="5" />
+        <spannedText>LOUIS</spannedText>
+        <creationDate>Tue Apr 24 13:50:07 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9636">
+        <mentionClass id="Person">LOUIS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9637" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="148" end="168" />
+        <spannedText>Konterfytzelschilder</spannedText>
+        <creationDate>Tue Apr 24 13:50:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9638">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9639">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9636" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9637">
+        <hasSlotMention id="EHOST_Instance_9638" />
+        <hasSlotMention id="EHOST_Instance_9639" />
+        <mentionClass id="Profession">Konterfytzelschilder</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

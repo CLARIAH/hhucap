@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88468655_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_193153" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="77" end="90" />
+        <spannedText>Jacob Stuart</spannedText>
+        <creationDate>Thu May 17 16:11:49 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_193153">
+        <mentionClass id="Person">Jacob Stuart</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_193154" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="92" end="99" />
+        <spannedText>koopman</spannedText>
+        <creationDate>Thu May 17 16:11:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_193159">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_193160">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_193153" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_193154">
+        <hasSlotMention id="EHOST_Instance_193159" />
+        <hasSlotMention id="EHOST_Instance_193160" />
+        <mentionClass id="Profession">koopman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_193155" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="181" end="191" />
+        <spannedText>Rem. pred.</spannedText>
+        <creationDate>Thu May 17 16:12:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_193161">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_193155">
+        <hasSlotMention id="EHOST_Instance_193161" />
+        <mentionClass id="Profession">Rem. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_193156" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="600" end="611" />
+        <spannedText>ambtgenoten</spannedText>
+        <creationDate>Thu May 17 16:12:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_193162">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_193163">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_193157" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_193164">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_193158" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_193156">
+        <hasSlotMention id="EHOST_Instance_193162" />
+        <hasSlotMention id="EHOST_Instance_193163" />
+        <hasSlotMention id="EHOST_Instance_193164" />
+        <mentionClass id="Profession">ambtgenoten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_193157" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="612" end="620" />
+        <spannedText>C. Rogge</spannedText>
+        <creationDate>Thu May 17 16:12:54 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_193157">
+        <mentionClass id="Person">C. Rogge</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_193158" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="625" end="636" />
+        <spannedText>B. van Rees</spannedText>
+        <creationDate>Thu May 17 16:12:58 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_193158">
+        <mentionClass id="Person">B. van Rees</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

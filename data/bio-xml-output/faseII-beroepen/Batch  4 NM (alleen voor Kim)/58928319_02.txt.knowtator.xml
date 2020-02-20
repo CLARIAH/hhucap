@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="58928319_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_78271" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="117" end="128" />
+        <spannedText>Karl August</spannedText>
+        <creationDate>Fri Apr 20 12:08:47 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78271">
+        <mentionClass id="Person">Karl August</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78272" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="160" end="188" />
+        <spannedText>Augusta Frederica Wilhelmina</spannedText>
+        <creationDate>Fri Apr 20 12:09:02 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78272">
+        <mentionClass id="Person">Augusta Frederica Wilhelmina</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78273" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="296" end="304" />
+        <spannedText>Carolina</spannedText>
+        <creationDate>Fri Apr 20 12:09:19 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78273">
+        <mentionClass id="Person">Carolina</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78274" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="714" end="749" />
+        <spannedText>kolonel van een regiment infanterie</spannedText>
+        <creationDate>Fri Apr 20 12:10:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78293">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78274">
+        <hasSlotMention id="EHOST_Instance_78293" />
+        <mentionClass id="Profession">kolonel van een regiment infanterie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78275" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="804" end="823" />
+        <spannedText>Wilhelm Ludwig Karl</spannedText>
+        <creationDate>Fri Apr 20 12:10:49 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78275">
+        <mentionClass id="Person">Wilhelm Ludwig Karl</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78276" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="979" end="996" />
+        <spannedText>Friedrich Wilhelm</spannedText>
+        <creationDate>Fri Apr 20 12:12:49 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78276">
+        <mentionClass id="Person">Friedrich Wilhelm</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78277" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1022" end="1053" />
+        <spannedText>kolonel over hetzelfde regiment</spannedText>
+        <creationDate>Fri Apr 20 12:12:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78294">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_78295">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_78276" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_78277">
+        <hasSlotMention id="EHOST_Instance_78294" />
+        <hasSlotMention id="EHOST_Instance_78295" />
+        <mentionClass id="Profession">kolonel over hetzelfde regiment</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78278" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1183" end="1188" />
+        <spannedText>vorst</spannedText>
+        <creationDate>Fri Apr 20 12:13:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78296">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78278">
+        <hasSlotMention id="EHOST_Instance_78296" />
+        <mentionClass id="Profession">vorst</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78279" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1337" end="1345" />
+        <spannedText>Willem V</spannedText>
+        <creationDate>Fri Apr 20 12:13:21 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78279">
+        <mentionClass id="Person">Willem V</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78280" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1407" end="1413" />
+        <spannedText>keizer</spannedText>
+        <creationDate>Fri Apr 20 12:13:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78297">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_78298">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_78281" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_78280">
+        <hasSlotMention id="EHOST_Instance_78297" />
+        <hasSlotMention id="EHOST_Instance_78298" />
+        <mentionClass id="Profession">keizer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78281" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1414" end="1422" />
+        <spannedText>Jozef II</spannedText>
+        <creationDate>Fri Apr 20 12:13:50 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78281">
+        <mentionClass id="Person">Jozef II</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78282" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1527" end="1533" />
+        <spannedText>Keizer</spannedText>
+        <creationDate>Fri Apr 20 12:14:03 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78299">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_78300">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_78281" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_78282">
+        <hasSlotMention id="EHOST_Instance_78299" />
+        <hasSlotMention id="EHOST_Instance_78300" />
+        <mentionClass id="Profession">Keizer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78283" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1569" end="1583" />
+        <spannedText>veldmaarschalk</spannedText>
+        <creationDate>Fri Apr 20 12:14:12 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78283">
+        <mentionClass id="Profession">veldmaarschalk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78284" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2316" end="2333" />
+        <spannedText>Friedrich Wilhelm</spannedText>
+        <creationDate>Fri Apr 20 12:15:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78284">
+        <mentionClass id="Person">Friedrich Wilhelm</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78285" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2348" end="2370" />
+        <spannedText>Karl Friedrich Wilhelm</spannedText>
+        <creationDate>Fri Apr 20 12:15:37 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78285">
+        <mentionClass id="Person">Karl Friedrich Wilhelm</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78286" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="35" end="40" />
+        <spannedText>vorst</spannedText>
+        <creationDate>Thu Jul 05 22:14:10 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78286">
+        <mentionClass id="Profession">vorst</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78287" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="130" end="135" />
+        <spannedText>vorst</spannedText>
+        <creationDate>Thu Jul 05 22:14:16 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78287">
+        <mentionClass id="Profession">vorst</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78288" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="190" end="197" />
+        <spannedText>vorstin</spannedText>
+        <creationDate>Thu Jul 05 22:14:18 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78288">
+        <mentionClass id="Profession">vorstin</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78289" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="499" end="532" />
+        <spannedText>generaal der staatsche infanterie</spannedText>
+        <creationDate>Thu Jul 05 22:14:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78289">
+        <mentionClass id="Profession">generaal der staatsche infanterie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78290" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="568" end="583" />
+        <spannedText>gouverneurschap</spannedText>
+        <creationDate>Thu Jul 05 22:14:35 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78290">
+        <mentionClass id="Profession">gouverneurschap</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78291" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="855" end="861" />
+        <spannedText>proost</spannedText>
+        <creationDate>Thu Jul 05 22:15:39 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78291">
+        <mentionClass id="Profession">proost</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78292" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1354" end="1364" />
+        <spannedText>gouverneur</spannedText>
+        <creationDate>Thu Jul 05 22:15:53 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78292">
+        <mentionClass id="Profession">gouverneur</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

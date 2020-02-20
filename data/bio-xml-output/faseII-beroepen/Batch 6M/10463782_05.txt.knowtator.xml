@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="10463782_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_192741" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="21" end="35" />
+        <spannedText>rechtsgeleerde</spannedText>
+        <creationDate>Thu May 17 16:20:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_192747">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_192741">
+        <hasSlotMention id="EHOST_Instance_192747" />
+        <mentionClass id="Profession">rechtsgeleerde</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_192742" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="93" end="134" />
+        <spannedText>hoogleraar natuur- staats- en volkenrecht</spannedText>
+        <creationDate>Thu May 17 16:20:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_192748">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_192749">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_192743" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_192742">
+        <hasSlotMention id="EHOST_Instance_192748" />
+        <hasSlotMention id="EHOST_Instance_192749" />
+        <mentionClass id="Profession">hoogleraar natuur- staats- en volkenrecht</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_192743" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="82" end="88" />
+        <spannedText>Kemper</spannedText>
+        <creationDate>Thu May 17 16:20:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_192743">
+        <mentionClass id="Person">Kemper</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_192744" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="182" end="192" />
+        <spannedText>hoogleraar</spannedText>
+        <creationDate>Thu May 17 16:20:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_192750">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_192744">
+        <hasSlotMention id="EHOST_Instance_192750" />
+        <mentionClass id="Profession">hoogleraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_192745" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="251" end="267" />
+        <spannedText>gemeenteraadslid</spannedText>
+        <creationDate>Thu May 17 16:20:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_192751">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_192745">
+        <hasSlotMention id="EHOST_Instance_192751" />
+        <mentionClass id="Profession">gemeenteraadslid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_192746" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="281" end="307" />
+        <spannedText>lid van Provinciale Staten</spannedText>
+        <creationDate>Thu May 17 16:20:56 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_192752">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_192746">
+        <hasSlotMention id="EHOST_Instance_192752" />
+        <mentionClass id="Profession">lid van Provinciale Staten</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

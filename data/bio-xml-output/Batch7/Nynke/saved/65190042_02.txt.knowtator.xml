@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="65190042_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_21004" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="203" end="215" />
+        <spannedText>gedeputeerde</spannedText>
+        <creationDate>Tue May 29 11:15:56 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_21008">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_21004">
+        <hasSlotMention id="EHOST_Instance_21008" />
+        <mentionClass id="Profession">gedeputeerde</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21005" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="257" end="279" />
+        <spannedText>woordvoerder onderwijs</spannedText>
+        <creationDate>Tue May 29 11:16:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_21009">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_21005">
+        <hasSlotMention id="EHOST_Instance_21009" />
+        <mentionClass id="Profession">woordvoerder onderwijs</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21006" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="332" end="344" />
+        <spannedText>burgemeester</spannedText>
+        <creationDate>Tue May 29 11:16:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_21010">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_21006">
+        <hasSlotMention id="EHOST_Instance_21010" />
+        <mentionClass id="Profession">burgemeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21007" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="363" end="379" />
+        <spannedText>lid Eerste Kamer</spannedText>
+        <creationDate>Tue May 29 11:16:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_21011">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_21007">
+        <hasSlotMention id="EHOST_Instance_21011" />
+        <mentionClass id="Profession">lid Eerste Kamer</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

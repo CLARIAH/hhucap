@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="82803909_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2121" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="272" end="305" />
+        <spannedText>voorganger in de pinksterbeweging</spannedText>
+        <creationDate>Fri Jun 08 17:15:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2123">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2121">
+        <hasSlotMention id="EHOST_Instance_2123" />
+        <mentionClass id="Profession">voorganger in de pinksterbeweging</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2122" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="2495" end="2505" />
+        <spannedText>voorganger</spannedText>
+        <creationDate>Fri Jun 08 17:17:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2124">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2122">
+        <hasSlotMention id="EHOST_Instance_2124" />
+        <mentionClass id="Profession">voorganger</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

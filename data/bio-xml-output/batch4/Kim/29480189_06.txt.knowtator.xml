@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="29480189_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30961" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="0" end="16" />
+        <spannedText>Alexander Cohen</spannedText>
+        <creationDate>Wed Apr 18 13:27:48 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30961">
+        <mentionClass id="Person">Alexander Cohen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30962" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="87" end="119" />
+        <spannedText>in het Nederlands-Indische Leger</spannedText>
+        <creationDate>Wed Apr 18 13:27:56 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30974">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30962">
+        <hasSlotMention id="EHOST_Instance_30974" />
+        <mentionClass id="Profession">in het Nederlands-Indische Leger</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30963" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="479" end="492" />
+        <spannedText>correspondent</spannedText>
+        <creationDate>Wed Apr 18 13:28:10 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30975">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30963">
+        <hasSlotMention id="EHOST_Instance_30975" />
+        <mentionClass id="Profession">correspondent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30964" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="814" end="823" />
+        <spannedText>winkelier</spannedText>
+        <creationDate>Wed Apr 18 13:28:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30976">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30977">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30965" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30964">
+        <hasSlotMention id="EHOST_Instance_30976" />
+        <hasSlotMention id="EHOST_Instance_30977" />
+        <mentionClass id="Profession">winkelier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30965" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="824" end="841" />
+        <spannedText>Aron Heiman Cohen</spannedText>
+        <creationDate>Wed Apr 18 13:28:24 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30965">
+        <mentionClass id="Person">Aron Heiman Cohen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30966" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1250" end="1260" />
+        <spannedText>leerlooier</spannedText>
+        <creationDate>Wed Apr 18 13:28:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30978">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30966">
+        <hasSlotMention id="EHOST_Instance_30978" />
+        <mentionClass id="Profession">leerlooier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30967" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1318" end="1332" />
+        <spannedText>nam hij dienst</spannedText>
+        <creationDate>Wed Apr 18 13:28:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30979">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30967">
+        <hasSlotMention id="EHOST_Instance_30979" />
+        <mentionClass id="Profession">nam hij dienst</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30968" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1942" end="1951" />
+        <spannedText>corrector</spannedText>
+        <creationDate>Wed Apr 18 13:29:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30980">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30968">
+        <hasSlotMention id="EHOST_Instance_30980" />
+        <mentionClass id="Profession">corrector</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30969" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2142" end="2152" />
+        <spannedText>Willem III</spannedText>
+        <creationDate>Wed Apr 18 13:29:31 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30969">
+        <mentionClass id="Person">Willem III</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30970" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2135" end="2141" />
+        <spannedText>Koning</spannedText>
+        <creationDate>Wed Apr 18 13:29:32 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30981">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30982">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30969" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30970">
+        <hasSlotMention id="EHOST_Instance_30981" />
+        <hasSlotMention id="EHOST_Instance_30982" />
+        <mentionClass id="Profession">Koning</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30971" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="3878" end="3884" />
+        <spannedText>koning</spannedText>
+        <creationDate>Wed Apr 18 13:30:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30983">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30984">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30972" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30971">
+        <hasSlotMention id="EHOST_Instance_30983" />
+        <hasSlotMention id="EHOST_Instance_30984" />
+        <mentionClass id="Profession">koning</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30972" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="3885" end="3895" />
+        <spannedText>Willem III</spannedText>
+        <creationDate>Wed Apr 18 13:30:25 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30972">
+        <mentionClass id="Person">Willem III</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30973" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="4727" end="4740" />
+        <spannedText>correspondent</spannedText>
+        <creationDate>Wed Apr 18 13:30:51 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30985">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30973">
+        <hasSlotMention id="EHOST_Instance_30985" />
+        <mentionClass id="Profession">correspondent</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

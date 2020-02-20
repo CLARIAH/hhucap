@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88475779_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_14000" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="0" end="11" />
+        <spannedText>Aquarellist</spannedText>
+        <creationDate>Fri Apr 06 14:21:43 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_14003">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_14000">
+        <hasSlotMention id="EHOST_Instance_14003" />
+        <mentionClass id="Profession">Aquarellist</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_14001" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="13" end="21" />
+        <spannedText>schilder</spannedText>
+        <creationDate>Fri Apr 06 14:21:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_14004">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_14001">
+        <hasSlotMention id="EHOST_Instance_14004" />
+        <mentionClass id="Profession">schilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_14002" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="23" end="31" />
+        <spannedText>tekenaar</spannedText>
+        <creationDate>Fri Apr 06 14:22:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_14005">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_14002">
+        <hasSlotMention id="EHOST_Instance_14005" />
+        <mentionClass id="Profession">tekenaar</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

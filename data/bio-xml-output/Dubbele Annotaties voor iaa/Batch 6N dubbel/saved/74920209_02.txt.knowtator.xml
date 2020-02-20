@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="74920209_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_68268" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="61" end="67" />
+        <spannedText>Rector</spannedText>
+        <creationDate>Fri May 18 13:47:24 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68272">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68268">
+        <hasSlotMention id="EHOST_Instance_68272" />
+        <mentionClass id="Profession">Rector</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_68269" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="116" end="128" />
+        <spannedText>Geref. pred.</spannedText>
+        <creationDate>Fri May 18 13:47:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68273">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68269">
+        <hasSlotMention id="EHOST_Instance_68273" />
+        <mentionClass id="Profession">Geref. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_68270" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="281" end="293" />
+        <spannedText>geref. pred.</spannedText>
+        <creationDate>Fri May 18 13:47:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68274">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Child" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68270">
+        <hasSlotMention id="EHOST_Instance_68274" />
+        <mentionClass id="Profession">geref. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_68271" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="553" end="569" />
+        <spannedText>geref. predikant</spannedText>
+        <creationDate>Fri May 18 13:48:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68275">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68271">
+        <hasSlotMention id="EHOST_Instance_68275" />
+        <mentionClass id="Profession">geref. predikant</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

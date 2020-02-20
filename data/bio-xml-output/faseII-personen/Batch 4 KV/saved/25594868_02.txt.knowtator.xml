@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="25594868_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_20582" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="231" end="254" />
+        <spannedText>Albert Hendrik Schröder</spannedText>
+        <creationDate>Wed Apr 25 17:29:23 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20582">
+        <mentionClass id="Person">Albert Hendrik Schröder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20583" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="256" end="267" />
+        <spannedText>schoenmaker</spannedText>
+        <creationDate>Wed Apr 25 17:29:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20604">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20605">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20582" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20583">
+        <hasSlotMention id="EHOST_Instance_20604" />
+        <hasSlotMention id="EHOST_Instance_20605" />
+        <mentionClass id="Profession">schoenmaker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20584" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="2975" end="2986" />
+        <spannedText>bestuurslid</spannedText>
+        <creationDate>Wed Apr 25 17:32:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20606">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20584">
+        <hasSlotMention id="EHOST_Instance_20606" />
+        <mentionClass id="Profession">bestuurslid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20585" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="6611" end="6622" />
+        <span start="6540" end="6596" />
+        <spannedText>Van de in 1882 gevormde Sociaal-Democratische Bond (SDB) ... bestuurslid</spannedText>
+        <creationDate>Wed Apr 25 17:35:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20607">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20585">
+        <hasSlotMention id="EHOST_Instance_20607" />
+        <mentionClass id="Profession">Van de in 1882 gevormde Sociaal-Democratische Bond (SDB) ... bestuurslid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20586" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="9171" end="9181" />
+        <spannedText>kleermaker</spannedText>
+        <creationDate>Wed Apr 25 17:37:32 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20608">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20586">
+        <hasSlotMention id="EHOST_Instance_20608" />
+        <mentionClass id="Profession">kleermaker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20587" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="9274" end="9300" />
+        <spannedText>lid van den Centralen Raad</spannedText>
+        <creationDate>Wed Apr 25 17:38:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20609">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20587">
+        <hasSlotMention id="EHOST_Instance_20609" />
+        <mentionClass id="Profession">lid van den Centralen Raad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20588" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="440" end="450" />
+        <spannedText>kleermaker</spannedText>
+        <creationDate>Sat Jun 30 11:17:24 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20610">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20588">
+        <hasSlotMention id="EHOST_Instance_20610" />
+        <mentionClass id="Profession">kleermaker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20589" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="459" end="466" />
+        <spannedText>patroon</spannedText>
+        <creationDate>Sat Jun 30 11:17:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20611">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20612">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20602" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20589">
+        <hasSlotMention id="EHOST_Instance_20611" />
+        <hasSlotMention id="EHOST_Instance_20612" />
+        <mentionClass id="Profession">patroon</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20590" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1189" end="1244" />
+        <spannedText>traden zij toe tot de vrijdenkersvereniging De Dageraad</spannedText>
+        <creationDate>Sat Jun 30 11:18:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20613">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20614">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20603" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20590">
+        <hasSlotMention id="EHOST_Instance_20613" />
+        <hasSlotMention id="EHOST_Instance_20614" />
+        <mentionClass id="Profession">traden zij toe tot de vrijdenkersvereniging De Dageraad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20591" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1433" end="1453" />
+        <spannedText>machineriewerklieden</spannedText>
+        <creationDate>Sat Jun 30 11:18:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20615">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20591">
+        <hasSlotMention id="EHOST_Instance_20615" />
+        <mentionClass id="Profession">machineriewerklieden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20592" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1580" end="1590" />
+        <spannedText>werklieden</spannedText>
+        <creationDate>Sat Jun 30 11:18:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20616">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20592">
+        <hasSlotMention id="EHOST_Instance_20616" />
+        <mentionClass id="Profession">werklieden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20593" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2181" end="2235" />
+        <spannedText>kwam in het bestuur van een coöperatieve broodbakkerij</spannedText>
+        <creationDate>Sat Jun 30 11:20:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20617">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20593">
+        <hasSlotMention id="EHOST_Instance_20617" />
+        <mentionClass id="Profession">kwam in het bestuur van een coöperatieve broodbakkerij</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20594" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3610" end="3620" />
+        <spannedText>werklieden</spannedText>
+        <creationDate>Sat Jun 30 11:21:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20618">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20594">
+        <hasSlotMention id="EHOST_Instance_20618" />
+        <mentionClass id="Profession">werklieden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20595" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3971" end="4016" />
+        <spannedText>lid was van het bestuur van de Internationale</spannedText>
+        <creationDate>Sat Jun 30 11:22:10 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20619">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20595">
+        <hasSlotMention id="EHOST_Instance_20619" />
+        <mentionClass id="Profession">lid was van het bestuur van de Internationale</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20596" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="4540" end="4550" />
+        <spannedText>bestuurder</spannedText>
+        <creationDate>Sat Jun 30 11:22:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20620">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20596">
+        <hasSlotMention id="EHOST_Instance_20620" />
+        <mentionClass id="Profession">bestuurder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20597" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="4768" end="4778" />
+        <spannedText>werklieden</spannedText>
+        <creationDate>Sat Jun 30 11:22:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20621">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20597">
+        <hasSlotMention id="EHOST_Instance_20621" />
+        <mentionClass id="Profession">werklieden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20598" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="5655" end="5715" />
+        <spannedText>bestuurslid van de Amsterdamse vereniging Algemeen Stemrecht</spannedText>
+        <creationDate>Sat Jun 30 11:23:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20622">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20598">
+        <hasSlotMention id="EHOST_Instance_20622" />
+        <mentionClass id="Profession">bestuurslid van de Amsterdamse vereniging Algemeen Stemrecht</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20599" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="6679" end="6771" />
+        <spannedText>afdelingsbestuurslid van de aan de SDB gelieerde bond van kleermakers Voor Allen, Door Allen</spannedText>
+        <creationDate>Sat Jun 30 11:24:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20623">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20599">
+        <hasSlotMention id="EHOST_Instance_20623" />
+        <mentionClass id="Profession">afdelingsbestuurslid van de aan de SDB gelieerde bond van kleermakers Voor Allen, Door Allen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20600" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7405" end="7502" />
+        <spannedText>voorzitter van de Amsterdamse afdeling van de Nederlandsche Bond voor Algemeen Kies- en Stemrecht</spannedText>
+        <creationDate>Sat Jun 30 11:25:19 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20624">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20600">
+        <hasSlotMention id="EHOST_Instance_20624" />
+        <mentionClass id="Profession">voorzitter van de Amsterdamse afdeling van de Nederlandsche Bond voor Algemeen Kies- en Stemrecht</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20601" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="9600" end="9659" />
+        <spannedText>lid van de Centrale Raad van de (inmiddels) Socialistenbond</spannedText>
+        <creationDate>Sat Jun 30 11:26:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20625">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20601">
+        <hasSlotMention id="EHOST_Instance_20625" />
+        <mentionClass id="Profession">lid van de Centrale Raad van de (inmiddels) Socialistenbond</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20602" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="485" end="488" />
+        <spannedText>wie</spannedText>
+        <creationDate>Mon Jul 02 15:09:35 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20602">
+        <mentionClass id="Person">wie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20603" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="1317" end="1320" />
+        <spannedText>zij</spannedText>
+        <creationDate>Mon Jul 02 15:10:30 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20603">
+        <mentionClass id="Person">zij</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="85201383_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_10256" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="0" end="22" />
+        <spannedText>Anthonie Ernst Reuther</spannedText>
+        <creationDate>Thu Apr 12 21:12:38 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_10256">
+        <mentionClass id="Person">Anthonie Ernst Reuther</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_10257" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="108" end="117" />
+        <spannedText>politicus</spannedText>
+        <creationDate>Thu Apr 12 21:12:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_10263">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_10264">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_10256" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_10257">
+        <hasSlotMention id="EHOST_Instance_10263" />
+        <hasSlotMention id="EHOST_Instance_10264" />
+        <mentionClass id="Profession">politicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_10258" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="160" end="168" />
+        <spannedText>officier</spannedText>
+        <creationDate>Thu Apr 12 21:13:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_10265">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_10266">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_10256" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_10258">
+        <hasSlotMention id="EHOST_Instance_10265" />
+        <hasSlotMention id="EHOST_Instance_10266" />
+        <mentionClass id="Profession">officier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_10259" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="215" end="234" />
+        <spannedText>minister van Oorlog</spannedText>
+        <creationDate>Thu Apr 12 21:13:43 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_10267">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_10268">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_10256" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_10259">
+        <hasSlotMention id="EHOST_Instance_10267" />
+        <hasSlotMention id="EHOST_Instance_10268" />
+        <mentionClass id="Profession">minister van Oorlog</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_10260" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="249" end="264" />
+        <spannedText>Tweede Kamerlid</spannedText>
+        <creationDate>Thu Apr 12 21:13:51 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_10269">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_10270">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_10256" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_10260">
+        <hasSlotMention id="EHOST_Instance_10269" />
+        <hasSlotMention id="EHOST_Instance_10270" />
+        <mentionClass id="Profession">Tweede Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_10261" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="389" end="397" />
+        <spannedText>Kamerlid</spannedText>
+        <creationDate>Thu Apr 12 21:14:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_10271">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_10272">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_10256" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_10261">
+        <hasSlotMention id="EHOST_Instance_10271" />
+        <hasSlotMention id="EHOST_Instance_10272" />
+        <mentionClass id="Profession">Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_10262" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="563" end="571" />
+        <spannedText>officier</spannedText>
+        <creationDate>Sat Jun 23 12:18:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_10262">
+        <mentionClass id="Profession">officier</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

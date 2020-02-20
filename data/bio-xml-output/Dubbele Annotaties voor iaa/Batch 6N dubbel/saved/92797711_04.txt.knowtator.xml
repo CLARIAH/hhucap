@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="92797711_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_69006" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="54" end="61" />
+        <spannedText>notaris</spannedText>
+        <creationDate>Sat May 19 14:49:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_69013">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_69006">
+        <hasSlotMention id="EHOST_Instance_69013" />
+        <mentionClass id="Profession">notaris</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_69007" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="65" end="77" />
+        <spannedText>burgemeester</spannedText>
+        <creationDate>Sat May 19 14:49:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_69014">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_69007">
+        <hasSlotMention id="EHOST_Instance_69014" />
+        <mentionClass id="Profession">burgemeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_69008" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="224" end="233" />
+        <spannedText>ingenieur</spannedText>
+        <creationDate>Sat May 19 14:49:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_69015">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_69008">
+        <hasSlotMention id="EHOST_Instance_69015" />
+        <mentionClass id="Profession">ingenieur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_69009" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="632" end="641" />
+        <spannedText>ingenieur</spannedText>
+        <creationDate>Sat May 19 14:49:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_69016">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_69009">
+        <hasSlotMention id="EHOST_Instance_69016" />
+        <mentionClass id="Profession">ingenieur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_69010" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="909" end="920" />
+        <spannedText>kunstenaars</spannedText>
+        <creationDate>Sat May 19 14:50:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_69017">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_69010">
+        <hasSlotMention id="EHOST_Instance_69017" />
+        <mentionClass id="Profession">kunstenaars</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_69011" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="1389" end="1463" />
+        <spannedText>lid van het Nationaal Comité voor Moederbescherming en Sexueele Hervorming</spannedText>
+        <creationDate>Tue Sep 04 16:27:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_69018">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_69011">
+        <hasSlotMention id="EHOST_Instance_69018" />
+        <mentionClass id="Profession">lid van het Nationaal Comité voor Moederbescherming en Sexueele Hervorming</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_69012" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="1389" end="1392" />
+        <span start="1479" end="1519" />
+        <spannedText>lid ... van de Vereeniging voor Vrouwenkiesrecht</spannedText>
+        <creationDate>Tue Sep 04 16:27:59 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_69019">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_69012">
+        <hasSlotMention id="EHOST_Instance_69019" />
+        <mentionClass id="Profession">lid ... van de Vereeniging voor Vrouwenkiesrecht</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

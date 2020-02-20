@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="48057875_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_31415" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="6" end="13" />
+        <spannedText>Juriste</spannedText>
+        <creationDate>Wed Apr 18 15:02:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31420">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31415">
+        <hasSlotMention id="EHOST_Instance_31420" />
+        <mentionClass id="Profession">Juriste</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31416" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="197" end="214" />
+        <spannedText>Anneke van Baalen</spannedText>
+        <creationDate>Wed Apr 18 15:02:24 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31416">
+        <mentionClass id="Person">Anneke van Baalen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31417" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="329" end="337" />
+        <spannedText>advocaat</spannedText>
+        <creationDate>Wed Apr 18 15:02:28 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31421">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31417">
+        <hasSlotMention id="EHOST_Instance_31421" />
+        <mentionClass id="Profession">advocaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31418" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1729" end="1736" />
+        <spannedText>auteurs</spannedText>
+        <creationDate>Wed Apr 18 15:03:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31422">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31418">
+        <hasSlotMention id="EHOST_Instance_31422" />
+        <mentionClass id="Profession">auteurs</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31419" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2343" end="2413" />
+        <spannedText>werkzaam aan de Juridische Faculteit van de Universiteit van Amsterdam</spannedText>
+        <creationDate>Wed Apr 18 15:03:28 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31423">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31419">
+        <hasSlotMention id="EHOST_Instance_31423" />
+        <mentionClass id="Profession">werkzaam aan de Juridische Faculteit van de Universiteit van Amsterdam</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

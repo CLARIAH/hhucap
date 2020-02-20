@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="82803909_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_61220" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="84" end="100" />
+        <spannedText>Coenraad Roelofs</spannedText>
+        <creationDate>Sat May 26 14:44:26 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_61220">
+        <mentionClass id="Person">Coenraad Roelofs</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61221" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="102" end="112" />
+        <spannedText>landbouwer</spannedText>
+        <creationDate>Sat May 26 14:44:28 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_61227">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_61228">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_61220" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_61221">
+        <hasSlotMention id="EHOST_Instance_61227" />
+        <hasSlotMention id="EHOST_Instance_61228" />
+        <mentionClass id="Profession">landbouwer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61222" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="189" end="212" />
+        <spannedText>Soldaat Leger des Heils</spannedText>
+        <creationDate>Sat May 26 14:44:41 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_61229">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_61222">
+        <hasSlotMention id="EHOST_Instance_61229" />
+        <mentionClass id="Profession">Soldaat Leger des Heils</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61223" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="243" end="251" />
+        <spannedText>Kapitein</spannedText>
+        <creationDate>Sat May 26 14:44:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_61230">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_61223">
+        <hasSlotMention id="EHOST_Instance_61230" />
+        <mentionClass id="Profession">Kapitein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61224" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="399" end="421" />
+        <spannedText>gouverneur landkolonie</spannedText>
+        <creationDate>Sat May 26 14:45:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_61231">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_61224">
+        <hasSlotMention id="EHOST_Instance_61231" />
+        <mentionClass id="Profession">gouverneur landkolonie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61225" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="459" end="490" />
+        <spannedText>Hoofd manne- lijke kweekschool</spannedText>
+        <creationDate>Sat May 26 14:45:11 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_61232">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_61225">
+        <hasSlotMention id="EHOST_Instance_61232" />
+        <mentionClass id="Profession">Hoofd manne- lijke kweekschool</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61226" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="582" end="618" />
+        <spannedText>Leider van de Ned. pinksterbeweging</spannedText>
+        <creationDate>Mon Jul 30 15:03:49 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_61226">
+        <mentionClass id="Profession">Leider van de Ned. pinksterbeweging</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

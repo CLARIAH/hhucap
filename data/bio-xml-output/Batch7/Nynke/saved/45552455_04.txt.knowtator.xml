@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="45552455_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_20305" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="36" end="45" />
+        <spannedText>fotografe</spannedText>
+        <creationDate>Thu May 24 20:48:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20310">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20305">
+        <hasSlotMention id="EHOST_Instance_20310" />
+        <mentionClass id="Profession">fotografe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20306" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="184" end="195" />
+        <spannedText>Josef Pécsi</spannedText>
+        <creationDate>Thu May 24 20:48:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20306">
+        <mentionClass id="Person">Josef Pécsi</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20307" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="209" end="218" />
+        <spannedText>fotograaf</spannedText>
+        <creationDate>Thu May 24 20:48:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20311">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20312">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20306" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20307">
+        <hasSlotMention id="EHOST_Instance_20311" />
+        <hasSlotMention id="EHOST_Instance_20312" />
+        <mentionClass id="Profession">fotograaf</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20308" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="451" end="460" />
+        <spannedText>fotograaf</spannedText>
+        <creationDate>Thu May 24 20:48:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20313">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20314">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20309" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20308">
+        <hasSlotMention id="EHOST_Instance_20313" />
+        <hasSlotMention id="EHOST_Instance_20314" />
+        <mentionClass id="Profession">fotograaf</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20309" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="461" end="474" />
+        <spannedText>John Fernhout</spannedText>
+        <creationDate>Thu May 24 20:48:48 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20309">
+        <mentionClass id="Person">John Fernhout</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

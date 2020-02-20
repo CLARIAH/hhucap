@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="34874338_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_19022" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="71" end="78" />
+        <spannedText>pachter</spannedText>
+        <creationDate>Tue May 08 11:44:19 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_19024">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_19022">
+        <hasSlotMention id="EHOST_Instance_19024" />
+        <mentionClass id="Profession">pachter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19023" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="635" end="653" />
+        <spannedText>geschiedschrijvers</spannedText>
+        <creationDate>Tue May 08 11:44:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_19025">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_19023">
+        <hasSlotMention id="EHOST_Instance_19025" />
+        <mentionClass id="Profession">geschiedschrijvers</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

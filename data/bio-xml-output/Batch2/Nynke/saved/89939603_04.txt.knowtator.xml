@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="89939603_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3960" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="12" end="22" />
+        <spannedText>Jonkvrouwe</spannedText>
+        <creationDate>Wed Apr 04 11:31:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3965">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_3966">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_3961" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3960">
+        <hasSlotMention id="EHOST_Instance_3965" />
+        <hasSlotMention id="EHOST_Instance_3966" />
+        <mentionClass id="Profession">Jonkvrouwe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3961" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="36" end="69" />
+        <spannedText>Cornelia Maria van Asch van Wijck</spannedText>
+        <creationDate>Wed Apr 04 11:31:42 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3961">
+        <mentionClass id="Person">Cornelia Maria van Asch van Wijck</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3962" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="266" end="278" />
+        <spannedText>gouvernantes</spannedText>
+        <creationDate>Wed Apr 04 11:32:06 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3962">
+        <mentionClass id="Person">gouvernantes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3963" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="647" end="684" />
+        <spannedText>presidente van de internationale YWCA</spannedText>
+        <creationDate>Wed Apr 04 11:32:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3967">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_3968">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_3961" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3963">
+        <hasSlotMention id="EHOST_Instance_3967" />
+        <hasSlotMention id="EHOST_Instance_3968" />
+        <mentionClass id="Profession">presidente van de internationale YWCA</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3964" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="802" end="873" />
+        <spannedText>presidente van de vrouwenafdeling van de Nederlandse Gereformeerde Kerk</spannedText>
+        <creationDate>Wed Apr 04 11:33:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3969">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_3970">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_3961" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3964">
+        <hasSlotMention id="EHOST_Instance_3969" />
+        <hasSlotMention id="EHOST_Instance_3970" />
+        <mentionClass id="Profession">presidente van de vrouwenafdeling van de Nederlandse Gereformeerde Kerk</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="24977829_23.txt">
+    <annotation>
+        <mention id="EHOST_Instance_76830" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="53" end="62" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Tue May 01 13:27:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76833">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_76834">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_76832" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_76830">
+        <hasSlotMention id="EHOST_Instance_76833" />
+        <hasSlotMention id="EHOST_Instance_76834" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76831" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="66" end="73" />
+        <spannedText>dichter</spannedText>
+        <creationDate>Tue May 01 13:27:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76835">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_76836">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_76832" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_76831">
+        <hasSlotMention id="EHOST_Instance_76835" />
+        <hasSlotMention id="EHOST_Instance_76836" />
+        <mentionClass id="Profession">dichter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76832" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="12" end="39" />
+        <spannedText>Jan Jakob Lodewijk ten Kate</spannedText>
+        <creationDate>Tue May 01 13:28:05 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_76832">
+        <mentionClass id="Person">Jan Jakob Lodewijk ten Kate</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="08528481_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_16486" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="40" end="68" />
+        <spannedText>handelaar in goud en juwelen</spannedText>
+        <creationDate>Wed May 02 20:33:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_16490">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_16486">
+        <hasSlotMention id="EHOST_Instance_16490" />
+        <mentionClass id="Profession">handelaar in goud en juwelen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_16487" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="73" end="108" />
+        <spannedText>eigenaar van een groot bankiershuis</spannedText>
+        <creationDate>Wed May 02 20:34:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_16491">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_16487">
+        <hasSlotMention id="EHOST_Instance_16491" />
+        <mentionClass id="Profession">eigenaar van een groot bankiershuis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_16488" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1043" end="1062" />
+        <spannedText>Stanislaus Augustus</spannedText>
+        <creationDate>Wed May 02 20:34:48 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_16488">
+        <mentionClass id="Person">Stanislaus Augustus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_16489" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1024" end="1030" />
+        <spannedText>Keizer</spannedText>
+        <creationDate>Mon Jul 09 13:20:25 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_16489">
+        <mentionClass id="Profession">Keizer</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

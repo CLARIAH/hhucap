@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="92185112_14.txt">
+    <annotation>
+        <mention id="EHOST_Instance_6180" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="12" end="38" />
+        <spannedText>Wilhelmus (Willem) Sluiter</spannedText>
+        <creationDate>Tue Mar 13 15:15:36 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_6180">
+        <mentionClass id="Person">Wilhelmus (Willem) Sluiter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6181" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="52" end="61" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Tue Mar 13 15:15:42 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6183">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_6184">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_6180" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_6181">
+        <hasSlotMention id="EHOST_Instance_6183" />
+        <hasSlotMention id="EHOST_Instance_6184" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6182" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="88" end="95" />
+        <spannedText>dichter</spannedText>
+        <creationDate>Tue Mar 13 15:15:54 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6185">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_6186">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_6180" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_6182">
+        <hasSlotMention id="EHOST_Instance_6185" />
+        <hasSlotMention id="EHOST_Instance_6186" />
+        <mentionClass id="Profession">dichter</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

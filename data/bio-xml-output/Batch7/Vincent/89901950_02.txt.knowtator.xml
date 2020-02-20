@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="89901950_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_11673" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="201" end="207" />
+        <spannedText>Keizer</spannedText>
+        <creationDate>Wed May 30 17:09:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11684">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_11685">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_11674" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11673">
+        <hasSlotMention id="EHOST_Instance_11684" />
+        <hasSlotMention id="EHOST_Instance_11685" />
+        <mentionClass id="Profession">Keizer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11674" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="208" end="215" />
+        <spannedText>Karel V</spannedText>
+        <creationDate>Wed May 30 17:09:50 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11674">
+        <mentionClass id="Person">Karel V</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11675" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="180" end="215" />
+        <spannedText>eerste Kamerheer van Keizer Karel V</spannedText>
+        <creationDate>Wed May 30 17:11:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11686">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_11675">
+        <hasSlotMention id="EHOST_Instance_11686" />
+        <mentionClass id="Profession">eerste Kamerheer van Keizer Karel V</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11676" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="402" end="418" />
+        <spannedText>Heer van Walhain</spannedText>
+        <creationDate>Wed May 30 17:11:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11687">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Child" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_11688">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_11677" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11676">
+        <hasSlotMention id="EHOST_Instance_11687" />
+        <hasSlotMention id="EHOST_Instance_11688" />
+        <mentionClass id="Profession">Heer van Walhain</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11677" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="397" end="400" />
+        <spannedText>Jan</spannedText>
+        <creationDate>Wed May 30 17:11:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11677">
+        <mentionClass id="Person">Jan</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11678" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="487" end="503" />
+        <spannedText>Heer van Beveren</spannedText>
+        <creationDate>Wed May 30 17:11:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11689">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_11690">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_11679" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11678">
+        <hasSlotMention id="EHOST_Instance_11689" />
+        <hasSlotMention id="EHOST_Instance_11690" />
+        <mentionClass id="Profession">Heer van Beveren</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11679" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="464" end="485" />
+        <spannedText>Filips van Bourgondië</spannedText>
+        <creationDate>Wed May 30 17:11:58 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11679">
+        <mentionClass id="Person">Filips van Bourgondië</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11680" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="614" end="630" />
+        <spannedText>Heer van Beveren</spannedText>
+        <creationDate>Wed May 30 17:12:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11691">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_11692">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_11681" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11680">
+        <hasSlotMention id="EHOST_Instance_11691" />
+        <hasSlotMention id="EHOST_Instance_11692" />
+        <mentionClass id="Profession">Heer van Beveren</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11681" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="592" end="613" />
+        <spannedText>Adolph van Bourgondie</spannedText>
+        <creationDate>Wed May 30 17:12:18 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11681">
+        <mentionClass id="Person">Adolph van Bourgondie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11682" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="670" end="696" />
+        <spannedText>Graaf van Nassau-Wiesbaden</spannedText>
+        <creationDate>Wed May 30 17:12:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11693">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Child" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_11694">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_11683" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11682">
+        <hasSlotMention id="EHOST_Instance_11693" />
+        <hasSlotMention id="EHOST_Instance_11694" />
+        <mentionClass id="Profession">Graaf van Nassau-Wiesbaden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11683" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="662" end="668" />
+        <spannedText>Filips</spannedText>
+        <creationDate>Wed May 30 17:12:44 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11683">
+        <mentionClass id="Person">Filips</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

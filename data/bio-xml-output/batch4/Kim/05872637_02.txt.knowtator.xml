@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="05872637_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30657" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="0" end="18" />
+        <spannedText>Alexander Altmann</spannedText>
+        <creationDate>Wed Apr 18 11:48:08 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30657">
+        <mentionClass id="Person">Alexander Altmann</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30658" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="119" end="126" />
+        <spannedText>rabbijn</spannedText>
+        <creationDate>Wed Apr 18 11:48:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30663">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30658">
+        <hasSlotMention id="EHOST_Instance_30663" />
+        <mentionClass id="Profession">rabbijn</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30659" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="164" end="190" />
+        <spannedText>docent godsdienstfilosofie</spannedText>
+        <creationDate>Wed Apr 18 11:48:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30664">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30659">
+        <hasSlotMention id="EHOST_Instance_30664" />
+        <mentionClass id="Profession">docent godsdienstfilosofie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30660" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="299" end="354" />
+        <spannedText>hoogleraar in de joodse filosofie en ideeengeschiedenis</spannedText>
+        <creationDate>Wed Apr 18 11:48:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30665">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30660">
+        <hasSlotMention id="EHOST_Instance_30665" />
+        <mentionClass id="Profession">hoogleraar in de joodse filosofie en ideeengeschiedenis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30661" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="468" end="476" />
+        <spannedText>filosoof</spannedText>
+        <creationDate>Wed Apr 18 11:48:56 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30666">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30667">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30662" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30661">
+        <hasSlotMention id="EHOST_Instance_30666" />
+        <hasSlotMention id="EHOST_Instance_30667" />
+        <mentionClass id="Profession">filosoof</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30662" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="477" end="494" />
+        <spannedText>Moses Mendelssohn</spannedText>
+        <creationDate>Wed Apr 18 11:48:57 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30662">
+        <mentionClass id="Person">Moses Mendelssohn</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

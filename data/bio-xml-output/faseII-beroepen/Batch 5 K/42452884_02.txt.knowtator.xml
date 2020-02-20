@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="42452884_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_16697" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="150" end="155" />
+        <spannedText>abdis</spannedText>
+        <creationDate>Thu May 03 12:15:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_16699">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Child" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_16700">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_16698" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_16697">
+        <hasSlotMention id="EHOST_Instance_16699" />
+        <hasSlotMention id="EHOST_Instance_16700" />
+        <mentionClass id="Profession">abdis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_16698" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="156" end="180" />
+        <spannedText>Margaretha van Brederode</spannedText>
+        <creationDate>Thu May 03 12:15:51 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_16698">
+        <mentionClass id="Person">Margaretha van Brederode</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

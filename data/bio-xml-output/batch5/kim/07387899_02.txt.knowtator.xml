@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="07387899_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_22647" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="162" end="175" />
+        <spannedText>stadsadvocaat</spannedText>
+        <creationDate>Wed May 02 20:32:24 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22650">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22647">
+        <hasSlotMention id="EHOST_Instance_22650" />
+        <mentionClass id="Profession">stadsadvocaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22648" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="662" end="699" />
+        <spannedText>conservatrice in het museum van Artis</spannedText>
+        <creationDate>Wed May 02 20:32:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22651">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22648">
+        <hasSlotMention id="EHOST_Instance_22651" />
+        <mentionClass id="Profession">conservatrice in het museum van Artis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22649" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="725" end="745" />
+        <spannedText>zoölogisch onderzoek</spannedText>
+        <creationDate>Wed May 02 20:33:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22652">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22649">
+        <hasSlotMention id="EHOST_Instance_22652" />
+        <mentionClass id="Profession">zoölogisch onderzoek</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

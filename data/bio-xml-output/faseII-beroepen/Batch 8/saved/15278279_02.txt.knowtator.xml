@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="15278279_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2385" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="107" end="123" />
+        <spannedText>onderwijsmanager</spannedText>
+        <creationDate>Sun Jun 10 22:09:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2389">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2385">
+        <hasSlotMention id="EHOST_Instance_2389" />
+        <mentionClass id="Profession">onderwijsmanager</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2386" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="143" end="155" />
+        <spannedText>burgemeester</spannedText>
+        <creationDate>Sun Jun 10 22:09:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2390">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2386">
+        <hasSlotMention id="EHOST_Instance_2390" />
+        <mentionClass id="Profession">burgemeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2387" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="295" end="322" />
+        <spannedText>staatssecretaris van Oorlog</spannedText>
+        <creationDate>Sun Jun 10 22:10:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2391">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2387">
+        <hasSlotMention id="EHOST_Instance_2391" />
+        <mentionClass id="Profession">staatssecretaris van Oorlog</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2388" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="210" end="219" />
+        <spannedText>waarnemer</spannedText>
+        <creationDate>Mon Jul 30 14:37:49 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2388">
+        <mentionClass id="Profession">waarnemer</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

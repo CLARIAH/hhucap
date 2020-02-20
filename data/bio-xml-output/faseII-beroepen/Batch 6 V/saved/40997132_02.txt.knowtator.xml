@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="40997132_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_49090" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="40" end="54" />
+        <spannedText>Konstschilders</spannedText>
+        <creationDate>Thu May 24 16:28:24 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_49093">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_49090">
+        <hasSlotMention id="EHOST_Instance_49093" />
+        <mentionClass id="Profession">Konstschilders</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_49091" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="118" end="133" />
+        <spannedText>Beeldenschilder</spannedText>
+        <creationDate>Thu May 24 16:28:29 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_49094">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_49091">
+        <hasSlotMention id="EHOST_Instance_49094" />
+        <mentionClass id="Profession">Beeldenschilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_49092" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="258" end="276" />
+        <spannedText>Landschapschilders</spannedText>
+        <creationDate>Tue Jul 10 10:43:09 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_49092">
+        <mentionClass id="Profession">Landschapschilders</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

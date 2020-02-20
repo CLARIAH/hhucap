@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="47486973_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_23728" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="101" end="181" />
+        <spannedText>rentmeester-generaal der Staten van Brabant in het kwartier van 's Hertogenbosch</spannedText>
+        <creationDate>Wed Apr 25 14:36:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23735">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_23736">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_23729" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23728">
+        <hasSlotMention id="EHOST_Instance_23735" />
+        <hasSlotMention id="EHOST_Instance_23736" />
+        <mentionClass id="Profession">rentmeester-generaal der Staten van Brabant in het kwartier van 's Hertogenbosch</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23729" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="91" end="99" />
+        <spannedText>Jacob B.</spannedText>
+        <creationDate>Wed Apr 25 14:36:04 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23729">
+        <mentionClass id="Person">Jacob B.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23730" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="274" end="296" />
+        <spannedText>gouverneur van Heusden</spannedText>
+        <creationDate>Wed Apr 25 14:36:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23737">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23730">
+        <hasSlotMention id="EHOST_Instance_23737" />
+        <mentionClass id="Profession">gouverneur van Heusden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23731" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="412" end="417" />
+        <spannedText>Prins</spannedText>
+        <creationDate>Wed Apr 25 14:36:36 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23738">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_23739">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_23732" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23731">
+        <hasSlotMention id="EHOST_Instance_23738" />
+        <hasSlotMention id="EHOST_Instance_23739" />
+        <mentionClass id="Profession">Prins</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23732" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="418" end="426" />
+        <spannedText>Willem I</spannedText>
+        <creationDate>Wed Apr 25 14:36:45 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23732">
+        <mentionClass id="Person">Willem I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23733" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="453" end="474" />
+        <spannedText>gouverneur van Muiden</spannedText>
+        <creationDate>Wed Apr 25 14:36:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23740">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23733">
+        <hasSlotMention id="EHOST_Instance_23740" />
+        <mentionClass id="Profession">gouverneur van Muiden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23734" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="611" end="618" />
+        <spannedText>kolonel</spannedText>
+        <creationDate>Wed Apr 25 14:36:59 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23741">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23734">
+        <hasSlotMention id="EHOST_Instance_23741" />
+        <mentionClass id="Profession">kolonel</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

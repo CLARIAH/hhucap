@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="46267605_18.txt">
+    <annotation>
+        <mention id="EHOST_Instance_68914" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="45" end="53" />
+        <spannedText>theoloog</spannedText>
+        <creationDate>Sat May 19 14:31:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68916">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68914">
+        <hasSlotMention id="EHOST_Instance_68916" />
+        <mentionClass id="Profession">theoloog</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_68915" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="57" end="84" />
+        <spannedText>hoogleraar kerkgeschiedenis</spannedText>
+        <creationDate>Sat May 19 14:31:32 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68917">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68915">
+        <hasSlotMention id="EHOST_Instance_68917" />
+        <mentionClass id="Profession">hoogleraar kerkgeschiedenis</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

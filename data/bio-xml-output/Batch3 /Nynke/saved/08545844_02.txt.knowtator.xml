@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="08545844_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5730" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="177" end="224" />
+        <spannedText>vertegenwoordiger namens de Algemene Rekenkamer</spannedText>
+        <creationDate>Thu Apr 12 16:31:10 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5733">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5730">
+        <hasSlotMention id="EHOST_Instance_5733" />
+        <mentionClass id="Profession">vertegenwoordiger namens de Algemene Rekenkamer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5731" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="407" end="444" />
+        <spannedText>secretaris van de Algemene Rekenkamer</spannedText>
+        <creationDate>Thu Apr 12 16:31:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5734">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5731">
+        <hasSlotMention id="EHOST_Instance_5734" />
+        <mentionClass id="Profession">secretaris van de Algemene Rekenkamer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5732" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="493" end="496" />
+        <spannedText>lid</spannedText>
+        <creationDate>Thu Apr 12 16:31:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5735">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5732">
+        <hasSlotMention id="EHOST_Instance_5735" />
+        <mentionClass id="Profession">lid</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

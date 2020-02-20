@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="41794829_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30200" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="103" end="112" />
+        <spannedText>ambtenaar</spannedText>
+        <creationDate>Sun Jun 03 16:39:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30205">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30206">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30201" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30200">
+        <hasSlotMention id="EHOST_Instance_30205" />
+        <hasSlotMention id="EHOST_Instance_30206" />
+        <mentionClass id="Profession">ambtenaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30201" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="83" end="101" />
+        <spannedText>Petrus Biesterveld</spannedText>
+        <creationDate>Sun Jun 03 16:39:40 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30201">
+        <mentionClass id="Person">Petrus Biesterveld</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30202" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="176" end="188" />
+        <spannedText>Geref. pred.</spannedText>
+        <creationDate>Sun Jun 03 16:39:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30207">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30202">
+        <hasSlotMention id="EHOST_Instance_30207" />
+        <mentionClass id="Profession">Geref. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30203" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="245" end="259" />
+        <spannedText>Hoogl. Theol.</spannedText>
+        <creationDate>Sun Jun 03 16:39:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30208">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30203">
+        <hasSlotMention id="EHOST_Instance_30208" />
+        <mentionClass id="Profession">Hoogl. Theol.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30204" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1102" end="1136" />
+        <spannedText>hoogleraar in de ambtelijke vakken</spannedText>
+        <creationDate>Sun Jun 03 16:40:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30209">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30204">
+        <hasSlotMention id="EHOST_Instance_30209" />
+        <mentionClass id="Profession">hoogleraar in de ambtelijke vakken</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

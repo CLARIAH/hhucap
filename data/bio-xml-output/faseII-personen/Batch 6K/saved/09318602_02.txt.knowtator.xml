@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="09318602_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_47189" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="76" end="91" />
+        <spannedText>toneelspeelster</spannedText>
+        <creationDate>Fri May 18 20:47:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47196">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_47189">
+        <hasSlotMention id="EHOST_Instance_47196" />
+        <mentionClass id="Profession">toneelspeelster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47190" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="233" end="245" />
+        <spannedText>toneelspeler</spannedText>
+        <creationDate>Fri May 18 20:47:32 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47197">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_47198">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_47191" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_47190">
+        <hasSlotMention id="EHOST_Instance_47197" />
+        <hasSlotMention id="EHOST_Instance_47198" />
+        <mentionClass id="Profession">toneelspeler</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47191" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="202" end="218" />
+        <spannedText>Willem van Hooft</spannedText>
+        <creationDate>Fri May 18 20:47:34 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_47191">
+        <mentionClass id="Person">Willem van Hooft</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47192" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="927" end="934" />
+        <spannedText>actrice</spannedText>
+        <creationDate>Fri May 18 20:48:00 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47199">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_47192">
+        <hasSlotMention id="EHOST_Instance_47199" />
+        <mentionClass id="Profession">actrice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47193" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="950" end="959" />
+        <spannedText>figurante</spannedText>
+        <creationDate>Fri May 18 20:48:01 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47200">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_47193">
+        <hasSlotMention id="EHOST_Instance_47200" />
+        <mentionClass id="Profession">figurante</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47194" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1024" end="1036" />
+        <spannedText>toneelspeler</spannedText>
+        <creationDate>Fri May 18 20:48:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47201">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_47202">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_47195" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_47194">
+        <hasSlotMention id="EHOST_Instance_47201" />
+        <hasSlotMention id="EHOST_Instance_47202" />
+        <mentionClass id="Profession">toneelspeler</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47195" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1037" end="1055" />
+        <spannedText>Willem (van) Hooft</spannedText>
+        <creationDate>Fri May 18 20:48:14 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_47195">
+        <mentionClass id="Person">Willem (van) Hooft</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

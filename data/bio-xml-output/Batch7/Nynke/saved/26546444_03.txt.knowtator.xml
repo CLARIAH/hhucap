@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="26546444_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_20976" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="0" end="9" />
+        <spannedText>Typograaf</spannedText>
+        <creationDate>Tue May 29 11:06:32 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20978">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20976">
+        <hasSlotMention id="EHOST_Instance_20978" />
+        <mentionClass id="Profession">Typograaf</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20977" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="11" end="29" />
+        <spannedText>grafisch ontwerper</spannedText>
+        <creationDate>Tue May 29 11:06:38 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20979">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20977">
+        <hasSlotMention id="EHOST_Instance_20979" />
+        <mentionClass id="Profession">grafisch ontwerper</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="81391537_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_55100" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="546" end="583" />
+        <spannedText>Cornelis Ferdinand Petrus Stutterheim</spannedText>
+        <creationDate>Wed Apr 25 16:55:06 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55100">
+        <mentionClass id="Person">Cornelis Ferdinand Petrus Stutterheim</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55101" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1699" end="1706" />
+        <spannedText>musicus</spannedText>
+        <creationDate>Wed Apr 25 17:22:51 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55112">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55113">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55101">
+        <hasSlotMention id="EHOST_Instance_55112" />
+        <hasSlotMention id="EHOST_Instance_55113" />
+        <mentionClass id="Profession">musicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55102" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="4563" end="4577" />
+        <spannedText>leraarsbestaan</spannedText>
+        <creationDate>Wed Apr 25 17:24:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55114">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55115">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55102">
+        <hasSlotMention id="EHOST_Instance_55114" />
+        <hasSlotMention id="EHOST_Instance_55115" />
+        <mentionClass id="Profession">leraarsbestaan</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55103" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="5708" end="5716" />
+        <spannedText>filosoof</spannedText>
+        <creationDate>Wed Apr 25 17:25:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55116">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55117">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55104" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55103">
+        <hasSlotMention id="EHOST_Instance_55116" />
+        <hasSlotMention id="EHOST_Instance_55117" />
+        <mentionClass id="Profession">filosoof</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55104" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="5717" end="5725" />
+        <spannedText>H.J. Pos</spannedText>
+        <creationDate>Wed Apr 25 17:25:48 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55104">
+        <mentionClass id="Person">H.J. Pos</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55105" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1274" end="1285" />
+        <spannedText>onderzoeker</spannedText>
+        <creationDate>Sat Jun 30 10:52:03 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55105">
+        <mentionClass id="Profession">onderzoeker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55106" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1681" end="1691" />
+        <spannedText>musicoloog</spannedText>
+        <creationDate>Sat Jun 30 10:52:23 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55106">
+        <mentionClass id="Profession">musicoloog</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55107" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2497" end="2510" />
+        <spannedText>onderwijzeres</spannedText>
+        <creationDate>Sat Jun 30 10:53:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55107">
+        <mentionClass id="Profession">onderwijzeres</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55108" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2742" end="2753" />
+        <spannedText>psychologen</spannedText>
+        <creationDate>Sat Jun 30 10:53:46 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55108">
+        <mentionClass id="Profession">psychologen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55109" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="4746" end="4757" />
+        <spannedText>onderzoeker</spannedText>
+        <creationDate>Sat Jun 30 10:55:21 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55109">
+        <mentionClass id="Profession">onderzoeker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55110" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="6010" end="6022" />
+        <spannedText>onderzoekers</spannedText>
+        <creationDate>Sat Jun 30 10:56:28 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55110">
+        <mentionClass id="Profession">onderzoekers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55111" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="6455" end="6467" />
+        <spannedText>onderzoekers</spannedText>
+        <creationDate>Sat Jun 30 10:56:53 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55111">
+        <mentionClass id="Profession">onderzoekers</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

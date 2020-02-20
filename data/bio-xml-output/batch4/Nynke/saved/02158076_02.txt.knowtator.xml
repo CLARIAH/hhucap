@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="02158076_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_23098" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="30" end="49" />
+        <spannedText>Jan Willem Kamphuis</spannedText>
+        <creationDate>Fri Apr 20 15:47:29 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23098">
+        <mentionClass id="Person">Jan Willem Kamphuis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23099" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="51" end="94" />
+        <spannedText>directeur van een bedrijf in bouwmaterialen</spannedText>
+        <creationDate>Fri Apr 20 15:47:32 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23103">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_23104">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_23098" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23099">
+        <hasSlotMention id="EHOST_Instance_23103" />
+        <hasSlotMention id="EHOST_Instance_23104" />
+        <mentionClass id="Profession">directeur van een bedrijf in bouwmaterialen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23100" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="985" end="992" />
+        <spannedText>docente</spannedText>
+        <creationDate>Fri Apr 20 15:57:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23105">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23100">
+        <hasSlotMention id="EHOST_Instance_23105" />
+        <mentionClass id="Profession">docente</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23101" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1038" end="1056" />
+        <spannedText>adjunct-directrice</spannedText>
+        <creationDate>Fri Apr 20 15:58:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23106">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23101">
+        <hasSlotMention id="EHOST_Instance_23106" />
+        <mentionClass id="Profession">adjunct-directrice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23102" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2044" end="2054" />
+        <spannedText>directrice</spannedText>
+        <creationDate>Fri Apr 20 15:58:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23107">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23102">
+        <hasSlotMention id="EHOST_Instance_23107" />
+        <mentionClass id="Profession">directrice</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

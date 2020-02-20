@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="47486973_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_8758" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="91" end="99" />
+        <spannedText>Jacob B.</spannedText>
+        <creationDate>Wed Apr 25 14:36:04 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_8758">
+        <mentionClass id="Person">Jacob B.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8759" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="611" end="618" />
+        <spannedText>kolonel</spannedText>
+        <creationDate>Wed Apr 25 14:36:59 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8763">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8759">
+        <hasSlotMention id="EHOST_Instance_8763" />
+        <mentionClass id="Profession">kolonel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8760" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="101" end="121" />
+        <spannedText>rentmeester-generaal</spannedText>
+        <creationDate>Wed Jul 04 19:15:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8764">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_8765">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_8758" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_8760">
+        <hasSlotMention id="EHOST_Instance_8764" />
+        <hasSlotMention id="EHOST_Instance_8765" />
+        <mentionClass id="Profession">rentmeester-generaal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8761" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="274" end="284" />
+        <spannedText>gouverneur</spannedText>
+        <creationDate>Wed Jul 04 19:15:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8766">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8761">
+        <hasSlotMention id="EHOST_Instance_8766" />
+        <mentionClass id="Profession">gouverneur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8762" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="453" end="463" />
+        <spannedText>gouverneur</spannedText>
+        <creationDate>Wed Jul 04 19:15:26 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8767">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8762">
+        <hasSlotMention id="EHOST_Instance_8767" />
+        <mentionClass id="Profession">gouverneur</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

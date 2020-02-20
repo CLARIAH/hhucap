@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88486583_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5484" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="83" end="108" />
+        <spannedText>Pieter Hendrik Beversluis</spannedText>
+        <creationDate>Fri Apr 06 13:36:26 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5484">
+        <mentionClass id="Person">Pieter Hendrik Beversluis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5485" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="110" end="128" />
+        <spannedText>muziekhan- delaar</spannedText>
+        <creationDate>Fri Apr 06 13:36:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5488">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_5489">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_5484" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5485">
+        <hasSlotMention id="EHOST_Instance_5488" />
+        <hasSlotMention id="EHOST_Instance_5489" />
+        <mentionClass id="Profession">muziekhan- delaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5486" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="133" end="160" />
+        <spannedText>Gijsberta Christina Martina</spannedText>
+        <creationDate>Fri Apr 06 13:36:47 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5486">
+        <mentionClass id="Person">Gijsberta Christina Martina</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5487" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="161" end="179" />
+        <spannedText>Los. Stud. theol.</spannedText>
+        <creationDate>Fri Apr 06 13:36:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5490">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Mother" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_5491">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_5486" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5487">
+        <hasSlotMention id="EHOST_Instance_5490" />
+        <hasSlotMention id="EHOST_Instance_5491" />
+        <mentionClass id="Profession">Los. Stud. theol.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

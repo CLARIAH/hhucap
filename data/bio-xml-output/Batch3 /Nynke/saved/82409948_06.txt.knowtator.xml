@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="82409948_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_6001" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="105" end="137" />
+        <spannedText>Sekretaris op de Assurantiekamer</spannedText>
+        <creationDate>Mon Apr 16 10:46:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6002">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_6001">
+        <hasSlotMention id="EHOST_Instance_6002" />
+        <mentionClass id="Profession">Sekretaris op de Assurantiekamer</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

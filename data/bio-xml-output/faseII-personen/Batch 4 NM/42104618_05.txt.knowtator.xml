@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="42104618_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_8531" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="292" end="303" />
+        <spannedText>hoogleeraar</spannedText>
+        <creationDate>Fri Apr 20 13:57:10 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8538">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_8539">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_8532" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_8531">
+        <hasSlotMention id="EHOST_Instance_8538" />
+        <hasSlotMention id="EHOST_Instance_8539" />
+        <mentionClass id="Profession">hoogleeraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8532" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="304" end="312" />
+        <spannedText>Te Water</spannedText>
+        <creationDate>Fri Apr 20 13:57:13 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_8532">
+        <mentionClass id="Person">Te Water</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8533" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="61" end="124" />
+        <spannedText>secretaris van den hove van Holland, Zeeland, en West Friesland</spannedText>
+        <creationDate>Thu Jul 05 22:31:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8540">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8533">
+        <hasSlotMention id="EHOST_Instance_8540" />
+        <mentionClass id="Profession">secretaris van den hove van Holland, Zeeland, en West Friesland</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8534" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="137" end="156" />
+        <spannedText>substituut griffier</spannedText>
+        <creationDate>Thu Jul 05 22:31:59 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8541">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8534">
+        <hasSlotMention id="EHOST_Instance_8541" />
+        <mentionClass id="Profession">substituut griffier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8535" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="608" end="621" />
+        <spannedText>natuurkundige</spannedText>
+        <creationDate>Thu Jul 05 22:32:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8542">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_8543">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_8537" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_8535">
+        <hasSlotMention id="EHOST_Instance_8542" />
+        <hasSlotMention id="EHOST_Instance_8543" />
+        <mentionClass id="Profession">natuurkundige</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8536" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="326" end="349" />
+        <spannedText>taal- en oudheidkundige</spannedText>
+        <creationDate>Thu Jul 05 22:32:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8544">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8536">
+        <hasSlotMention id="EHOST_Instance_8544" />
+        <mentionClass id="Profession">taal- en oudheidkundige</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8537" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="622" end="633" />
+        <spannedText>C. Huijgens</spannedText>
+        <creationDate>Mon Jul 09 21:56:03 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_8537">
+        <mentionClass id="Person">C. Huijgens</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

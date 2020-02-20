@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="01606753_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3175" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="25" end="38" />
+        <spannedText>Konstschilder</spannedText>
+        <creationDate>Wed May 30 22:11:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3178">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_3179">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_3176" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3175">
+        <hasSlotMention id="EHOST_Instance_3178" />
+        <hasSlotMention id="EHOST_Instance_3179" />
+        <mentionClass id="Profession">Konstschilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3176" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="39" end="58" />
+        <spannedText>Willem Jakobsz.Delf</spannedText>
+        <creationDate>Wed May 30 22:11:10 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3176">
+        <mentionClass id="Person">Willem Jakobsz.Delf</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3177" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="105" end="116" />
+        <spannedText>Konterfyter</spannedText>
+        <creationDate>Thu Jul 12 16:58:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3180">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3177">
+        <hasSlotMention id="EHOST_Instance_3180" />
+        <mentionClass id="Profession">Konterfyter</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

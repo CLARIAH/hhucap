@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="35117838_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_47085" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="17" end="33" />
+        <spannedText>Historieschilder</spannedText>
+        <creationDate>Fri May 18 22:04:29 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47087">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_47085">
+        <hasSlotMention id="EHOST_Instance_47087" />
+        <mentionClass id="Profession">Historieschilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47086" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="212" end="220" />
+        <spannedText>Schilder</spannedText>
+        <creationDate>Sun Jul 08 11:52:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47088">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_47086">
+        <hasSlotMention id="EHOST_Instance_47088" />
+        <mentionClass id="Profession">Schilder</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="72831089_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_20826" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="96" end="107" />
+        <spannedText>fruittelers</spannedText>
+        <creationDate>Sat Jun 30 10:50:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20829">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20826">
+        <hasSlotMention id="EHOST_Instance_20829" />
+        <mentionClass id="Profession">fruittelers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20827" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="425" end="440" />
+        <spannedText>Tweede Kamerlid</spannedText>
+        <creationDate>Sat Jun 30 10:51:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20830">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20831">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20828" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20827">
+        <hasSlotMention id="EHOST_Instance_20830" />
+        <hasSlotMention id="EHOST_Instance_20831" />
+        <mentionClass id="Profession">Tweede Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20828" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="401" end="411" />
+        <spannedText>Zijn vader</spannedText>
+        <creationDate>Tue Jul 03 11:12:55 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20828">
+        <mentionClass id="Person">Zijn vader</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88772075_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_76358" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="108" end="113" />
+        <spannedText>pred.</spannedText>
+        <creationDate>Mon Apr 30 21:19:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76366">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_76367">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_76359" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_76358">
+        <hasSlotMention id="EHOST_Instance_76366" />
+        <hasSlotMention id="EHOST_Instance_76367" />
+        <mentionClass id="Profession">pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76359" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="88" end="106" />
+        <spannedText>Dominicus Acronius</spannedText>
+        <creationDate>Mon Apr 30 21:19:47 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_76359">
+        <mentionClass id="Person">Dominicus Acronius</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76360" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="143" end="155" />
+        <spannedText>Geref. pred.</spannedText>
+        <creationDate>Mon Apr 30 21:19:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76368">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_76360">
+        <hasSlotMention id="EHOST_Instance_76368" />
+        <mentionClass id="Profession">Geref. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76361" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="251" end="257" />
+        <spannedText>Hoogl.</spannedText>
+        <creationDate>Mon Apr 30 21:20:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76369">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_76361">
+        <hasSlotMention id="EHOST_Instance_76369" />
+        <mentionClass id="Profession">Hoogl.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76362" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="291" end="296" />
+        <spannedText>pred.</spannedText>
+        <creationDate>Mon Apr 30 21:20:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76370">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_76362">
+        <hasSlotMention id="EHOST_Instance_76370" />
+        <mentionClass id="Profession">pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76363" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1078" end="1089" />
+        <spannedText>predikanten</spannedText>
+        <creationDate>Mon Apr 30 21:21:00 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76371">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_76363">
+        <hasSlotMention id="EHOST_Instance_76371" />
+        <mentionClass id="Profession">predikanten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76364" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="401" end="406" />
+        <spannedText>pred.</spannedText>
+        <creationDate>Sun Jul 01 00:42:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_76364">
+        <mentionClass id="Profession">pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76365" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="479" end="485" />
+        <spannedText>Rector</spannedText>
+        <creationDate>Sun Jul 01 00:42:59 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_76365">
+        <mentionClass id="Profession">Rector</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

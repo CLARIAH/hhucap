@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="54770376_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_45856" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="36" end="43" />
+        <spannedText>senator</spannedText>
+        <creationDate>Fri May 25 19:03:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_45858">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_45856">
+        <hasSlotMention id="EHOST_Instance_45858" />
+        <mentionClass id="Profession">senator</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_45857" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="439" end="448" />
+        <spannedText>wethouder</spannedText>
+        <creationDate>Fri May 25 19:04:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_45859">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_45857">
+        <hasSlotMention id="EHOST_Instance_45859" />
+        <mentionClass id="Profession">wethouder</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

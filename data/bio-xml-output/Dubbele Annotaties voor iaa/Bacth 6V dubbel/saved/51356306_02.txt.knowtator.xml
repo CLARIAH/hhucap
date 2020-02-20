@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="51356306_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_55088" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="30" end="45" />
+        <spannedText>Tweede Kamerlid</spannedText>
+        <creationDate>Thu May 24 16:21:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55092">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_55088">
+        <hasSlotMention id="EHOST_Instance_55092" />
+        <mentionClass id="Profession">Tweede Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55089" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="177" end="185" />
+        <spannedText>advocaat</spannedText>
+        <creationDate>Thu May 24 16:21:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55093">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_55089">
+        <hasSlotMention id="EHOST_Instance_55093" />
+        <mentionClass id="Profession">advocaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55090" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="49" end="72" />
+        <spannedText>wethouder van financiën</spannedText>
+        <creationDate>Thu May 24 16:21:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55094">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_55090">
+        <hasSlotMention id="EHOST_Instance_55094" />
+        <mentionClass id="Profession">wethouder van financiën</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55091" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="290" end="299" />
+        <spannedText>wethouder</spannedText>
+        <creationDate>Thu May 24 16:22:01 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55095">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_55091">
+        <hasSlotMention id="EHOST_Instance_55095" />
+        <mentionClass id="Profession">wethouder</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

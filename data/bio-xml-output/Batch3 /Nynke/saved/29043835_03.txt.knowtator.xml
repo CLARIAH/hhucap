@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="29043835_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5769" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="47" end="54" />
+        <spannedText>dichter</spannedText>
+        <creationDate>Thu Apr 12 17:28:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5774">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5769">
+        <hasSlotMention id="EHOST_Instance_5774" />
+        <mentionClass id="Profession">dichter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5770" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="103" end="127" />
+        <spannedText>Lambertus Josephus Keuls</spannedText>
+        <creationDate>Thu Apr 12 17:29:00 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5770">
+        <mentionClass id="Person">Lambertus Josephus Keuls</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5771" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="129" end="136" />
+        <spannedText>notaris</spannedText>
+        <creationDate>Thu Apr 12 17:29:41 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5775">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_5776">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_5770" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5771">
+        <hasSlotMention id="EHOST_Instance_5775" />
+        <hasSlotMention id="EHOST_Instance_5776" />
+        <mentionClass id="Profession">notaris</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5772" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="885" end="896" />
+        <spannedText>notarisambt</spannedText>
+        <creationDate>Thu Apr 12 17:29:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5777">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_5778">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_5770" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5772">
+        <hasSlotMention id="EHOST_Instance_5777" />
+        <hasSlotMention id="EHOST_Instance_5778" />
+        <mentionClass id="Profession">notarisambt</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5773" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="997" end="1005" />
+        <spannedText>advocaat</spannedText>
+        <creationDate>Thu Apr 12 17:30:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5779">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5773">
+        <hasSlotMention id="EHOST_Instance_5779" />
+        <mentionClass id="Profession">advocaat</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

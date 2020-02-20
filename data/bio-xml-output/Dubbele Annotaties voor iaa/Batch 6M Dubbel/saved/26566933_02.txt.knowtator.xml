@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="26566933_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_94757" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="105" end="110" />
+        <spannedText>pred.</spannedText>
+        <creationDate>Tue May 22 13:33:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94762">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_94763">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_94758" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_94757">
+        <hasSlotMention id="EHOST_Instance_94762" />
+        <hasSlotMention id="EHOST_Instance_94763" />
+        <mentionClass id="Profession">pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94758" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="81" end="103" />
+        <spannedText>Floren- tius de Bruin</spannedText>
+        <creationDate>Tue May 22 13:33:45 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_94758">
+        <mentionClass id="Person">Floren- tius de Bruin</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94759" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="151" end="163" />
+        <spannedText>Geref. pred.</spannedText>
+        <creationDate>Tue May 22 13:33:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94764">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_94759">
+        <hasSlotMention id="EHOST_Instance_94764" />
+        <mentionClass id="Profession">Geref. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94760" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="590" end="601" />
+        <spannedText>zendelingen</spannedText>
+        <creationDate>Tue May 22 13:34:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94765">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_94760">
+        <hasSlotMention id="EHOST_Instance_94765" />
+        <mentionClass id="Profession">zendelingen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94761" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="349" end="360" />
+        <spannedText>zendelingen</spannedText>
+        <creationDate>Tue May 22 13:34:51 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94766">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_94761">
+        <hasSlotMention id="EHOST_Instance_94766" />
+        <mentionClass id="Profession">zendelingen</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

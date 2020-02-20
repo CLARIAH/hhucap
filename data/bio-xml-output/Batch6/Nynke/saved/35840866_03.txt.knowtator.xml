@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="35840866_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_15453" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="119" end="128" />
+        <spannedText>apotheker</spannedText>
+        <creationDate>Sat May 19 15:34:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_15457">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_15453">
+        <hasSlotMention id="EHOST_Instance_15457" />
+        <mentionClass id="Profession">apotheker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_15454" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1052" end="1063" />
+        <spannedText>glasgraveur</spannedText>
+        <creationDate>Sat May 19 15:35:01 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_15458">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_15454">
+        <hasSlotMention id="EHOST_Instance_15458" />
+        <mentionClass id="Profession">glasgraveur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_15455" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1372" end="1380" />
+        <spannedText>schilder</spannedText>
+        <creationDate>Sat May 19 15:36:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_15459">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_15460">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_15456" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_15455">
+        <hasSlotMention id="EHOST_Instance_15459" />
+        <hasSlotMention id="EHOST_Instance_15460" />
+        <mentionClass id="Profession">schilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_15456" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1381" end="1393" />
+        <spannedText>Gabriel Haim</spannedText>
+        <creationDate>Sat May 19 15:36:10 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_15456">
+        <mentionClass id="Person">Gabriel Haim</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

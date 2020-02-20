@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="96334025_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_68780" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="150" end="159" />
+        <spannedText>ambtenaar</spannedText>
+        <creationDate>Sat May 19 13:26:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68784">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68780">
+        <hasSlotMention id="EHOST_Instance_68784" />
+        <mentionClass id="Profession">ambtenaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_68781" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="341" end="370" />
+        <spannedText>secretaris van de veertigraad</spannedText>
+        <creationDate>Sat May 19 13:27:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68785">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68781">
+        <hasSlotMention id="EHOST_Instance_68785" />
+        <mentionClass id="Profession">secretaris van de veertigraad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_68782" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="487" end="501" />
+        <spannedText>penningmeester</spannedText>
+        <creationDate>Sat May 19 13:27:26 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68786">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68782">
+        <hasSlotMention id="EHOST_Instance_68786" />
+        <mentionClass id="Profession">penningmeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_68783" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="849" end="858" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Sat May 19 13:28:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68787">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68783">
+        <hasSlotMention id="EHOST_Instance_68787" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

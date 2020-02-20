@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="08814162_07.txt">
+    <annotation>
+        <mention id="EHOST_Instance_23108" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="622" end="647" />
+        <spannedText>commissionair in effecten</spannedText>
+        <creationDate>Fri Apr 20 16:02:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23111">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23108">
+        <hasSlotMention id="EHOST_Instance_23111" />
+        <mentionClass id="Profession">commissionair in effecten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23109" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2148" end="2160" />
+        <spannedText>verpleegster</spannedText>
+        <creationDate>Fri Apr 20 16:07:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23112">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_23113">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_23110" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23109">
+        <hasSlotMention id="EHOST_Instance_23112" />
+        <hasSlotMention id="EHOST_Instance_23113" />
+        <mentionClass id="Profession">verpleegster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23110" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2124" end="2142" />
+        <spannedText>Juppie van Stockum</spannedText>
+        <creationDate>Fri Apr 20 16:08:08 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23110">
+        <mentionClass id="Person">Juppie van Stockum</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

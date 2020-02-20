@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="08528481_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_12230" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="40" end="68" />
+        <spannedText>handelaar in goud en juwelen</spannedText>
+        <creationDate>Wed May 02 20:33:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12234">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12230">
+        <hasSlotMention id="EHOST_Instance_12234" />
+        <mentionClass id="Profession">handelaar in goud en juwelen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12231" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="73" end="108" />
+        <spannedText>eigenaar van een groot bankiershuis</spannedText>
+        <creationDate>Wed May 02 20:34:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12235">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12231">
+        <hasSlotMention id="EHOST_Instance_12235" />
+        <mentionClass id="Profession">eigenaar van een groot bankiershuis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12232" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1024" end="1030" />
+        <spannedText>Keizer</spannedText>
+        <creationDate>Mon Jul 09 13:20:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12236">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_12237">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_12233" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12232">
+        <hasSlotMention id="EHOST_Instance_12236" />
+        <hasSlotMention id="EHOST_Instance_12237" />
+        <mentionClass id="Profession">Keizer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12233" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="1031" end="1039" />
+        <spannedText>Jozef II</spannedText>
+        <creationDate>Sat Jul 14 14:12:29 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12233">
+        <mentionClass id="Person">Jozef II</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

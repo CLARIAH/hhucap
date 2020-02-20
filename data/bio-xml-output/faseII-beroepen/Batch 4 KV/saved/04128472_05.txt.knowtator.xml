@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="04128472_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_55889" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="0" end="17" />
+        <spannedText>SCOT (Mr. Thomas)</spannedText>
+        <creationDate>Mon Apr 30 17:42:51 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55889">
+        <mentionClass id="Person">SCOT (Mr. Thomas)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55890" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="259" end="268" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Mon Apr 30 17:43:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55896">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55897">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55889" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55890">
+        <hasSlotMention id="EHOST_Instance_55896" />
+        <hasSlotMention id="EHOST_Instance_55897" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55891" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="428" end="440" />
+        <spannedText>John Lambert</spannedText>
+        <creationDate>Mon Apr 30 17:43:21 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55891">
+        <mentionClass id="Person">John Lambert</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55892" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="442" end="490" />
+        <spannedText>soldaat bij de compagnie van Viscount Wimbleston</spannedText>
+        <creationDate>Mon Apr 30 17:43:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55898">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55899">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55891" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55892">
+        <hasSlotMention id="EHOST_Instance_55898" />
+        <hasSlotMention id="EHOST_Instance_55899" />
+        <mentionClass id="Profession">soldaat bij de compagnie van Viscount Wimbleston</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55893" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="778" end="793" />
+        <spannedText>Samuel Bachiler</spannedText>
+        <creationDate>Mon Apr 30 17:43:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55893">
+        <mentionClass id="Person">Samuel Bachiler</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55894" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="795" end="836" />
+        <spannedText>minister to Sir Charles Morgan's regiment</spannedText>
+        <creationDate>Mon Apr 30 17:43:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55900">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55901">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55893" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55894">
+        <hasSlotMention id="EHOST_Instance_55900" />
+        <hasSlotMention id="EHOST_Instance_55901" />
+        <mentionClass id="Profession">minister to Sir Charles Morgan's regiment</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55895" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="216" end="227" />
+        <spannedText>ambassadeur</spannedText>
+        <creationDate>Sat Jun 30 13:17:39 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55895">
+        <mentionClass id="Profession">ambassadeur</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

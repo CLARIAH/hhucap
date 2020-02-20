@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="82335315_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_77167" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="104" end="120" />
+        <spannedText>Batailleschilder</spannedText>
+        <creationDate>Wed Apr 18 10:48:24 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_77171">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_77167">
+        <hasSlotMention id="EHOST_Instance_77171" />
+        <mentionClass id="Profession">Batailleschilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_77168" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="128" end="139" />
+        <spannedText>Hofschilder</spannedText>
+        <creationDate>Wed Apr 18 10:48:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_77172">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_77168">
+        <hasSlotMention id="EHOST_Instance_77172" />
+        <mentionClass id="Profession">Hofschilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_77169" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="167" end="173" />
+        <spannedText>Albert</spannedText>
+        <creationDate>Wed Apr 18 10:48:49 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_77169">
+        <mentionClass id="Person">Albert</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_77170" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="192" end="200" />
+        <spannedText>lsabella</spannedText>
+        <creationDate>Wed Apr 18 10:49:29 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_77170">
+        <mentionClass id="Person">lsabella</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

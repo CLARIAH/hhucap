@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="20710339_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_44950" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="103" end="111" />
+        <spannedText>zakenman</spannedText>
+        <creationDate>Fri May 25 12:11:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_44955">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_44956">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_44951" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_44950">
+        <hasSlotMention id="EHOST_Instance_44955" />
+        <hasSlotMention id="EHOST_Instance_44956" />
+        <mentionClass id="Profession">zakenman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_44951" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="112" end="125" />
+        <spannedText>Meik de Swaan</spannedText>
+        <creationDate>Fri May 25 12:11:17 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_44951">
+        <mentionClass id="Person">Meik de Swaan</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_44952" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="232" end="244" />
+        <spannedText>Johanna Moes</spannedText>
+        <creationDate>Fri May 25 12:11:46 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_44952">
+        <mentionClass id="Person">Johanna Moes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_44953" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="246" end="254" />
+        <spannedText>huisarts</spannedText>
+        <creationDate>Fri May 25 12:11:51 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_44957">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_44958">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_44952" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_44953">
+        <hasSlotMention id="EHOST_Instance_44957" />
+        <hasSlotMention id="EHOST_Instance_44958" />
+        <mentionClass id="Profession">huisarts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_44954" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="555" end="567" />
+        <spannedText>secretariaat</spannedText>
+        <creationDate>Fri May 25 12:13:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_44959">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_44954">
+        <hasSlotMention id="EHOST_Instance_44959" />
+        <mentionClass id="Profession">secretariaat</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

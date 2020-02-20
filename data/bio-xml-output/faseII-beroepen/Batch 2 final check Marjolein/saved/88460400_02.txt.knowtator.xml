@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88460400_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2303" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="0" end="32" />
+        <spannedText>VISVLIET (Mr. Egbert Pieter van)</spannedText>
+        <creationDate>Fri Apr 06 14:21:06 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2303">
+        <mentionClass id="Person">VISVLIET (Mr. Egbert Pieter van)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2304" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="106" end="118" />
+        <spannedText>staatslieden</spannedText>
+        <creationDate>Fri Apr 06 14:21:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2306">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_2307">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_2303" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2304">
+        <hasSlotMention id="EHOST_Instance_2306" />
+        <hasSlotMention id="EHOST_Instance_2307" />
+        <mentionClass id="Profession">staatslieden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2305" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="168" end="181" />
+        <spannedText>geneeskundige</spannedText>
+        <creationDate>Fri Apr 06 14:21:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2308">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_2309">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_2303" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2305">
+        <hasSlotMention id="EHOST_Instance_2308" />
+        <hasSlotMention id="EHOST_Instance_2309" />
+        <mentionClass id="Profession">geneeskundige</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

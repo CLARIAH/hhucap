@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="76933739_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_93861" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="43" end="57" />
+        <spannedText>Jan Boissevain</spannedText>
+        <creationDate>Fri May 18 13:37:02 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_93861">
+        <mentionClass id="Person">Jan Boissevain</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_93862" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="59" end="66" />
+        <spannedText>bankier</spannedText>
+        <creationDate>Fri May 18 13:37:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_93867">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_93868">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_93861" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_93862">
+        <hasSlotMention id="EHOST_Instance_93867" />
+        <hasSlotMention id="EHOST_Instance_93868" />
+        <mentionClass id="Profession">bankier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_93863" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="188" end="202" />
+        <spannedText>Jan Boissevain</spannedText>
+        <creationDate>Fri May 18 13:37:21 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_93863">
+        <mentionClass id="Person">Jan Boissevain</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_93864" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="180" end="187" />
+        <spannedText>bankier</spannedText>
+        <creationDate>Fri May 18 13:37:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_93869">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_93870">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_93863" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_93864">
+        <hasSlotMention id="EHOST_Instance_93869" />
+        <hasSlotMention id="EHOST_Instance_93870" />
+        <mentionClass id="Profession">bankier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_93865" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="524" end="659" />
+        <spannedText>voorzitster van de Amsterdamse afdeling van de 'Nederlandse Vereniging voor Vrouwenbelangen, Vrouwenarbeid en Gelijk Staatsburgerschap'</spannedText>
+        <creationDate>Fri May 18 13:38:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_93871">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_93865">
+        <hasSlotMention id="EHOST_Instance_93871" />
+        <mentionClass id="Profession">voorzitster van de Amsterdamse afdeling van de 'Nederlandse Vereniging voor Vrouwenbelangen, Vrouwenarbeid en Gelijk Staatsburgerschap'</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_93866" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1005" end="1012" />
+        <spannedText>notaris</spannedText>
+        <creationDate>Fri May 18 13:38:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_93872">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_93866">
+        <hasSlotMention id="EHOST_Instance_93872" />
+        <mentionClass id="Profession">notaris</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

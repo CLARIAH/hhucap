@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="07387899_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_16282" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="162" end="175" />
+        <spannedText>stadsadvocaat</spannedText>
+        <creationDate>Wed May 02 20:32:24 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_16285">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_16282">
+        <hasSlotMention id="EHOST_Instance_16285" />
+        <mentionClass id="Profession">stadsadvocaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_16283" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="662" end="675" />
+        <spannedText>conservatrice</spannedText>
+        <creationDate>Mon Jul 09 12:37:47 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_16283">
+        <mentionClass id="Profession">conservatrice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_16284" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="708" end="712" />
+        <span start="725" end="745" />
+        <spannedText>deed ... zoölogisch onderzoek</spannedText>
+        <creationDate>Mon Jul 09 12:37:54 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_16284">
+        <mentionClass id="Profession">deed ... zoölogisch onderzoek</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="42967910_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_20283" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="96" end="102" />
+        <spannedText>ridder</spannedText>
+        <creationDate>Thu May 24 20:44:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20289">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20283">
+        <hasSlotMention id="EHOST_Instance_20289" />
+        <mentionClass id="Profession">ridder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20284" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="180" end="206" />
+        <spannedText>diplomatische betrekkingen</spannedText>
+        <creationDate>Thu May 24 20:44:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20290">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20284">
+        <hasSlotMention id="EHOST_Instance_20290" />
+        <mentionClass id="Profession">diplomatische betrekkingen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20285" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="220" end="242" />
+        <spannedText>secretaris van legatie</spannedText>
+        <creationDate>Thu May 24 20:44:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20291">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20285">
+        <hasSlotMention id="EHOST_Instance_20291" />
+        <mentionClass id="Profession">secretaris van legatie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20286" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="256" end="320" />
+        <spannedText>secretaris-generaal van het departement van binnenlandsche zaken</spannedText>
+        <creationDate>Thu May 24 20:44:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20292">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20286">
+        <hasSlotMention id="EHOST_Instance_20292" />
+        <mentionClass id="Profession">secretaris-generaal van het departement van binnenlandsche zaken</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20287" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="374" end="387" />
+        <spannedText>Ennius Herman</spannedText>
+        <creationDate>Thu May 24 20:45:01 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20287">
+        <mentionClass id="Person">Ennius Herman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20288" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="389" end="423" />
+        <spannedText>raadsheer bij het hooge geregtshof</spannedText>
+        <creationDate>Thu May 24 20:45:03 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20293">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="FatherInLaw" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20294">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20287" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20288">
+        <hasSlotMention id="EHOST_Instance_20293" />
+        <hasSlotMention id="EHOST_Instance_20294" />
+        <mentionClass id="Profession">raadsheer bij het hooge geregtshof</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

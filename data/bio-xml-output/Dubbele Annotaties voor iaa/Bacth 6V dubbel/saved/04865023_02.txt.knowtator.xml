@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="04865023_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_55382" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="142" end="161" />
+        <spannedText>gouverneur-generaal</spannedText>
+        <creationDate>Fri May 25 17:38:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55385">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_55382">
+        <hasSlotMention id="EHOST_Instance_55385" />
+        <mentionClass id="Profession">gouverneur-generaal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55383" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="270" end="295" />
+        <spannedText>chef der land- en zeemagt</spannedText>
+        <creationDate>Fri Sep 14 15:11:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55386">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_55383">
+        <hasSlotMention id="EHOST_Instance_55386" />
+        <mentionClass id="Profession">chef der land- en zeemagt</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55384" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="248" end="266" />
+        <span start="275" end="295" />
+        <spannedText>luitenant-generaal ... der land- en zeemagt</spannedText>
+        <creationDate>Fri Sep 14 15:11:32 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55387">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_55384">
+        <hasSlotMention id="EHOST_Instance_55387" />
+        <mentionClass id="Profession">luitenant-generaal ... der land- en zeemagt</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

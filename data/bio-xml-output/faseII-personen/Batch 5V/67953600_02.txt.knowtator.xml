@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="67953600_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_43944" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="67" end="87" />
+        <spannedText>partners in de firma</spannedText>
+        <creationDate>Tue May 08 12:37:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43949">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43944">
+        <hasSlotMention id="EHOST_Instance_43949" />
+        <mentionClass id="Profession">partners in de firma</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43945" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1778" end="1790" />
+        <spannedText>partnerschap</spannedText>
+        <creationDate>Tue May 08 12:47:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43950">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43945">
+        <hasSlotMention id="EHOST_Instance_43950" />
+        <mentionClass id="Profession">partnerschap</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43946" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="2068" end="2095" />
+        <spannedText>partner van een importfirma</spannedText>
+        <creationDate>Tue May 08 12:47:28 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43951">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_43952">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_43947" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43946">
+        <hasSlotMention id="EHOST_Instance_43951" />
+        <hasSlotMention id="EHOST_Instance_43952" />
+        <mentionClass id="Profession">partner van een importfirma</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43947" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="2055" end="2061" />
+        <spannedText>Herman</spannedText>
+        <creationDate>Tue May 08 12:47:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43947">
+        <mentionClass id="Person">Herman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43948" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="2145" end="2153" />
+        <spannedText>partners</spannedText>
+        <creationDate>Tue May 08 12:47:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43953">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43948">
+        <hasSlotMention id="EHOST_Instance_43953" />
+        <mentionClass id="Profession">partners</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

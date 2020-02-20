@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="18536164_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_25620" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="296" end="303" />
+        <spannedText>rechter</spannedText>
+        <creationDate>Thu May 17 21:26:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25629">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25620">
+        <hasSlotMention id="EHOST_Instance_25629" />
+        <mentionClass id="Profession">rechter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25621" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="307" end="315" />
+        <spannedText>minister</spannedText>
+        <creationDate>Thu May 17 21:26:43 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25630">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25621">
+        <hasSlotMention id="EHOST_Instance_25630" />
+        <mentionClass id="Profession">minister</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25622" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="358" end="364" />
+        <spannedText>jurist</spannedText>
+        <creationDate>Thu May 17 21:26:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25631">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_25632">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_25624" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25622">
+        <hasSlotMention id="EHOST_Instance_25631" />
+        <hasSlotMention id="EHOST_Instance_25632" />
+        <mentionClass id="Profession">jurist</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25623" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="368" end="376" />
+        <spannedText>uitgever</spannedText>
+        <creationDate>Thu May 17 21:27:00 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25633">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_25634">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_25624" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25623">
+        <hasSlotMention id="EHOST_Instance_25633" />
+        <hasSlotMention id="EHOST_Instance_25634" />
+        <mentionClass id="Profession">uitgever</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25624" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="342" end="353" />
+        <spannedText>Johan Luzac</spannedText>
+        <creationDate>Thu May 17 21:27:03 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25624">
+        <mentionClass id="Person">Johan Luzac</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25625" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="546" end="554" />
+        <spannedText>koningen</spannedText>
+        <creationDate>Thu May 17 21:27:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25635">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_25636">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_25626" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25637">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_25627" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25625">
+        <hasSlotMention id="EHOST_Instance_25635" />
+        <hasSlotMention id="EHOST_Instance_25636" />
+        <hasSlotMention id="EHOST_Instance_25637" />
+        <mentionClass id="Profession">koningen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25626" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="555" end="563" />
+        <spannedText>Willem I</spannedText>
+        <creationDate>Thu May 17 21:27:22 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25626">
+        <mentionClass id="Person">Willem I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25627" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="567" end="576" />
+        <spannedText>Willem II</spannedText>
+        <creationDate>Thu May 17 21:27:24 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25627">
+        <mentionClass id="Person">Willem II</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25628" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="708" end="761" />
+        <spannedText>Lid van de Staatscommissie die de Grondwetsherziening</spannedText>
+        <creationDate>Thu May 17 21:27:43 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25638">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25628">
+        <hasSlotMention id="EHOST_Instance_25638" />
+        <mentionClass id="Profession">Lid van de Staatscommissie die de Grondwetsherziening</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

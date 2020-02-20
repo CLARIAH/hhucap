@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="42231254_09.txt">
+    <annotation>
+        <mention id="EHOST_Instance_9760" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="0" end="19" />
+        <spannedText>Hartog H. de Lemon</spannedText>
+        <creationDate>Fri Apr 13 15:36:28 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9760">
+        <mentionClass id="Person">Hartog H. de Lemon</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9761" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="106" end="117" />
+        <spannedText>armendokter</spannedText>
+        <creationDate>Fri Apr 13 15:36:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9765">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9766">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9760" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9761">
+        <hasSlotMention id="EHOST_Instance_9765" />
+        <hasSlotMention id="EHOST_Instance_9766" />
+        <mentionClass id="Profession">armendokter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9762" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="489" end="500" />
+        <spannedText>armendokter</spannedText>
+        <creationDate>Fri Apr 13 15:36:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9767">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9768">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9760" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9762">
+        <hasSlotMention id="EHOST_Instance_9767" />
+        <hasSlotMention id="EHOST_Instance_9768" />
+        <mentionClass id="Profession">armendokter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9763" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1335" end="1346" />
+        <spannedText>armendokter</spannedText>
+        <creationDate>Fri Apr 13 15:37:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9769">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9770">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9760" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9763">
+        <hasSlotMention id="EHOST_Instance_9769" />
+        <hasSlotMention id="EHOST_Instance_9770" />
+        <mentionClass id="Profession">armendokter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9764" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="253" end="266" />
+        <spannedText>parlementslid</spannedText>
+        <creationDate>Fri Apr 13 15:39:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9771">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9772">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9760" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9764">
+        <hasSlotMention id="EHOST_Instance_9771" />
+        <hasSlotMention id="EHOST_Instance_9772" />
+        <mentionClass id="Profession">parlementslid</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

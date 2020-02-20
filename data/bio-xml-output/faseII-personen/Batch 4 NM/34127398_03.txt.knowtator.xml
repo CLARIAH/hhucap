@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="34127398_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_8277" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="633" end="638" />
+        <spannedText>pater</spannedText>
+        <creationDate>Wed Apr 18 11:17:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8283">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8277">
+        <hasSlotMention id="EHOST_Instance_8283" />
+        <mentionClass id="Profession">pater</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8278" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="869" end="874" />
+        <spannedText>pater</spannedText>
+        <creationDate>Wed Apr 18 11:17:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8284">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8278">
+        <hasSlotMention id="EHOST_Instance_8284" />
+        <mentionClass id="Profession">pater</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8279" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1890" end="1896" />
+        <spannedText>auteur</spannedText>
+        <creationDate>Wed Apr 18 11:18:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8285">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8279">
+        <hasSlotMention id="EHOST_Instance_8285" />
+        <mentionClass id="Profession">auteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8280" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2677" end="2687" />
+        <spannedText>hoogleraar</spannedText>
+        <creationDate>Wed Apr 18 11:18:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8286">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_8287">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_8281" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_8280">
+        <hasSlotMention id="EHOST_Instance_8286" />
+        <hasSlotMention id="EHOST_Instance_8287" />
+        <mentionClass id="Profession">hoogleraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8281" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2688" end="2703" />
+        <spannedText>C. J. van Assen</spannedText>
+        <creationDate>Wed Apr 18 11:18:49 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_8281">
+        <mentionClass id="Person">C. J. van Assen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8282" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="4796" end="4804" />
+        <spannedText>bisschop</spannedText>
+        <creationDate>Thu Jul 05 21:46:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8288">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8282">
+        <hasSlotMention id="EHOST_Instance_8288" />
+        <mentionClass id="Profession">bisschop</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

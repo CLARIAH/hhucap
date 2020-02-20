@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="67079075_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_42386" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="114" end="127" />
+        <spannedText>schrijnwerker</spannedText>
+        <creationDate>Thu May 31 15:43:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42390">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_42391">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_42387" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_42386">
+        <hasSlotMention id="EHOST_Instance_42390" />
+        <hasSlotMention id="EHOST_Instance_42391" />
+        <mentionClass id="Profession">schrijnwerker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42387" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="90" end="112" />
+        <spannedText>Joos van Laren Jooszn.</spannedText>
+        <creationDate>Thu May 31 15:43:35 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42387">
+        <mentionClass id="Person">Joos van Laren Jooszn.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42388" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="165" end="186" />
+        <spannedText>Klerk van de griffie</spannedText>
+        <creationDate>Thu May 31 15:43:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42392">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Mother" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_42393">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_42389" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_42388">
+        <hasSlotMention id="EHOST_Instance_42392" />
+        <hasSlotMention id="EHOST_Instance_42393" />
+        <mentionClass id="Profession">Klerk van de griffie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42389" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="133" end="164" />
+        <spannedText>Jaquemijntje van Damme Jacobsd.</spannedText>
+        <creationDate>Thu May 31 15:43:53 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42389">
+        <mentionClass id="Person">Jaquemijntje van Damme Jacobsd.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

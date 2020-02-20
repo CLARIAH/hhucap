@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="20767732_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_95019" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="0" end="6" />
+        <spannedText>Rector</spannedText>
+        <creationDate>Fri May 18 21:12:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_95028">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_95019">
+        <hasSlotMention id="EHOST_Instance_95028" />
+        <mentionClass id="Profession">Rector</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_95020" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="58" end="67" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Fri May 18 21:13:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_95029">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_95030">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_95021" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_95020">
+        <hasSlotMention id="EHOST_Instance_95029" />
+        <hasSlotMention id="EHOST_Instance_95030" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_95021" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="45" end="53" />
+        <spannedText>zoon van</spannedText>
+        <creationDate>Fri May 18 21:13:02 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_95021">
+        <mentionClass id="Person">zoon van</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_95022" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="225" end="257" />
+        <spannedText>secretaris van staat voor Marine</spannedText>
+        <creationDate>Fri May 18 21:13:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_95031">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_95022">
+        <hasSlotMention id="EHOST_Instance_95031" />
+        <mentionClass id="Profession">secretaris van staat voor Marine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_95023" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="216" end="223" />
+        <spannedText>schepen</spannedText>
+        <creationDate>Sun Jul 08 12:03:16 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_95023">
+        <mentionClass id="Profession">schepen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_95024" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="259" end="280" />
+        <spannedText>lid van de Staatsraad</spannedText>
+        <creationDate>Sun Jul 08 12:03:20 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_95024">
+        <mentionClass id="Profession">lid van de Staatsraad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_95025" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="282" end="344" />
+        <spannedText>lid van vrijwel alle nationale parlementen in de Bataafse tijd</spannedText>
+        <creationDate>Sun Jul 08 12:03:25 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_95025">
+        <mentionClass id="Profession">lid van vrijwel alle nationale parlementen in de Bataafse tijd</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_95026" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="403" end="448" />
+        <spannedText>buitengewoon staatsraad in werkelijke dienst.</spannedText>
+        <creationDate>Sun Jul 08 12:03:30 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_95026">
+        <mentionClass id="Profession">buitengewoon staatsraad in werkelijke dienst.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_95027" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="125" end="131" />
+        <span start="102" end="124" />
+        <spannedText>op vele bestuursposten ... diende</spannedText>
+        <creationDate>Sun Jul 08 12:03:35 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_95027">
+        <mentionClass id="Profession">op vele bestuursposten ... diende</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

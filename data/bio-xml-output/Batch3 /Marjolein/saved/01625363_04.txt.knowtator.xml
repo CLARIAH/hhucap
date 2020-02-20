@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="01625363_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_9867" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="0" end="14" />
+        <spannedText>Joseph Lanjouw</spannedText>
+        <creationDate>Tue Apr 24 14:56:26 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9867">
+        <mentionClass id="Person">Joseph Lanjouw</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9868" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="98" end="119" />
+        <spannedText>hoogleraar plantkunde</spannedText>
+        <creationDate>Tue Apr 24 14:56:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9872">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9873">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9867" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9868">
+        <hasSlotMention id="EHOST_Instance_9872" />
+        <hasSlotMention id="EHOST_Instance_9873" />
+        <mentionClass id="Profession">hoogleraar plantkunde</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9869" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="476" end="487" />
+        <spannedText>conservator</spannedText>
+        <creationDate>Tue Apr 24 14:56:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9874">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9875">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9867" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9869">
+        <hasSlotMention id="EHOST_Instance_9874" />
+        <hasSlotMention id="EHOST_Instance_9875" />
+        <mentionClass id="Profession">conservator</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9870" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="674" end="755" />
+        <spannedText>hoogleraar in de bijzondere plantkunde en de leer van de verspreiding der planten</spannedText>
+        <creationDate>Tue Apr 24 14:57:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9876">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9877">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9867" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_9878">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9871" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9870">
+        <hasSlotMention id="EHOST_Instance_9876" />
+        <hasSlotMention id="EHOST_Instance_9877" />
+        <hasSlotMention id="EHOST_Instance_9878" />
+        <mentionClass id="Profession">hoogleraar in de bijzondere plantkunde en de leer van de verspreiding der planten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9871" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="262" end="272" />
+        <spannedText>A.A. Pulle</spannedText>
+        <creationDate>Tue Apr 24 14:57:25 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9871">
+        <mentionClass id="Person">A.A. Pulle</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

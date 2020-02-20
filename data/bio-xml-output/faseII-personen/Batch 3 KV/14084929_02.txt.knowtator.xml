@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="14084929_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_19340" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="134" end="140" />
+        <spannedText>acteur</spannedText>
+        <creationDate>Thu Apr 12 21:14:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_19380">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_19340">
+        <hasSlotMention id="EHOST_Instance_19380" />
+        <mentionClass id="Profession">acteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19341" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="142" end="155" />
+        <spannedText>filmregisseur</spannedText>
+        <creationDate>Thu Apr 12 21:14:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_19381">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_19341">
+        <hasSlotMention id="EHOST_Instance_19381" />
+        <mentionClass id="Profession">filmregisseur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19342" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="157" end="166" />
+        <spannedText>producent</spannedText>
+        <creationDate>Thu Apr 12 21:14:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_19382">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_19342">
+        <hasSlotMention id="EHOST_Instance_19382" />
+        <mentionClass id="Profession">producent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19343" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="239" end="246" />
+        <spannedText>musicus</spannedText>
+        <creationDate>Thu Apr 12 21:15:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_19383">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_19384">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_19377" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_19343">
+        <hasSlotMention id="EHOST_Instance_19383" />
+        <hasSlotMention id="EHOST_Instance_19384" />
+        <mentionClass id="Profession">musicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19344" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="248" end="260" />
+        <spannedText>kapelmeester</spannedText>
+        <creationDate>Thu Apr 12 21:15:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_19385">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_19386">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_19377" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_19344">
+        <hasSlotMention id="EHOST_Instance_19385" />
+        <hasSlotMention id="EHOST_Instance_19386" />
+        <mentionClass id="Profession">kapelmeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19345" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="432" end="460" />
+        <spannedText>Anna Susanna (Annie) Wesling</spannedText>
+        <creationDate>Thu Apr 12 21:15:29 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19345">
+        <mentionClass id="Person">Anna Susanna (Annie) Wesling</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19346" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="462" end="469" />
+        <spannedText>actrice</spannedText>
+        <creationDate>Thu Apr 12 21:15:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_19387">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_19388">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_19345" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_19346">
+        <hasSlotMention id="EHOST_Instance_19387" />
+        <hasSlotMention id="EHOST_Instance_19388" />
+        <mentionClass id="Profession">actrice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19347" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="311" end="318" />
+        <spannedText>actrice</spannedText>
+        <creationDate>Sat Jun 23 11:12:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_19389">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Mother" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_19390">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_19378" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_19347">
+        <hasSlotMention id="EHOST_Instance_19389" />
+        <hasSlotMention id="EHOST_Instance_19390" />
+        <mentionClass id="Profession">actrice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19348" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="371" end="378" />
+        <spannedText>actrice</spannedText>
+        <creationDate>Sat Jun 23 11:12:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_19391">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_19392">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_19379" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_19348">
+        <hasSlotMention id="EHOST_Instance_19391" />
+        <hasSlotMention id="EHOST_Instance_19392" />
+        <mentionClass id="Profession">actrice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19349" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="558" end="566" />
+        <spannedText>tekenaar</spannedText>
+        <creationDate>Sat Jun 23 11:12:54 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19349">
+        <mentionClass id="Profession">tekenaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19350" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="570" end="585" />
+        <spannedText>variété-artiest</spannedText>
+        <creationDate>Sat Jun 23 11:12:57 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19350">
+        <mentionClass id="Profession">variété-artiest</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19351" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="857" end="877" />
+        <spannedText>transformatie-acteur</spannedText>
+        <creationDate>Sat Jun 23 11:13:14 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19351">
+        <mentionClass id="Profession">transformatie-acteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19352" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1196" end="1205" />
+        <spannedText>producent</spannedText>
+        <creationDate>Sat Jun 23 11:13:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19352">
+        <mentionClass id="Profession">producent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19353" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1502" end="1509" />
+        <spannedText>spelers</spannedText>
+        <creationDate>Sat Jun 23 11:13:50 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19353">
+        <mentionClass id="Profession">spelers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19354" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1677" end="1686" />
+        <spannedText>producent</spannedText>
+        <creationDate>Sat Jun 23 11:14:01 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19354">
+        <mentionClass id="Profession">producent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19355" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1783" end="1810" />
+        <spannedText>directeur van Urbans studio</spannedText>
+        <creationDate>Sat Jun 23 11:14:14 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19355">
+        <mentionClass id="Profession">directeur van Urbans studio</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19356" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2481" end="2520" />
+        <spannedText>directeur-regisseur bij Britannia Films</spannedText>
+        <creationDate>Sat Jun 23 11:15:50 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19356">
+        <mentionClass id="Profession">directeur-regisseur bij Britannia Films</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19357" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2886" end="2895" />
+        <spannedText>producent</spannedText>
+        <creationDate>Sat Jun 23 11:16:11 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19357">
+        <mentionClass id="Profession">producent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19358" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3101" end="3111" />
+        <spannedText>filmacteur</spannedText>
+        <creationDate>Sat Jun 23 11:16:22 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19358">
+        <mentionClass id="Profession">filmacteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19359" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3113" end="3127" />
+        <spannedText>decorontwerper</spannedText>
+        <creationDate>Sat Jun 23 11:16:24 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19359">
+        <mentionClass id="Profession">decorontwerper</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19360" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3129" end="3146" />
+        <spannedText>scenarioschrijver</spannedText>
+        <creationDate>Sat Jun 23 11:16:26 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19360">
+        <mentionClass id="Profession">scenarioschrijver</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19361" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3150" end="3159" />
+        <spannedText>regisseur</spannedText>
+        <creationDate>Sat Jun 23 11:16:28 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19361">
+        <mentionClass id="Profession">regisseur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19362" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3174" end="3184" />
+        <spannedText>filmvakman</spannedText>
+        <creationDate>Sat Jun 23 11:17:15 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19362">
+        <mentionClass id="Profession">filmvakman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19363" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3467" end="3478" />
+        <spannedText>zakenlieden</spannedText>
+        <creationDate>Sat Jun 23 11:17:23 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19363">
+        <mentionClass id="Profession">zakenlieden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19364" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="5476" end="5496" />
+        <spannedText>binnenvaartschippers</spannedText>
+        <creationDate>Sat Jun 23 11:18:53 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19364">
+        <mentionClass id="Profession">binnenvaartschippers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19365" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="6364" end="6371" />
+        <spannedText>actrice</spannedText>
+        <creationDate>Sat Jun 23 11:19:27 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19365">
+        <mentionClass id="Profession">actrice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19366" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="6510" end="6519" />
+        <spannedText>artiesten</spannedText>
+        <creationDate>Sat Jun 23 11:19:34 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19366">
+        <mentionClass id="Profession">artiesten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19367" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="6820" end="6829" />
+        <spannedText>producent</spannedText>
+        <creationDate>Sat Jun 23 11:19:47 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19367">
+        <mentionClass id="Profession">producent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19368" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="6971" end="6978" />
+        <spannedText>spelers</spannedText>
+        <creationDate>Sat Jun 23 11:19:55 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19368">
+        <mentionClass id="Profession">spelers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19369" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7229" end="7239" />
+        <spannedText>brandwacht</spannedText>
+        <creationDate>Sat Jun 23 11:20:12 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19369">
+        <mentionClass id="Profession">brandwacht</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19370" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7703" end="7710" />
+        <spannedText>actrice</spannedText>
+        <creationDate>Sat Jun 23 11:20:51 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19370">
+        <mentionClass id="Profession">actrice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19371" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7787" end="7796" />
+        <spannedText>regisseur</spannedText>
+        <creationDate>Sat Jun 23 11:20:56 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19371">
+        <mentionClass id="Profession">regisseur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19372" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7846" end="7883" />
+        <spannedText>werkte hij geregeld voor de KRO-radio</spannedText>
+        <creationDate>Sat Jun 23 11:21:09 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19372">
+        <mentionClass id="Profession">werkte hij geregeld voor de KRO-radio</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19373" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7973" end="7979" />
+        <spannedText>acteur</spannedText>
+        <creationDate>Sat Jun 23 11:21:15 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19373">
+        <mentionClass id="Profession">acteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19374" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="8537" end="8546" />
+        <spannedText>toneelman</spannedText>
+        <creationDate>Sat Jun 23 11:21:46 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19374">
+        <mentionClass id="Profession">toneelman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19375" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="8602" end="8615" />
+        <spannedText>filmregisseur</spannedText>
+        <creationDate>Sat Jun 23 11:21:50 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19375">
+        <mentionClass id="Profession">filmregisseur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19376" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="8743" end="8760" />
+        <spannedText>pionier-producent</spannedText>
+        <creationDate>Sat Jun 23 11:21:57 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19376">
+        <mentionClass id="Profession">pionier-producent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19377" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="222" end="237" />
+        <spannedText>Maurits Frenkel</spannedText>
+        <creationDate>Sat Jun 30 20:54:35 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19377">
+        <mentionClass id="Person">Maurits Frenkel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19378" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="282" end="309" />
+        <spannedText>Louisa Cornelia Bouwmeester</spannedText>
+        <creationDate>Sat Jun 30 20:54:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19378">
+        <mentionClass id="Person">Louisa Cornelia Bouwmeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_19379" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="344" end="369" />
+        <spannedText>Julie Marie Louise Meijer</spannedText>
+        <creationDate>Sat Jun 30 20:54:55 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_19379">
+        <mentionClass id="Person">Julie Marie Louise Meijer</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

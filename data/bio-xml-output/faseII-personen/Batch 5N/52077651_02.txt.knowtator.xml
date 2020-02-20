@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="52077651_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_22747" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="591" end="630" />
+        <spannedText>beheerder van de Hollandsche Schouwburg</spannedText>
+        <creationDate>Mon May 07 13:47:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22750">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22747">
+        <hasSlotMention id="EHOST_Instance_22750" />
+        <mentionClass id="Profession">beheerder van de Hollandsche Schouwburg</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22748" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="974" end="998" />
+        <spannedText>directrice van de crèche</spannedText>
+        <creationDate>Mon May 07 13:48:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22751">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_22752">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_22749" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22748">
+        <hasSlotMention id="EHOST_Instance_22751" />
+        <hasSlotMention id="EHOST_Instance_22752" />
+        <mentionClass id="Profession">directrice van de crèche</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22749" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1026" end="1054" />
+        <spannedText>Henriette Rodriques Pimentel</spannedText>
+        <creationDate>Mon May 07 13:48:24 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22749">
+        <mentionClass id="Person">Henriette Rodriques Pimentel</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

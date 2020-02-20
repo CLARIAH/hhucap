@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="46675892_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_94775" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="260" end="270" />
+        <spannedText>hoogleraar</spannedText>
+        <creationDate>Tue May 22 13:36:20 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94781">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_94775">
+        <hasSlotMention id="EHOST_Instance_94781" />
+        <mentionClass id="Profession">hoogleraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94776" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1917" end="1932" />
+        <spannedText>Charles Blondel</spannedText>
+        <creationDate>Tue May 22 13:37:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_94776">
+        <mentionClass id="Person">Charles Blondel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94777" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1906" end="1916" />
+        <spannedText>psycholoog</spannedText>
+        <creationDate>Tue May 22 13:37:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94782">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_94783">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_94776" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_94777">
+        <hasSlotMention id="EHOST_Instance_94782" />
+        <hasSlotMention id="EHOST_Instance_94783" />
+        <mentionClass id="Profession">psycholoog</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94778" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2146" end="2160" />
+        <spannedText>Edmund Husserl</spannedText>
+        <creationDate>Tue May 22 13:37:54 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_94778">
+        <mentionClass id="Person">Edmund Husserl</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94779" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2137" end="2145" />
+        <spannedText>filosoof</spannedText>
+        <creationDate>Tue May 22 13:37:56 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94784">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_94785">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_94778" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_94779">
+        <hasSlotMention id="EHOST_Instance_94784" />
+        <hasSlotMention id="EHOST_Instance_94785" />
+        <mentionClass id="Profession">filosoof</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94780" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2529" end="2538" />
+        <spannedText>directeur</spannedText>
+        <creationDate>Tue May 22 13:38:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94786">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_94780">
+        <hasSlotMention id="EHOST_Instance_94786" />
+        <mentionClass id="Profession">directeur</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

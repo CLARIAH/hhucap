@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="03763001_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_41235" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="160" end="177" />
+        <spannedText>suikerraffinadeur</spannedText>
+        <creationDate>Wed May 30 13:54:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41269">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41270">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41236" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41235">
+        <hasSlotMention id="EHOST_Instance_41269" />
+        <hasSlotMention id="EHOST_Instance_41270" />
+        <mentionClass id="Profession">suikerraffinadeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41236" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="141" end="158" />
+        <spannedText>Hendrik van Oordt</spannedText>
+        <creationDate>Wed May 30 13:54:28 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_41236">
+        <mentionClass id="Person">Hendrik van Oordt</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41237" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="922" end="933" />
+        <spannedText>landbouwers</spannedText>
+        <creationDate>Wed May 30 13:54:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41271">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41237">
+        <hasSlotMention id="EHOST_Instance_41271" />
+        <mentionClass id="Profession">landbouwers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41238" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1262" end="1272" />
+        <spannedText>landbouwer</spannedText>
+        <creationDate>Wed May 30 13:55:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41272">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41238">
+        <hasSlotMention id="EHOST_Instance_41272" />
+        <mentionClass id="Profession">landbouwer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41239" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1994" end="2008" />
+        <spannedText>steenfabrikant</spannedText>
+        <creationDate>Wed May 30 13:55:56 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41273">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41239">
+        <hasSlotMention id="EHOST_Instance_41273" />
+        <mentionClass id="Profession">steenfabrikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41240" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2600" end="2609" />
+        <spannedText>directeur</spannedText>
+        <creationDate>Wed May 30 13:56:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41274">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41275">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41241" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41240">
+        <hasSlotMention id="EHOST_Instance_41274" />
+        <hasSlotMention id="EHOST_Instance_41275" />
+        <mentionClass id="Profession">directeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41241" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2623" end="2646" />
+        <spannedText>Joan Walrave van Houten</spannedText>
+        <creationDate>Wed May 30 13:56:26 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_41241">
+        <mentionClass id="Person">Joan Walrave van Houten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41242" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2648" end="2665" />
+        <spannedText>baksteenfabrikant</spannedText>
+        <creationDate>Wed May 30 13:56:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41276">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41277">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41241" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41242">
+        <hasSlotMention id="EHOST_Instance_41276" />
+        <hasSlotMention id="EHOST_Instance_41277" />
+        <mentionClass id="Profession">baksteenfabrikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41243" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2772" end="2783" />
+        <spannedText>boekdrukker</spannedText>
+        <creationDate>Wed May 30 13:56:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41278">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41279">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41245" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41243">
+        <hasSlotMention id="EHOST_Instance_41278" />
+        <hasSlotMention id="EHOST_Instance_41279" />
+        <mentionClass id="Profession">boekdrukker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41244" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2787" end="2795" />
+        <spannedText>uitgever</spannedText>
+        <creationDate>Wed May 30 13:56:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41280">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41281">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41245" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41244">
+        <hasSlotMention id="EHOST_Instance_41280" />
+        <hasSlotMention id="EHOST_Instance_41281" />
+        <mentionClass id="Profession">uitgever</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41245" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2730" end="2760" />
+        <spannedText>Adriaan Pieter Marie van Oordt</spannedText>
+        <creationDate>Wed May 30 13:56:54 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_41245">
+        <mentionClass id="Person">Adriaan Pieter Marie van Oordt</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41246" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="3177" end="3196" />
+        <spannedText>landschapsarchitect</spannedText>
+        <creationDate>Wed May 30 13:57:20 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41282">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41283">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41247" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41246">
+        <hasSlotMention id="EHOST_Instance_41282" />
+        <hasSlotMention id="EHOST_Instance_41283" />
+        <mentionClass id="Profession">landschapsarchitect</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41247" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="3197" end="3210" />
+        <spannedText>H.H. Hoogeweg</spannedText>
+        <creationDate>Wed May 30 13:57:23 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_41247">
+        <mentionClass id="Person">H.H. Hoogeweg</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41248" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="3572" end="3581" />
+        <spannedText>aannemers</spannedText>
+        <creationDate>Wed May 30 13:57:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41284">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41248">
+        <hasSlotMention id="EHOST_Instance_41284" />
+        <mentionClass id="Profession">aannemers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41249" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="3760" end="3777" />
+        <spannedText>baksteenfabrikant</spannedText>
+        <creationDate>Wed May 30 13:57:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41285">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41249">
+        <hasSlotMention id="EHOST_Instance_41285" />
+        <mentionClass id="Profession">baksteenfabrikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41250" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="5213" end="5232" />
+        <spannedText>projectontwikkelaar</spannedText>
+        <creationDate>Wed May 30 13:59:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41286">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41250">
+        <hasSlotMention id="EHOST_Instance_41286" />
+        <mentionClass id="Profession">projectontwikkelaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41251" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="6176" end="6185" />
+        <spannedText>architect</spannedText>
+        <creationDate>Wed May 30 13:59:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41287">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41288">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41252" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41251">
+        <hasSlotMention id="EHOST_Instance_41287" />
+        <hasSlotMention id="EHOST_Instance_41288" />
+        <mentionClass id="Profession">architect</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41252" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="6186" end="6195" />
+        <spannedText>J.A. Wijn</spannedText>
+        <creationDate>Wed May 30 13:59:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_41252">
+        <mentionClass id="Person">J.A. Wijn</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41253" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="6741" end="6817" />
+        <spannedText>directeur van de in 1892 in Amsterdam opgerichte NV Bouwmaatschappij Fortuna</spannedText>
+        <creationDate>Wed May 30 13:59:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41289">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41253">
+        <hasSlotMention id="EHOST_Instance_41289" />
+        <mentionClass id="Profession">directeur van de in 1892 in Amsterdam opgerichte NV Bouwmaatschappij Fortuna</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41254" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="7002" end="7011" />
+        <spannedText>directeur</spannedText>
+        <creationDate>Wed May 30 14:00:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41290">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41254">
+        <hasSlotMention id="EHOST_Instance_41290" />
+        <mentionClass id="Profession">directeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41255" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="8090" end="8099" />
+        <spannedText>directeur</spannedText>
+        <creationDate>Wed May 30 14:00:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41291">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41255">
+        <hasSlotMention id="EHOST_Instance_41291" />
+        <mentionClass id="Profession">directeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41256" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="8686" end="8725" />
+        <spannedText>dijkgraaf van het polderdistrict Veluwe</spannedText>
+        <creationDate>Wed May 30 14:00:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41292">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41256">
+        <hasSlotMention id="EHOST_Instance_41292" />
+        <mentionClass id="Profession">dijkgraaf van het polderdistrict Veluwe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41257" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="8825" end="8831" />
+        <spannedText>koning</spannedText>
+        <creationDate>Wed May 30 14:01:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41293">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41294">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41258" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41257">
+        <hasSlotMention id="EHOST_Instance_41293" />
+        <hasSlotMention id="EHOST_Instance_41294" />
+        <mentionClass id="Profession">koning</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41258" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="8832" end="8842" />
+        <spannedText>Willem III</spannedText>
+        <creationDate>Wed May 30 14:01:08 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_41258">
+        <mentionClass id="Person">Willem III</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41259" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="10142" end="10170" />
+        <spannedText>secretaris van de vereniging</spannedText>
+        <creationDate>Wed May 30 14:01:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41295">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41259">
+        <hasSlotMention id="EHOST_Instance_41295" />
+        <mentionClass id="Profession">secretaris van de vereniging</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41260" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="10982" end="11032" />
+        <spannedText>mede-initiator van het Veluws Locaal Spoorwegcomit</spannedText>
+        <creationDate>Wed May 30 14:02:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41296">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41260">
+        <hasSlotMention id="EHOST_Instance_41296" />
+        <mentionClass id="Profession">mede-initiator van het Veluws Locaal Spoorwegcomit</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41261" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="11062" end="11071" />
+        <spannedText>wethouder</spannedText>
+        <creationDate>Wed May 30 14:02:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41297">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41298">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41262" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41261">
+        <hasSlotMention id="EHOST_Instance_41297" />
+        <hasSlotMention id="EHOST_Instance_41298" />
+        <mentionClass id="Profession">wethouder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41262" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="11072" end="11085" />
+        <spannedText>E. Vas Visser</spannedText>
+        <creationDate>Wed May 30 14:02:52 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_41262">
+        <mentionClass id="Person">E. Vas Visser</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41263" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="11102" end="11122" />
+        <spannedText>burgemeester van Epe</spannedText>
+        <creationDate>Wed May 30 14:02:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41299">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41300">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41264" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41263">
+        <hasSlotMention id="EHOST_Instance_41299" />
+        <hasSlotMention id="EHOST_Instance_41300" />
+        <mentionClass id="Profession">burgemeester van Epe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41264" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="11091" end="11100" />
+        <spannedText>E. Weerts</spannedText>
+        <creationDate>Wed May 30 14:02:40 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_41264">
+        <mentionClass id="Person">E. Weerts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41265" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="11860" end="11902" />
+        <spannedText>ridder in de Orde van de Nederlandse Leeuw</spannedText>
+        <creationDate>Wed May 30 14:03:19 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41301">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41265">
+        <hasSlotMention id="EHOST_Instance_41301" />
+        <mentionClass id="Profession">ridder in de Orde van de Nederlandse Leeuw</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41266" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="12158" end="12182" />
+        <spannedText>Commissaris der Koningin</spannedText>
+        <creationDate>Wed May 30 14:03:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41302">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41266">
+        <hasSlotMention id="EHOST_Instance_41302" />
+        <mentionClass id="Profession">Commissaris der Koningin</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41267" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="12194" end="12229" />
+        <spannedText>Hoofdinspecteur van Rijkswaterstaat</spannedText>
+        <creationDate>Wed May 30 14:03:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41303">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41267">
+        <hasSlotMention id="EHOST_Instance_41303" />
+        <mentionClass id="Profession">Hoofdinspecteur van Rijkswaterstaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41268" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="12835" end="12845" />
+        <spannedText>secretaris</spannedText>
+        <creationDate>Wed May 30 14:04:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41304">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41268">
+        <hasSlotMention id="EHOST_Instance_41304" />
+        <mentionClass id="Profession">secretaris</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

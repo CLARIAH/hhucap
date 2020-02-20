@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="57118828_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_4176" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="138" end="176" />
+        <spannedText>secretaris van de Nationale Woningraad</spannedText>
+        <creationDate>Sun Jun 03 16:39:03 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4180">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4176">
+        <hasSlotMention id="EHOST_Instance_4180" />
+        <mentionClass id="Profession">secretaris van de Nationale Woningraad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4177" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="236" end="244" />
+        <spannedText>Kamerlid</spannedText>
+        <creationDate>Sun Jun 03 16:39:10 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4181">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4177">
+        <hasSlotMention id="EHOST_Instance_4181" />
+        <mentionClass id="Profession">Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4178" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="270" end="305" />
+        <spannedText>ondervoorzitter van de Tweede Kamer</spannedText>
+        <creationDate>Sun Jun 03 16:39:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4182">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4178">
+        <hasSlotMention id="EHOST_Instance_4182" />
+        <mentionClass id="Profession">ondervoorzitter van de Tweede Kamer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4179" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="499" end="509" />
+        <spannedText>wethouder.</spannedText>
+        <creationDate>Sun Jun 03 16:39:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4183">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4179">
+        <hasSlotMention id="EHOST_Instance_4183" />
+        <mentionClass id="Profession">wethouder.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

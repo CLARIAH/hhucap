@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="89007714_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_6067" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="0" end="18" />
+        <spannedText>Johanna Westerdijk</spannedText>
+        <creationDate>Tue Mar 13 14:43:21 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_6067">
+        <mentionClass id="Person">Johanna Westerdijk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6068" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="448" end="458" />
+        <spannedText>Westerdijk</spannedText>
+        <creationDate>Tue Mar 13 14:43:34 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_6068">
+        <mentionClass id="Person">Westerdijk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6069" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="655" end="670" />
+        <spannedText>Jan Ritzema Bos</spannedText>
+        <creationDate>Tue Mar 13 14:43:48 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_6069">
+        <mentionClass id="Person">Jan Ritzema Bos</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6070" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="92" end="115" />
+        <spannedText>buitengewoon hoogleraar</spannedText>
+        <creationDate>Tue Mar 13 14:46:06 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6072">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_6073">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_6067" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_6070">
+        <hasSlotMention id="EHOST_Instance_6072" />
+        <hasSlotMention id="EHOST_Instance_6073" />
+        <mentionClass id="Profession">buitengewoon hoogleraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6071" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="549" end="623" />
+        <spannedText>directeur van het Phytopathologisch Laboratorium 'Willie Commelin Scholten</spannedText>
+        <creationDate>Tue Mar 13 14:52:47 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6074">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_6075">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_6068" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_6076">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_6069" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_6071">
+        <hasSlotMention id="EHOST_Instance_6074" />
+        <hasSlotMention id="EHOST_Instance_6075" />
+        <hasSlotMention id="EHOST_Instance_6076" />
+        <mentionClass id="Profession">directeur van het Phytopathologisch Laboratorium 'Willie Commelin Scholten</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

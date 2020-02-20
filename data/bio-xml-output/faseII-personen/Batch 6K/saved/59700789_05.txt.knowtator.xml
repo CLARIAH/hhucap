@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="59700789_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_47544" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="309" end="321" />
+        <spannedText>paleontoloog</spannedText>
+        <creationDate>Sat May 19 19:14:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47546">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_47544">
+        <hasSlotMention id="EHOST_Instance_47546" />
+        <mentionClass id="Profession">paleontoloog</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47545" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="914" end="925" />
+        <spannedText>conservator</spannedText>
+        <creationDate>Sun Jul 08 14:05:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47547">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_47545">
+        <hasSlotMention id="EHOST_Instance_47547" />
+        <mentionClass id="Profession">conservator</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

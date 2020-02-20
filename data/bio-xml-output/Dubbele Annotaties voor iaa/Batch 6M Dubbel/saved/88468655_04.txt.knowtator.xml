@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88468655_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_93565" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="77" end="90" />
+        <spannedText>Jacob Stuart</spannedText>
+        <creationDate>Thu May 17 16:11:49 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_93565">
+        <mentionClass id="Person">Jacob Stuart</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_93566" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="92" end="99" />
+        <spannedText>koopman</spannedText>
+        <creationDate>Thu May 17 16:11:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_93568">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_93569">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_93565" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_93566">
+        <hasSlotMention id="EHOST_Instance_93568" />
+        <hasSlotMention id="EHOST_Instance_93569" />
+        <mentionClass id="Profession">koopman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_93567" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="181" end="191" />
+        <spannedText>Rem. pred.</spannedText>
+        <creationDate>Thu May 17 16:12:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_93570">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_93567">
+        <hasSlotMention id="EHOST_Instance_93570" />
+        <mentionClass id="Profession">Rem. pred.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

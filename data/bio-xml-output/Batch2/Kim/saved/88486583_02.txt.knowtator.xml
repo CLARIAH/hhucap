@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88486583_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5215" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="0" end="20" />
+        <spannedText>BEVERSLUIS, MARTINUS</spannedText>
+        <creationDate>Mon Apr 09 09:40:51 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5215">
+        <mentionClass id="Person">BEVERSLUIS, MARTINUS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5216" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="110" end="128" />
+        <spannedText>muziekhan- delaar</spannedText>
+        <creationDate>Mon Apr 09 09:40:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5220">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_5221">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_5217" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5216">
+        <hasSlotMention id="EHOST_Instance_5220" />
+        <hasSlotMention id="EHOST_Instance_5221" />
+        <mentionClass id="Profession">muziekhan- delaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5217" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="83" end="108" />
+        <spannedText>Pieter Hendrik Beversluis</spannedText>
+        <creationDate>Mon Apr 09 09:41:02 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5217">
+        <mentionClass id="Person">Pieter Hendrik Beversluis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5218" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="133" end="164" />
+        <spannedText>Gijsberta Christina Martina Los</spannedText>
+        <creationDate>Mon Apr 09 09:41:29 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5218">
+        <mentionClass id="Person">Gijsberta Christina Martina Los</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5219" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="167" end="178" />
+        <spannedText>Stud. theol</spannedText>
+        <creationDate>Mon Apr 09 09:41:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5222">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Mother" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_5223">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_5218" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5219">
+        <hasSlotMention id="EHOST_Instance_5222" />
+        <hasSlotMention id="EHOST_Instance_5223" />
+        <mentionClass id="Profession">Stud. theol</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

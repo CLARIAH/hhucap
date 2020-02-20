@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="75376904_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_648" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4" end="30" />
+        <spannedText>directeur van haar kabinet</spannedText>
+        <creationDate>Sat Mar 03 11:53:02 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_656">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_648">
+        <hasSlotMention id="EHOST_Instance_656" />
+        <mentionClass id="Profession">directeur van haar kabinet</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_649" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="72" end="80" />
+        <spannedText>koningin</spannedText>
+        <creationDate>Sat Mar 03 11:53:09 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_657">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NoFamilyMember" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_649">
+        <hasSlotMention id="EHOST_Instance_657" />
+        <mentionClass id="Profession">koningin</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_650" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="81" end="91" />
+        <spannedText>Wilhelmina</spannedText>
+        <creationDate>Sat Mar 03 11:53:18 CET 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_658">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_649" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_659">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_653" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_650">
+        <hasSlotMention id="EHOST_Instance_658" />
+        <hasSlotMention id="EHOST_Instance_659" />
+        <mentionClass id="Person">Wilhelmina</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_651" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="132" end="140" />
+        <spannedText>minister</spannedText>
+        <creationDate>Sat Mar 03 11:53:56 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_660">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_651">
+        <hasSlotMention id="EHOST_Instance_660" />
+        <mentionClass id="Profession">minister</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_652" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="132" end="140" />
+        <spannedText>minister</spannedText>
+        <creationDate>Sat Mar 03 11:54:34 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_661">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_652">
+        <hasSlotMention id="EHOST_Instance_661" />
+        <mentionClass id="Profession">minister</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_653" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="200" end="208" />
+        <spannedText>koningin</spannedText>
+        <creationDate>Sat Mar 03 11:54:50 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_662">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NoFamilyMember" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_653">
+        <hasSlotMention id="EHOST_Instance_662" />
+        <mentionClass id="Profession">koningin</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_654" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="220" end="229" />
+        <spannedText>formateur</spannedText>
+        <creationDate>Sat Mar 03 11:55:06 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_663">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NoFamilyMember" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_654">
+        <hasSlotMention id="EHOST_Instance_663" />
+        <mentionClass id="Profession">formateur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_655" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="428" end="435" />
+        <spannedText>edelman</spannedText>
+        <creationDate>Sat Mar 03 11:55:32 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_664">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_655">
+        <hasSlotMention id="EHOST_Instance_664" />
+        <mentionClass id="Profession">edelman</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

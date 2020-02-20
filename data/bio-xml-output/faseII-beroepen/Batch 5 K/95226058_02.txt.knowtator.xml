@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="95226058_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_15987" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="33" end="44" />
+        <spannedText>onderwijzer</spannedText>
+        <creationDate>Sun May 06 21:08:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_15990">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_15987">
+        <hasSlotMention id="EHOST_Instance_15990" />
+        <mentionClass id="Profession">onderwijzer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_15988" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="498" end="502" />
+        <spannedText>arts</spannedText>
+        <creationDate>Fri Jul 06 09:45:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_15988">
+        <mentionClass id="Profession">arts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_15989" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="599" end="660" />
+        <spannedText>assistentschappen in de Centrale Burgerlijke Ziekeninrichting</spannedText>
+        <creationDate>Fri Jul 06 09:45:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_15989">
+        <mentionClass id="Profession">assistentschappen in de Centrale Burgerlijke Ziekeninrichting</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

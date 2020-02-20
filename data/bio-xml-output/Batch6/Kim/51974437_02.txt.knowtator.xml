@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="51974437_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30484" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="185" end="194" />
+        <spannedText>kapiteins</spannedText>
+        <creationDate>Sat May 19 19:07:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30490">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30484">
+        <hasSlotMention id="EHOST_Instance_30490" />
+        <mentionClass id="Profession">kapiteins</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30485" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="185" end="194" />
+        <spannedText>kapiteins</spannedText>
+        <creationDate>Sat May 19 19:08:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30491">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30485">
+        <hasSlotMention id="EHOST_Instance_30491" />
+        <mentionClass id="Profession">kapiteins</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30486" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="457" end="462" />
+        <spannedText>graaf</spannedText>
+        <creationDate>Sat May 19 19:08:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30492">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30493">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30487" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30486">
+        <hasSlotMention id="EHOST_Instance_30492" />
+        <hasSlotMention id="EHOST_Instance_30493" />
+        <mentionClass id="Profession">graaf</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30487" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="463" end="476" />
+        <spannedText>van der Marck</spannedText>
+        <creationDate>Sat May 19 19:08:24 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30487">
+        <mentionClass id="Person">van der Marck</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30488" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="482" end="506" />
+        <spannedText>admiraal der Watergeuzen</spannedText>
+        <creationDate>Sat May 19 19:08:29 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30494">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30495">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30487" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30488">
+        <hasSlotMention id="EHOST_Instance_30494" />
+        <hasSlotMention id="EHOST_Instance_30495" />
+        <mentionClass id="Profession">admiraal der Watergeuzen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30489" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="644" end="652" />
+        <spannedText>kapitein</spannedText>
+        <creationDate>Sat May 19 19:08:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30496">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30489">
+        <hasSlotMention id="EHOST_Instance_30496" />
+        <mentionClass id="Profession">kapitein</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

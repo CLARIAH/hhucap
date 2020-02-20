@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="80488808_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_24082" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="679" end="737" />
+        <spannedText>assistent in dienst van Philips' Natuurkundig Laboratorium</spannedText>
+        <creationDate>Mon Apr 30 11:22:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_24086">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_24082">
+        <hasSlotMention id="EHOST_Instance_24086" />
+        <mentionClass id="Profession">assistent in dienst van Philips' Natuurkundig Laboratorium</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_24083" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1214" end="1241" />
+        <spannedText>wetenschappelijk medewerker</spannedText>
+        <creationDate>Mon Apr 30 11:22:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_24087">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_24083">
+        <hasSlotMention id="EHOST_Instance_24087" />
+        <mentionClass id="Profession">wetenschappelijk medewerker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_24084" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3196" end="3204" />
+        <spannedText>koningin</spannedText>
+        <creationDate>Mon Apr 30 11:24:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_24088">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_24089">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_24085" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_24084">
+        <hasSlotMention id="EHOST_Instance_24088" />
+        <hasSlotMention id="EHOST_Instance_24089" />
+        <mentionClass id="Profession">koningin</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_24085" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3205" end="3215" />
+        <spannedText>Wilhelmina</spannedText>
+        <creationDate>Mon Apr 30 11:24:11 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_24085">
+        <mentionClass id="Person">Wilhelmina</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

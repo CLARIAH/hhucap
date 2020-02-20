@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="29480610_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_41668" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="28" end="38" />
+        <spannedText>journalist</spannedText>
+        <creationDate>Thu May 31 13:43:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41672">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41668">
+        <hasSlotMention id="EHOST_Instance_41672" />
+        <mentionClass id="Profession">journalist</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41669" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="42" end="51" />
+        <spannedText>redacteur</spannedText>
+        <creationDate>Thu May 31 13:43:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41673">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41669">
+        <hasSlotMention id="EHOST_Instance_41673" />
+        <mentionClass id="Profession">redacteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41670" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="135" end="169" />
+        <spannedText>hoofdredacteur van 'De Locomotief'</spannedText>
+        <creationDate>Thu May 31 13:43:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41674">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41670">
+        <hasSlotMention id="EHOST_Instance_41674" />
+        <mentionClass id="Profession">hoofdredacteur van 'De Locomotief'</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41671" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="309" end="361" />
+        <spannedText>koloniaal specialist van de SDAP-Tweede Kamerfractie</spannedText>
+        <creationDate>Thu May 31 13:43:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41675">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41671">
+        <hasSlotMention id="EHOST_Instance_41675" />
+        <mentionClass id="Profession">koloniaal specialist van de SDAP-Tweede Kamerfractie</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

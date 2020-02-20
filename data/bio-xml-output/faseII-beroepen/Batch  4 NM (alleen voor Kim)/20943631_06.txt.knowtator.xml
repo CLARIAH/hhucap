@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="20943631_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_78261" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="93" end="103" />
+        <spannedText>rem. pred.</spannedText>
+        <creationDate>Fri Apr 20 16:45:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78266">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_78267">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_78262" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_78261">
+        <hasSlotMention id="EHOST_Instance_78266" />
+        <hasSlotMention id="EHOST_Instance_78267" />
+        <mentionClass id="Profession">rem. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78262" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="76" end="91" />
+        <spannedText>Johannes Bremer</spannedText>
+        <creationDate>Fri Apr 20 16:45:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78262">
+        <mentionClass id="Person">Johannes Bremer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78263" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="182" end="192" />
+        <spannedText>Rem. pred.</spannedText>
+        <creationDate>Fri Apr 20 16:45:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78268">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78263">
+        <hasSlotMention id="EHOST_Instance_78268" />
+        <mentionClass id="Profession">Rem. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78264" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="230" end="245" />
+        <spannedText>doopsgez. pred.</spannedText>
+        <creationDate>Fri Apr 20 16:45:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78269">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78264">
+        <hasSlotMention id="EHOST_Instance_78269" />
+        <mentionClass id="Profession">doopsgez. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78265" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="751" end="759" />
+        <spannedText>prediker</spannedText>
+        <creationDate>Fri Apr 20 16:46:20 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78270">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78265">
+        <hasSlotMention id="EHOST_Instance_78270" />
+        <mentionClass id="Profession">prediker</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

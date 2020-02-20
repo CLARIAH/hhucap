@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="02806348_08.txt">
+    <annotation>
+        <mention id="EHOST_Instance_60" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="6" end="26" />
+        <spannedText>Adriaanvan der Spelt</spannedText>
+        <creationDate>Fri Apr 13 22:58:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_60">
+        <mentionClass id="Person">Adriaanvan der Spelt</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="124" end="137" />
+        <spannedText>Konstgezellen</spannedText>
+        <creationDate>Fri Apr 13 22:58:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_65">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_61">
+        <hasSlotMention id="EHOST_Instance_65" />
+        <mentionClass id="Profession">Konstgezellen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="45" end="58" />
+        <spannedText>Aart Verhaast</spannedText>
+        <creationDate>Fri Apr 13 22:59:22 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_62">
+        <mentionClass id="Person">Aart Verhaast</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="63" end="83" />
+        <spannedText>Gysbert van der Kuyl</spannedText>
+        <creationDate>Fri Apr 13 22:59:26 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63">
+        <mentionClass id="Person">Gysbert van der Kuyl</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="124" end="137" />
+        <spannedText>Konstgezellen</spannedText>
+        <creationDate>Fri Apr 13 22:59:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_66">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_67">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_63" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_68">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_62" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_64">
+        <hasSlotMention id="EHOST_Instance_66" />
+        <hasSlotMention id="EHOST_Instance_67" />
+        <hasSlotMention id="EHOST_Instance_68" />
+        <mentionClass id="Profession">Konstgezellen</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

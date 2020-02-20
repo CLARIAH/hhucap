@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="79234394_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_77531" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="198" end="205" />
+        <spannedText>planter</spannedText>
+        <creationDate>Fri Apr 20 12:04:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_77535">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_77536">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_77532" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_77531">
+        <hasSlotMention id="EHOST_Instance_77535" />
+        <hasSlotMention id="EHOST_Instance_77536" />
+        <mentionClass id="Profession">planter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_77532" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="132" end="184" />
+        <spannedText>Willem Hendrik Victor graaf van Heerdt tot Eversberg</spannedText>
+        <creationDate>Fri Apr 20 12:05:03 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_77532">
+        <mentionClass id="Person">Willem Hendrik Victor graaf van Heerdt tot Eversberg</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_77533" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="222" end="231" />
+        <spannedText>ambtenaar</spannedText>
+        <creationDate>Wed Jul 04 19:06:40 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_77533">
+        <mentionClass id="Profession">ambtenaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_77534" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="626" end="637" />
+        <span start="648" end="656" />
+        <spannedText>werk op een ... plantage</spannedText>
+        <creationDate>Wed Jul 04 19:07:08 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_77534">
+        <mentionClass id="Profession">werk op een ... plantage</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="34874338_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5719" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="71" end="78" />
+        <spannedText>pachter</spannedText>
+        <creationDate>Tue May 08 11:44:19 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5724">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_5725">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_5721" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5719">
+        <hasSlotMention id="EHOST_Instance_5724" />
+        <hasSlotMention id="EHOST_Instance_5725" />
+        <mentionClass id="Profession">pachter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5720" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="635" end="653" />
+        <spannedText>geschiedschrijvers</spannedText>
+        <creationDate>Tue May 08 11:44:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5726">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5720">
+        <hasSlotMention id="EHOST_Instance_5726" />
+        <mentionClass id="Profession">geschiedschrijvers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5721" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="56" end="66" />
+        <spannedText>Haar vader</spannedText>
+        <creationDate>Mon Jul 09 11:06:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5721">
+        <mentionClass id="Person">Haar vader</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5722" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="71" end="78" />
+        <spannedText>pachter</spannedText>
+        <creationDate>Mon Jul 09 11:06:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5727">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Mother" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_5728">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_5723" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5722">
+        <hasSlotMention id="EHOST_Instance_5727" />
+        <hasSlotMention id="EHOST_Instance_5728" />
+        <mentionClass id="Profession">pachter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5723" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="115" end="126" />
+        <spannedText>haar moeder</spannedText>
+        <creationDate>Mon Jul 09 11:07:02 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5723">
+        <mentionClass id="Person">haar moeder</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

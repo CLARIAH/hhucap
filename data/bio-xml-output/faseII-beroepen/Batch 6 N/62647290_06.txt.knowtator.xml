@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="62647290_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_47218" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="35" end="52" />
+        <spannedText>portretschilderes</spannedText>
+        <creationDate>Fri May 18 12:39:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47226">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_47218">
+        <hasSlotMention id="EHOST_Instance_47226" />
+        <mentionClass id="Profession">portretschilderes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47219" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="243" end="257" />
+        <spannedText>Anton van Duyl</spannedText>
+        <creationDate>Fri May 18 12:39:41 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_47219">
+        <mentionClass id="Person">Anton van Duyl</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47220" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="259" end="293" />
+        <spannedText>hoofdredacteur van het Handelsblad</spannedText>
+        <creationDate>Fri May 18 12:39:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47227">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_47228">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_47219" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_47220">
+        <hasSlotMention id="EHOST_Instance_47227" />
+        <hasSlotMention id="EHOST_Instance_47228" />
+        <mentionClass id="Profession">hoofdredacteur van het Handelsblad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47221" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="35" end="52" />
+        <spannedText>portretschilderes</spannedText>
+        <creationDate>Fri May 18 12:39:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47229">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_47221">
+        <hasSlotMention id="EHOST_Instance_47229" />
+        <mentionClass id="Profession">portretschilderes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47222" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="243" end="257" />
+        <spannedText>Anton van Duyl</spannedText>
+        <creationDate>Fri May 18 12:39:41 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_47222">
+        <mentionClass id="Person">Anton van Duyl</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47223" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="259" end="293" />
+        <spannedText>hoofdredacteur van het Handelsblad</spannedText>
+        <creationDate>Fri May 18 12:39:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_47230">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_47231">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_47222" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_47223">
+        <hasSlotMention id="EHOST_Instance_47230" />
+        <hasSlotMention id="EHOST_Instance_47231" />
+        <mentionClass id="Profession">hoofdredacteur van het Handelsblad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47224" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="35" end="52" />
+        <spannedText>portretschilderes</spannedText>
+        <creationDate>Fri Jul 13 21:41:02 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_47224">
+        <mentionClass id="Profession">portretschilderes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_47225" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="259" end="293" />
+        <spannedText>hoofdredacteur van het Handelsblad</spannedText>
+        <creationDate>Fri Jul 13 21:41:06 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_47225">
+        <mentionClass id="Profession">hoofdredacteur van het Handelsblad</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

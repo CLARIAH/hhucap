@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="04865023_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_45598" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="142" end="161" />
+        <spannedText>gouverneur-generaal</spannedText>
+        <creationDate>Fri May 25 17:38:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_45602">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_45598">
+        <hasSlotMention id="EHOST_Instance_45602" />
+        <mentionClass id="Profession">gouverneur-generaal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_45599" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="200" end="206" />
+        <spannedText>koning</spannedText>
+        <creationDate>Fri May 25 17:38:51 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_45603">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_45604">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_45600" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_45599">
+        <hasSlotMention id="EHOST_Instance_45603" />
+        <hasSlotMention id="EHOST_Instance_45604" />
+        <mentionClass id="Profession">koning</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_45600" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="207" end="215" />
+        <spannedText>Lodewijk</spannedText>
+        <creationDate>Fri May 25 17:38:53 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_45600">
+        <mentionClass id="Person">Lodewijk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_45601" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="248" end="359" />
+        <spannedText>luitenant-generaal en chef der land- en zeemagt van de Nederl. bezittingen ten oosten van de Kaap de Goede Hoop</spannedText>
+        <creationDate>Fri May 25 17:39:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_45605">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_45601">
+        <hasSlotMention id="EHOST_Instance_45605" />
+        <mentionClass id="Profession">luitenant-generaal en chef der land- en zeemagt van de Nederl. bezittingen ten oosten van de Kaap de Goede Hoop</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

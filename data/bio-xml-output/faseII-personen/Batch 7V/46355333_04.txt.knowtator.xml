@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="46355333_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_4039" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="450" end="486" />
+        <spannedText>secretaris van het waterschap Heycop</spannedText>
+        <creationDate>Fri May 25 21:49:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4044">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4039">
+        <hasSlotMention id="EHOST_Instance_4044" />
+        <mentionClass id="Profession">secretaris van het waterschap Heycop</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4040" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="583" end="604" />
+        <spannedText>officier van justitie</spannedText>
+        <creationDate>Fri May 25 21:49:11 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4045">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4040">
+        <hasSlotMention id="EHOST_Instance_4045" />
+        <mentionClass id="Profession">officier van justitie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4041" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="682" end="736" />
+        <spannedText>procureur-generaal bij den Hoogen Raad der Nederlanden</spannedText>
+        <creationDate>Thu Jul 12 11:25:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4046">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4041">
+        <hasSlotMention id="EHOST_Instance_4046" />
+        <mentionClass id="Profession">procureur-generaal bij den Hoogen Raad der Nederlanden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4042" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="933" end="944" />
+        <spannedText>vice-consul</spannedText>
+        <creationDate>Fri May 25 21:49:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4047">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Child" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_4048">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_4043" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4042">
+        <hasSlotMention id="EHOST_Instance_4047" />
+        <hasSlotMention id="EHOST_Instance_4048" />
+        <mentionClass id="Profession">vice-consul</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4043" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="914" end="931" />
+        <spannedText>Johan Jacob Römer</spannedText>
+        <creationDate>Fri May 25 21:49:59 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4043">
+        <mentionClass id="Person">Johan Jacob Römer</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

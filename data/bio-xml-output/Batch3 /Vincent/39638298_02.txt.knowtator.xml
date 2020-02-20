@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="39638298_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_9773" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="30" end="51" />
+        <spannedText>Hendrikus Schoonakker</spannedText>
+        <creationDate>Fri Apr 13 15:39:21 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9773">
+        <mentionClass id="Person">Hendrikus Schoonakker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9774" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="110" end="129" />
+        <spannedText>Marinus Schoonakker</spannedText>
+        <creationDate>Fri Apr 13 15:39:22 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9774">
+        <mentionClass id="Person">Marinus Schoonakker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9775" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="131" end="147" />
+        <spannedText>scheepstimmerman</spannedText>
+        <creationDate>Fri Apr 13 15:39:24 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9796">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9797">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9774" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9775">
+        <hasSlotMention id="EHOST_Instance_9796" />
+        <hasSlotMention id="EHOST_Instance_9797" />
+        <mentionClass id="Profession">scheepstimmerman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9776" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="653" end="664" />
+        <spannedText>veldwachter</spannedText>
+        <creationDate>Fri Apr 13 15:40:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9798">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9799">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9776">
+        <hasSlotMention id="EHOST_Instance_9798" />
+        <hasSlotMention id="EHOST_Instance_9799" />
+        <mentionClass id="Profession">veldwachter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9777" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1710" end="1718" />
+        <spannedText>militair</spannedText>
+        <creationDate>Fri Apr 13 15:48:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9800">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9801">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9777">
+        <hasSlotMention id="EHOST_Instance_9800" />
+        <hasSlotMention id="EHOST_Instance_9801" />
+        <mentionClass id="Profession">militair</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9778" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1756" end="1782" />
+        <spannedText>agent van politie 3de klas</spannedText>
+        <creationDate>Fri Apr 13 15:48:26 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9802">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9803">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9778">
+        <hasSlotMention id="EHOST_Instance_9802" />
+        <hasSlotMention id="EHOST_Instance_9803" />
+        <mentionClass id="Profession">agent van politie 3de klas</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9779" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1855" end="1874" />
+        <spannedText>gemeenteveldwachter</spannedText>
+        <creationDate>Fri Apr 13 15:48:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9804">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9805">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9779">
+        <hasSlotMention id="EHOST_Instance_9804" />
+        <hasSlotMention id="EHOST_Instance_9805" />
+        <mentionClass id="Profession">gemeenteveldwachter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9780" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1895" end="1911" />
+        <spannedText>rijksveldwachter</spannedText>
+        <creationDate>Fri Apr 13 15:48:41 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9806">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9807">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9780">
+        <hasSlotMention id="EHOST_Instance_9806" />
+        <hasSlotMention id="EHOST_Instance_9807" />
+        <mentionClass id="Profession">rijksveldwachter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9781" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="3015" end="3026" />
+        <spannedText>Veldwachter</spannedText>
+        <creationDate>Fri Apr 13 15:54:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9808">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9809">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9781">
+        <hasSlotMention id="EHOST_Instance_9808" />
+        <hasSlotMention id="EHOST_Instance_9809" />
+        <mentionClass id="Profession">Veldwachter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9782" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="3454" end="3463" />
+        <spannedText>ambtenaar</spannedText>
+        <creationDate>Fri Apr 13 15:55:11 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9810">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9811">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9782">
+        <hasSlotMention id="EHOST_Instance_9810" />
+        <hasSlotMention id="EHOST_Instance_9811" />
+        <mentionClass id="Profession">ambtenaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9783" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="6034" end="6045" />
+        <spannedText>veldwachter</spannedText>
+        <creationDate>Fri Apr 13 15:57:32 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9812">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9813">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9783">
+        <hasSlotMention id="EHOST_Instance_9812" />
+        <hasSlotMention id="EHOST_Instance_9813" />
+        <mentionClass id="Profession">veldwachter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9784" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="6173" end="6188" />
+        <spannedText>A.J. Eijckelhof</spannedText>
+        <creationDate>Fri Apr 13 15:58:19 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9784">
+        <mentionClass id="Person">A.J. Eijckelhof</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9785" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="6160" end="6172" />
+        <spannedText>burgemeester</spannedText>
+        <creationDate>Fri Apr 13 15:58:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9814">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9815">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9784" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9785">
+        <hasSlotMention id="EHOST_Instance_9814" />
+        <hasSlotMention id="EHOST_Instance_9815" />
+        <mentionClass id="Profession">burgemeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9786" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="6343" end="6354" />
+        <spannedText>veldwachter</spannedText>
+        <creationDate>Fri Apr 13 15:59:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9816">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9817">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9786">
+        <hasSlotMention id="EHOST_Instance_9816" />
+        <hasSlotMention id="EHOST_Instance_9817" />
+        <mentionClass id="Profession">veldwachter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9787" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="6466" end="6478" />
+        <spannedText>burgemeester</spannedText>
+        <creationDate>Fri Apr 13 15:59:32 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9818">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9819">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9784" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9787">
+        <hasSlotMention id="EHOST_Instance_9818" />
+        <hasSlotMention id="EHOST_Instance_9819" />
+        <mentionClass id="Profession">burgemeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9788" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="6842" end="6854" />
+        <spannedText>burgemeester</spannedText>
+        <creationDate>Fri Apr 13 16:00:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9820">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9821">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9784" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9788">
+        <hasSlotMention id="EHOST_Instance_9820" />
+        <hasSlotMention id="EHOST_Instance_9821" />
+        <mentionClass id="Profession">burgemeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9789" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="7046" end="7057" />
+        <spannedText>veldwachter</spannedText>
+        <creationDate>Fri Apr 13 16:00:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9822">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9823">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9789">
+        <hasSlotMention id="EHOST_Instance_9822" />
+        <hasSlotMention id="EHOST_Instance_9823" />
+        <mentionClass id="Profession">veldwachter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9790" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="7069" end="7081" />
+        <spannedText>burgemeester</spannedText>
+        <creationDate>Fri Apr 13 16:00:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9824">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9825">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9784" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9790">
+        <hasSlotMention id="EHOST_Instance_9824" />
+        <hasSlotMention id="EHOST_Instance_9825" />
+        <mentionClass id="Profession">burgemeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9791" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="7430" end="7444" />
+        <spannedText>Martinus Graat</spannedText>
+        <creationDate>Fri Apr 13 16:07:15 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9791">
+        <mentionClass id="Person">Martinus Graat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9792" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="7422" end="7429" />
+        <spannedText>pastoor</spannedText>
+        <creationDate>Fri Apr 13 16:07:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9826">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9827">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9791" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9792">
+        <hasSlotMention id="EHOST_Instance_9826" />
+        <hasSlotMention id="EHOST_Instance_9827" />
+        <mentionClass id="Profession">pastoor</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9793" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="7951" end="7962" />
+        <spannedText>veldwachter</spannedText>
+        <creationDate>Fri Apr 13 16:08:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9828">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9829">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9793">
+        <hasSlotMention id="EHOST_Instance_9828" />
+        <hasSlotMention id="EHOST_Instance_9829" />
+        <mentionClass id="Profession">veldwachter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9794" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="8268" end="8303" />
+        <spannedText>controleur bij een kolen&amp;#64257;rma</spannedText>
+        <creationDate>Fri Apr 13 16:08:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9830">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9831">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9794">
+        <hasSlotMention id="EHOST_Instance_9830" />
+        <hasSlotMention id="EHOST_Instance_9831" />
+        <mentionClass id="Profession">controleur bij een kolen&amp;#64257;rma</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9795" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="8404" end="8432" />
+        <spannedText>nachtportier bij een rederij</spannedText>
+        <creationDate>Fri Apr 13 16:08:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9832">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9833">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9795">
+        <hasSlotMention id="EHOST_Instance_9832" />
+        <hasSlotMention id="EHOST_Instance_9833" />
+        <mentionClass id="Profession">nachtportier bij een rederij</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

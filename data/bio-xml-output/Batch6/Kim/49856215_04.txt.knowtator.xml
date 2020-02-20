@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="49856215_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30470" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="175" end="188" />
+        <spannedText>correspondent</spannedText>
+        <creationDate>Sat May 19 19:04:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30477">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30470">
+        <hasSlotMention id="EHOST_Instance_30477" />
+        <mentionClass id="Profession">correspondent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30471" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="646" end="661" />
+        <spannedText>toneelrecensent</spannedText>
+        <creationDate>Sat May 19 19:04:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30478">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30471">
+        <hasSlotMention id="EHOST_Instance_30478" />
+        <mentionClass id="Profession">toneelrecensent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30472" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="665" end="685" />
+        <spannedText>redacteur buitenland</spannedText>
+        <creationDate>Sat May 19 19:04:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30479">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30472">
+        <hasSlotMention id="EHOST_Instance_30479" />
+        <mentionClass id="Profession">redacteur buitenland</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30473" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="572" end="585" />
+        <spannedText>correspondent</spannedText>
+        <creationDate>Sat May 19 19:05:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30480">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30473">
+        <hasSlotMention id="EHOST_Instance_30480" />
+        <mentionClass id="Profession">correspondent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30474" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1901" end="1917" />
+        <spannedText>toneel-directeur</spannedText>
+        <creationDate>Sat May 19 19:05:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30481">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30482">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30475" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30474">
+        <hasSlotMention id="EHOST_Instance_30481" />
+        <hasSlotMention id="EHOST_Instance_30482" />
+        <mentionClass id="Profession">toneel-directeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30475" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1918" end="1932" />
+        <spannedText>Eduard Verkade</spannedText>
+        <creationDate>Sat May 19 19:05:47 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30475">
+        <mentionClass id="Person">Eduard Verkade</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30476" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="2196" end="2213" />
+        <spannedText>Toneel-schrijvers</spannedText>
+        <creationDate>Sat May 19 19:06:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30483">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30476">
+        <hasSlotMention id="EHOST_Instance_30483" />
+        <mentionClass id="Profession">Toneel-schrijvers</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="52150113_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_31424" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="0" end="15" />
+        <spannedText>IMMENS (Petrus)</spannedText>
+        <creationDate>Wed Apr 18 15:03:51 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31424">
+        <mentionClass id="Person">IMMENS (Petrus)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31425" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="209" end="218" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Wed Apr 18 15:04:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31430">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31425">
+        <hasSlotMention id="EHOST_Instance_31430" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31426" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="566" end="575" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Wed Apr 18 15:04:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31431">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31426">
+        <hasSlotMention id="EHOST_Instance_31431" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31427" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="666" end="673" />
+        <spannedText>curator</spannedText>
+        <creationDate>Wed Apr 18 15:04:59 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31432">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31427">
+        <hasSlotMention id="EHOST_Instance_31432" />
+        <mentionClass id="Profession">curator</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31428" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1549" end="1560" />
+        <spannedText>hoogleeraar</spannedText>
+        <creationDate>Wed Apr 18 15:05:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31433">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_31434">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_31429" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31428">
+        <hasSlotMention id="EHOST_Instance_31433" />
+        <hasSlotMention id="EHOST_Instance_31434" />
+        <mentionClass id="Profession">hoogleeraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31429" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1561" end="1575" />
+        <spannedText>Jac. Willemsen</spannedText>
+        <creationDate>Wed Apr 18 15:05:50 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31429">
+        <mentionClass id="Person">Jac. Willemsen</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

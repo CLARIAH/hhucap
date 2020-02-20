@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="66744102_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_35620" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="266" end="278" />
+        <spannedText>Hulpprediker</spannedText>
+        <creationDate>Tue Apr 17 16:11:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35624">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_35620">
+        <hasSlotMention id="EHOST_Instance_35624" />
+        <mentionClass id="Profession">Hulpprediker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35621" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="224" end="234" />
+        <spannedText>praelector</spannedText>
+        <creationDate>Tue Apr 17 16:12:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35625">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_35621">
+        <hasSlotMention id="EHOST_Instance_35625" />
+        <mentionClass id="Profession">praelector</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35622" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="251" end="258" />
+        <spannedText>decanus</spannedText>
+        <creationDate>Tue Apr 17 16:12:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35626">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_35622">
+        <hasSlotMention id="EHOST_Instance_35626" />
+        <mentionClass id="Profession">decanus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35623" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="320" end="360" />
+        <spannedText>Leider van een separatistische gemeente</spannedText>
+        <creationDate>Fri Jun 22 20:47:41 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_35623">
+        <mentionClass id="Profession">Leider van een separatistische gemeente</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

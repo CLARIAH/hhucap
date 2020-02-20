@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="40369629_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_76378" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="89" end="99" />
+        <spannedText>landbouwer</spannedText>
+        <creationDate>Fri Apr 20 13:57:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76382">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_76383">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_76379" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_76378">
+        <hasSlotMention id="EHOST_Instance_76382" />
+        <hasSlotMention id="EHOST_Instance_76383" />
+        <mentionClass id="Profession">landbouwer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76379" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="72" end="86" />
+        <spannedText>Willem Fransen</spannedText>
+        <creationDate>Fri Apr 20 13:57:45 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_76379">
+        <mentionClass id="Person">Willem Fransen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76380" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="121" end="131" />
+        <spannedText>Landbouwer</spannedText>
+        <creationDate>Fri Apr 20 13:57:59 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76384">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_76380">
+        <hasSlotMention id="EHOST_Instance_76384" />
+        <mentionClass id="Profession">Landbouwer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76381" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="160" end="191" />
+        <spannedText>Pred. Dordtsch Geref. Gemeente</spannedText>
+        <creationDate>Sun Jul 01 00:47:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_76381">
+        <mentionClass id="Profession">Pred. Dordtsch Geref. Gemeente</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

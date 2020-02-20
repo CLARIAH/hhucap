@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="92797711_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_103" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="282" end="305" />
+        <spannedText>Antoine Charles Muysken</spannedText>
+        <creationDate>Fri Mar 09 11:16:48 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_103">
+        <mentionClass id="Person">Antoine Charles Muysken</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_104" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="307" end="314" />
+        <spannedText>notaris</spannedText>
+        <creationDate>Fri Mar 09 11:16:53 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_113">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_114">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_103" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_104">
+        <hasSlotMention id="EHOST_Instance_113" />
+        <hasSlotMention id="EHOST_Instance_114" />
+        <mentionClass id="Profession">notaris</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_105" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="318" end="330" />
+        <spannedText>burgemeester</spannedText>
+        <creationDate>Fri Mar 09 11:17:00 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_115">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_116">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_103" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_105">
+        <hasSlotMention id="EHOST_Instance_115" />
+        <hasSlotMention id="EHOST_Instance_116" />
+        <mentionClass id="Profession">burgemeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_106" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="425" end="451" />
+        <spannedText>Albertus Philippus Kapteyn</spannedText>
+        <creationDate>Fri Mar 09 11:17:30 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_106">
+        <mentionClass id="Person">Albertus Philippus Kapteyn</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_107" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="453" end="462" />
+        <spannedText>ingenieur</spannedText>
+        <creationDate>Fri Mar 09 11:17:36 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_117">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_118">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_106" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_107">
+        <hasSlotMention id="EHOST_Instance_117" />
+        <hasSlotMention id="EHOST_Instance_118" />
+        <mentionClass id="Profession">ingenieur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_108" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1860" end="1867" />
+        <spannedText>dichter</spannedText>
+        <creationDate>Fri Mar 09 11:26:07 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_119">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_120">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_110" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_108">
+        <hasSlotMention id="EHOST_Instance_119" />
+        <hasSlotMention id="EHOST_Instance_120" />
+        <mentionClass id="Profession">dichter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_109" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1871" end="1879" />
+        <spannedText>filosoof</spannedText>
+        <creationDate>Fri Mar 09 11:26:12 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_121">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_122">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_110" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_109">
+        <hasSlotMention id="EHOST_Instance_121" />
+        <hasSlotMention id="EHOST_Instance_122" />
+        <mentionClass id="Profession">filosoof</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_110" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1880" end="1896" />
+        <spannedText>Jean Marie Guyau</spannedText>
+        <creationDate>Fri Mar 09 11:26:17 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_110">
+        <mentionClass id="Person">Jean Marie Guyau</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_111" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="511" end="518" />
+        <spannedText>Muysken</spannedText>
+        <creationDate>Fri Mar 09 11:38:07 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_111">
+        <mentionClass id="Person">Muysken</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_112" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1591" end="1602" />
+        <spannedText>schrijfster</spannedText>
+        <creationDate>Fri Mar 09 11:38:35 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_123">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_124">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_111" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_112">
+        <hasSlotMention id="EHOST_Instance_123" />
+        <hasSlotMention id="EHOST_Instance_124" />
+        <mentionClass id="Profession">schrijfster</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

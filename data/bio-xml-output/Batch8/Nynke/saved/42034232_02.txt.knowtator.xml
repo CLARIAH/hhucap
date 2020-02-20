@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="42034232_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_1401" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="869" end="879" />
+        <spannedText>expediteur</spannedText>
+        <creationDate>Sun Jun 10 21:47:43 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1413">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_1414">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_1407" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1401">
+        <hasSlotMention id="EHOST_Instance_1413" />
+        <hasSlotMention id="EHOST_Instance_1414" />
+        <mentionClass id="Profession">expediteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1402" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1040" end="1055" />
+        <spannedText>Gradus Antonius</spannedText>
+        <creationDate>Sun Jun 10 21:48:20 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1402">
+        <mentionClass id="Person">Gradus Antonius</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1403" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1069" end="1080" />
+        <spannedText>schoenmaker</spannedText>
+        <creationDate>Sun Jun 10 21:48:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1415">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_1416">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_1402" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1403">
+        <hasSlotMention id="EHOST_Instance_1415" />
+        <hasSlotMention id="EHOST_Instance_1416" />
+        <mentionClass id="Profession">schoenmaker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1404" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1096" end="1111" />
+        <spannedText>Gradus Johannes</spannedText>
+        <creationDate>Sun Jun 10 21:48:29 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1404">
+        <mentionClass id="Person">Gradus Johannes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1405" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1176" end="1186" />
+        <spannedText>kruidenier</spannedText>
+        <creationDate>Sun Jun 10 21:48:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1417">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_1418">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_1404" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1405">
+        <hasSlotMention id="EHOST_Instance_1417" />
+        <hasSlotMention id="EHOST_Instance_1418" />
+        <mentionClass id="Profession">kruidenier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1406" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1264" end="1273" />
+        <spannedText>timmerman</spannedText>
+        <creationDate>Sun Jun 10 21:48:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1419">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1406">
+        <hasSlotMention id="EHOST_Instance_1419" />
+        <mentionClass id="Profession">timmerman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1407" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="890" end="893" />
+        <spannedText>hij</spannedText>
+        <creationDate>Sun Jun 10 21:49:00 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1407">
+        <mentionClass id="Person">hij</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1408" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1867" end="1879" />
+        <spannedText>klompenmaker</spannedText>
+        <creationDate>Sun Jun 10 21:49:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1420">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1408">
+        <hasSlotMention id="EHOST_Instance_1420" />
+        <mentionClass id="Profession">klompenmaker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1409" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3167" end="3179" />
+        <spannedText>Frans Doppen</spannedText>
+        <creationDate>Sun Jun 10 21:50:25 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1409">
+        <mentionClass id="Person">Frans Doppen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1410" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3150" end="3166" />
+        <spannedText>collega-aannemer</spannedText>
+        <creationDate>Sun Jun 10 21:50:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1421">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_1422">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_1409" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1410">
+        <hasSlotMention id="EHOST_Instance_1421" />
+        <hasSlotMention id="EHOST_Instance_1422" />
+        <mentionClass id="Profession">collega-aannemer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1411" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3426" end="3442" />
+        <spannedText>hoofdonderwijzer</spannedText>
+        <creationDate>Sun Jun 10 21:50:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1423">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1411">
+        <hasSlotMention id="EHOST_Instance_1423" />
+        <mentionClass id="Profession">hoofdonderwijzer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1412" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="6027" end="6047" />
+        <spannedText>timmervakmanschap.</spannedText>
+        <creationDate>Sun Jun 10 21:52:26 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1424">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1412">
+        <hasSlotMention id="EHOST_Instance_1424" />
+        <mentionClass id="Profession">timmervakmanschap.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

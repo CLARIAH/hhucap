@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="00528034_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_9540" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="0" end="31" />
+        <spannedText>Walter Jacques (Jac.) Maris1900</spannedText>
+        <creationDate>Thu Apr 12 21:32:26 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9540">
+        <mentionClass id="Person">Walter Jacques (Jac.) Maris1900</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9541" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="2812" end="2824" />
+        <spannedText>Els Tervoort</spannedText>
+        <creationDate>Thu Apr 12 21:34:12 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9541">
+        <mentionClass id="Person">Els Tervoort</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9542" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="2868" end="2881" />
+        <spannedText>beeldhouwster</spannedText>
+        <creationDate>Thu Apr 12 21:34:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9545">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9546">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9541" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9542">
+        <hasSlotMention id="EHOST_Instance_9545" />
+        <hasSlotMention id="EHOST_Instance_9546" />
+        <mentionClass id="Profession">beeldhouwster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9543" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="4188" end="4199" />
+        <spannedText>beeldhouwer</spannedText>
+        <creationDate>Thu Apr 12 21:35:32 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9547">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9548">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9540" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9543">
+        <hasSlotMention id="EHOST_Instance_9547" />
+        <hasSlotMention id="EHOST_Instance_9548" />
+        <mentionClass id="Profession">beeldhouwer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9544" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="9441" end="9451" />
+        <spannedText>kunstenaar</spannedText>
+        <creationDate>Thu Apr 12 21:38:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9549">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9550">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9540" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9544">
+        <hasSlotMention id="EHOST_Instance_9549" />
+        <hasSlotMention id="EHOST_Instance_9550" />
+        <mentionClass id="Profession">kunstenaar</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

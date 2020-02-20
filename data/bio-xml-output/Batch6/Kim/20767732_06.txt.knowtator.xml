@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="20767732_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_29998" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="0" end="6" />
+        <spannedText>Rector</spannedText>
+        <creationDate>Fri May 18 21:12:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30002">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_29998">
+        <hasSlotMention id="EHOST_Instance_30002" />
+        <mentionClass id="Profession">Rector</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_29999" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="58" end="67" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Fri May 18 21:13:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30003">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30004">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30000" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_29999">
+        <hasSlotMention id="EHOST_Instance_30003" />
+        <hasSlotMention id="EHOST_Instance_30004" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30000" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="45" end="53" />
+        <spannedText>zoon van</spannedText>
+        <creationDate>Fri May 18 21:13:02 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30000">
+        <mentionClass id="Person">zoon van</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30001" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="225" end="257" />
+        <spannedText>secretaris van staat voor Marine</spannedText>
+        <creationDate>Fri May 18 21:13:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30005">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30001">
+        <hasSlotMention id="EHOST_Instance_30005" />
+        <mentionClass id="Profession">secretaris van staat voor Marine</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

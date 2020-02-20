@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88311356_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_9640" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="0" end="18" />
+        <spannedText>HOORN (Gerard van)</spannedText>
+        <creationDate>Tue Apr 24 13:51:05 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9640">
+        <mentionClass id="Person">HOORN (Gerard van)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9641" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="41" end="53" />
+        <spannedText>glasschilder</spannedText>
+        <creationDate>Tue Apr 24 13:51:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9642">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9643">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9640" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9641">
+        <hasSlotMention id="EHOST_Instance_9642" />
+        <hasSlotMention id="EHOST_Instance_9643" />
+        <mentionClass id="Profession">glasschilder</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

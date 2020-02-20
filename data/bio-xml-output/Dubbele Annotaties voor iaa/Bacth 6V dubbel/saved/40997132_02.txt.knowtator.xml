@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="40997132_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_55560" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="40" end="54" />
+        <spannedText>Konstschilders</spannedText>
+        <creationDate>Thu May 24 16:28:24 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55563">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_55560">
+        <hasSlotMention id="EHOST_Instance_55563" />
+        <mentionClass id="Profession">Konstschilders</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55561" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="118" end="133" />
+        <spannedText>Beeldenschilder</spannedText>
+        <creationDate>Thu May 24 16:28:29 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55564">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_55561">
+        <hasSlotMention id="EHOST_Instance_55564" />
+        <mentionClass id="Profession">Beeldenschilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55562" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="258" end="278" />
+        <spannedText>Landschapschildersis</spannedText>
+        <creationDate>Sat Sep 15 13:27:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55565">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_55562">
+        <hasSlotMention id="EHOST_Instance_55565" />
+        <mentionClass id="Profession">Landschapschildersis</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

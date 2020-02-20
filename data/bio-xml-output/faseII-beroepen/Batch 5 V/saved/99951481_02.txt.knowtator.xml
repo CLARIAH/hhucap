@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="99951481_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_13480" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="124" end="129" />
+        <spannedText>pred.</spannedText>
+        <creationDate>Tue May 08 12:58:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13487">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_13488">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_13481" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_13480">
+        <hasSlotMention id="EHOST_Instance_13487" />
+        <hasSlotMention id="EHOST_Instance_13488" />
+        <mentionClass id="Profession">pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13481" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="103" end="122" />
+        <spannedText>Pieter Simon Bakels</spannedText>
+        <creationDate>Tue May 08 12:58:55 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_13481">
+        <mentionClass id="Person">Pieter Simon Bakels</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13482" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="200" end="215" />
+        <spannedText>Doopsgez. pred.</spannedText>
+        <creationDate>Tue May 08 12:59:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13489">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_13482">
+        <hasSlotMention id="EHOST_Instance_13489" />
+        <mentionClass id="Profession">Doopsgez. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13483" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="463" end="471" />
+        <spannedText>tekenaar</spannedText>
+        <creationDate>Tue May 08 13:00:03 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13490">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_13491">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_13485" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_13483">
+        <hasSlotMention id="EHOST_Instance_13490" />
+        <hasSlotMention id="EHOST_Instance_13491" />
+        <mentionClass id="Profession">tekenaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13484" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="475" end="483" />
+        <spannedText>schilder</spannedText>
+        <creationDate>Tue May 08 13:00:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13492">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_13493">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_13485" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_13484">
+        <hasSlotMention id="EHOST_Instance_13492" />
+        <hasSlotMention id="EHOST_Instance_13493" />
+        <mentionClass id="Profession">schilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13485" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="493" end="507" />
+        <spannedText>Sybrand Bakels</spannedText>
+        <creationDate>Tue May 08 13:00:09 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_13485">
+        <mentionClass id="Person">Sybrand Bakels</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13486" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="541" end="550" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Tue May 08 13:00:28 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13494">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_13486">
+        <hasSlotMention id="EHOST_Instance_13494" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

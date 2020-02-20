@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="92185112_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_551" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="405" end="414" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Sat Mar 03 11:33:20 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_556">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_551">
+        <hasSlotMention id="EHOST_Instance_556" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_552" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="146" end="167" />
+        <spannedText>Geref. pred. Eibergen</spannedText>
+        <creationDate>Sat Mar 03 11:33:29 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_557">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_552">
+        <hasSlotMention id="EHOST_Instance_557" />
+        <mentionClass id="Profession">Geref. pred. Eibergen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_553" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="86" end="93" />
+        <spannedText>brouwer</spannedText>
+        <creationDate>Sat Mar 03 11:33:46 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_558">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_553">
+        <hasSlotMention id="EHOST_Instance_558" />
+        <mentionClass id="Profession">brouwer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_554" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="0" end="15" />
+        <spannedText>SLUITER, WILLEM</spannedText>
+        <creationDate>Sat Mar 03 11:33:54 CET 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_559">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_552" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_560">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_551" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_554">
+        <hasSlotMention id="EHOST_Instance_559" />
+        <hasSlotMention id="EHOST_Instance_560" />
+        <mentionClass id="Person">SLUITER, WILLEM</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_555" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="68" end="84" />
+        <spannedText>Tileman Sluiter</spannedText>
+        <creationDate>Sat Mar 03 11:34:04 CET 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_561">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_553" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_555">
+        <hasSlotMention id="EHOST_Instance_561" />
+        <mentionClass id="Person">Tileman Sluiter</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="11367439_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_43702" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="34" end="55" />
+        <spannedText>Jacobus van der Chijs</spannedText>
+        <creationDate>Mon Apr 16 09:41:36 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43702">
+        <mentionClass id="Person">Jacobus van der Chijs</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43703" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="69" end="76" />
+        <spannedText>koopman</spannedText>
+        <creationDate>Mon Apr 16 09:41:38 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43708">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_43709">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_43702" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43703">
+        <hasSlotMention id="EHOST_Instance_43708" />
+        <hasSlotMention id="EHOST_Instance_43709" />
+        <mentionClass id="Profession">koopman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43704" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="714" end="726" />
+        <spannedText>Willem Storm</spannedText>
+        <creationDate>Mon Apr 16 09:42:21 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43704">
+        <mentionClass id="Person">Willem Storm</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43705" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="704" end="713" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Mon Apr 16 09:42:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43710">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_43711">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_43704" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43705">
+        <hasSlotMention id="EHOST_Instance_43710" />
+        <hasSlotMention id="EHOST_Instance_43711" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43706" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="4139" end="4150" />
+        <spannedText>kunstenaars</spannedText>
+        <creationDate>Sat Jun 23 21:11:07 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43706">
+        <mentionClass id="Profession">kunstenaars</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43707" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="4764" end="4774" />
+        <spannedText>geneesheer</spannedText>
+        <creationDate>Sat Jun 23 21:11:19 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43707">
+        <mentionClass id="Profession">geneesheer</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

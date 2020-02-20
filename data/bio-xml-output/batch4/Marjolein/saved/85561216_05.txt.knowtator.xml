@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="85561216_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_79140" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="95" end="99" />
+        <spannedText>arts</spannedText>
+        <creationDate>Thu May 03 14:10:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_79149">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_79150">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_79141" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_79140">
+        <hasSlotMention id="EHOST_Instance_79149" />
+        <hasSlotMention id="EHOST_Instance_79150" />
+        <mentionClass id="Profession">arts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_79141" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="0" end="16" />
+        <spannedText>Samuel Sarphati</spannedText>
+        <creationDate>Thu May 03 14:10:11 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_79141">
+        <mentionClass id="Person">Samuel Sarphati</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_79142" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="141" end="148" />
+        <spannedText>medicus</spannedText>
+        <creationDate>Thu May 03 14:10:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_79151">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_79142">
+        <hasSlotMention id="EHOST_Instance_79151" />
+        <mentionClass id="Profession">medicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_79143" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="150" end="159" />
+        <spannedText>hygienist</spannedText>
+        <creationDate>Thu May 03 14:10:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_79152">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_79143">
+        <hasSlotMention id="EHOST_Instance_79152" />
+        <mentionClass id="Profession">hygienist</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_79144" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="163" end="174" />
+        <spannedText>stedebouwer</spannedText>
+        <creationDate>Thu May 03 14:10:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_79153">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_79144">
+        <hasSlotMention id="EHOST_Instance_79153" />
+        <mentionClass id="Profession">stedebouwer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_79145" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="526" end="542" />
+        <spannedText>Emanuel Sarphati</spannedText>
+        <creationDate>Thu May 03 14:10:52 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_79145">
+        <mentionClass id="Person">Emanuel Sarphati</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_79146" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="548" end="566" />
+        <spannedText>handelaar in tabak</spannedText>
+        <creationDate>Thu May 03 14:10:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_79154">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_79155">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_79145" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_79146">
+        <hasSlotMention id="EHOST_Instance_79154" />
+        <hasSlotMention id="EHOST_Instance_79155" />
+        <mentionClass id="Profession">handelaar in tabak</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_79147" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="917" end="927" />
+        <spannedText>geneesheer</spannedText>
+        <creationDate>Thu May 03 14:11:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_79156">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_79147">
+        <hasSlotMention id="EHOST_Instance_79156" />
+        <mentionClass id="Profession">geneesheer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_79148" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1785" end="1817" />
+        <spannedText>zitting in de Provinciale Staten</spannedText>
+        <creationDate>Thu May 03 14:12:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_79157">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_79148">
+        <hasSlotMention id="EHOST_Instance_79157" />
+        <mentionClass id="Profession">zitting in de Provinciale Staten</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

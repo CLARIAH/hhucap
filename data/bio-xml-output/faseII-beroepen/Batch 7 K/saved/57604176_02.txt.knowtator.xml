@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="57604176_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_42936" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="482" end="515" />
+        <spannedText>resident van de Koning van Spanje</spannedText>
+        <creationDate>Thu May 31 15:22:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42941">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_42942">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_42937" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_42936">
+        <hasSlotMention id="EHOST_Instance_42941" />
+        <hasSlotMention id="EHOST_Instance_42942" />
+        <mentionClass id="Profession">resident van de Koning van Spanje</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42937" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="464" end="474" />
+        <spannedText>zijn vader</spannedText>
+        <creationDate>Thu May 31 15:22:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42937">
+        <mentionClass id="Person">zijn vader</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42938" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="482" end="515" />
+        <spannedText>resident van de Koning van Spanje</spannedText>
+        <creationDate>Thu May 31 15:22:43 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42943">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_42938">
+        <hasSlotMention id="EHOST_Instance_42943" />
+        <mentionClass id="Profession">resident van de Koning van Spanje</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42939" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="790" end="797" />
+        <spannedText>dichter</spannedText>
+        <creationDate>Thu May 31 15:22:56 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42944">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_42945">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_42940" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_42939">
+        <hasSlotMention id="EHOST_Instance_42944" />
+        <hasSlotMention id="EHOST_Instance_42945" />
+        <mentionClass id="Profession">dichter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42940" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="798" end="804" />
+        <spannedText>Tysens</spannedText>
+        <creationDate>Thu May 31 15:22:57 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42940">
+        <mentionClass id="Person">Tysens</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

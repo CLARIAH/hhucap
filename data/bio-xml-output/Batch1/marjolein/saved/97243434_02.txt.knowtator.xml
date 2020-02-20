@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="97243434_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_547" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="69" end="74" />
+        <spannedText>Agent</spannedText>
+        <creationDate>Wed Feb 21 21:17:38 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_549">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_550">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_548" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_547">
+        <hasSlotMention id="EHOST_Instance_549" />
+        <hasSlotMention id="EHOST_Instance_550" />
+        <mentionClass id="Profession">Agent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_548" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="76" end="79" />
+        <spannedText>die</spannedText>
+        <creationDate>Wed Feb 21 20:59:40 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_548">
+        <mentionClass id="Person">die</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="11500750_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_76601" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="108" end="125" />
+        <spannedText>kleermakersknecht</spannedText>
+        <creationDate>Fri Apr 20 12:03:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76607">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_76601">
+        <hasSlotMention id="EHOST_Instance_76607" />
+        <mentionClass id="Profession">kleermakersknecht</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76602" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="129" end="142" />
+        <spannedText>broodbezorger</spannedText>
+        <creationDate>Fri Apr 20 12:03:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76608">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_76602">
+        <hasSlotMention id="EHOST_Instance_76608" />
+        <mentionClass id="Profession">broodbezorger</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76603" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="328" end="343" />
+        <spannedText>Tweede Kamerlid</spannedText>
+        <creationDate>Fri Apr 20 12:03:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76609">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_76603">
+        <hasSlotMention id="EHOST_Instance_76609" />
+        <mentionClass id="Profession">Tweede Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76604" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="442" end="451" />
+        <spannedText>wethouder</spannedText>
+        <creationDate>Fri Apr 20 12:03:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76610">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_76604">
+        <hasSlotMention id="EHOST_Instance_76610" />
+        <mentionClass id="Profession">wethouder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76605" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="531" end="546" />
+        <spannedText>Eerste Kamerlid</spannedText>
+        <creationDate>Fri Apr 20 12:03:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_76611">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_76605">
+        <hasSlotMention id="EHOST_Instance_76611" />
+        <mentionClass id="Profession">Eerste Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_76606" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="29" end="47" />
+        <span start="62" end="65" />
+        <spannedText>in de gemeenteraad ... zat</spannedText>
+        <creationDate>Mon Jul 02 17:24:36 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_76606">
+        <mentionClass id="Profession">in de gemeenteraad ... zat</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="81877391_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_45772" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="211" end="222" />
+        <spannedText>vleeshouwer</spannedText>
+        <creationDate>Fri May 25 18:39:38 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_45778">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_45779">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_45773" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_45772">
+        <hasSlotMention id="EHOST_Instance_45778" />
+        <hasSlotMention id="EHOST_Instance_45779" />
+        <mentionClass id="Profession">vleeshouwer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_45773" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="192" end="209" />
+        <spannedText>Adrianus Kooijman</spannedText>
+        <creationDate>Fri May 25 18:39:40 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_45773">
+        <mentionClass id="Person">Adrianus Kooijman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_45774" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="330" end="357" />
+        <spannedText>administratief medewerkster</spannedText>
+        <creationDate>Fri May 25 18:39:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_45780">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_45774">
+        <hasSlotMention id="EHOST_Instance_45780" />
+        <mentionClass id="Profession">administratief medewerkster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_45775" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="597" end="615" />
+        <spannedText>draaier/bankwerker</spannedText>
+        <creationDate>Fri May 25 18:40:41 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_45781">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_45775">
+        <hasSlotMention id="EHOST_Instance_45781" />
+        <mentionClass id="Profession">draaier/bankwerker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_45776" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="619" end="640" />
+        <spannedText>automonteur/chauffeur</spannedText>
+        <creationDate>Fri May 25 18:40:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_45782">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_45776">
+        <hasSlotMention id="EHOST_Instance_45782" />
+        <mentionClass id="Profession">automonteur/chauffeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_45777" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1375" end="1383" />
+        <spannedText>militair</spannedText>
+        <creationDate>Fri May 25 18:41:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_45783">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_45777">
+        <hasSlotMention id="EHOST_Instance_45783" />
+        <mentionClass id="Profession">militair</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="04221768_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_78564" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="12" end="31" />
+        <spannedText>Benedictus Pictetus</spannedText>
+        <creationDate>Thu May 03 10:59:22 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78564">
+        <mentionClass id="Person">Benedictus Pictetus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78565" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="45" end="70" />
+        <spannedText>professor in de theologie</spannedText>
+        <creationDate>Thu May 03 10:59:24 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78566">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_78567">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_78564" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_78565">
+        <hasSlotMention id="EHOST_Instance_78566" />
+        <hasSlotMention id="EHOST_Instance_78567" />
+        <mentionClass id="Profession">professor in de theologie</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

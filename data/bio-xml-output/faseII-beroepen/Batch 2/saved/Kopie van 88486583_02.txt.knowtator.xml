@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88486583_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_4387" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="83" end="108" />
+        <spannedText>Pieter Hendrik Beversluis</spannedText>
+        <creationDate>Fri Apr 06 13:36:26 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4387">
+        <mentionClass id="Person">Pieter Hendrik Beversluis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4388" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="110" end="128" />
+        <spannedText>muziekhan- delaar</spannedText>
+        <creationDate>Fri Apr 06 13:36:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4391">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_4392">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_4387" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4388">
+        <hasSlotMention id="EHOST_Instance_4391" />
+        <hasSlotMention id="EHOST_Instance_4392" />
+        <mentionClass id="Profession">muziekhan- delaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4389" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="133" end="160" />
+        <spannedText>Gijsberta Christina Martina</spannedText>
+        <creationDate>Fri Apr 06 13:36:47 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4389">
+        <mentionClass id="Person">Gijsberta Christina Martina</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4390" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="194" end="205" />
+        <spannedText>Herv. pred.</spannedText>
+        <creationDate>Mon Jun 18 15:53:19 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4390">
+        <mentionClass id="Profession">Herv. pred.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

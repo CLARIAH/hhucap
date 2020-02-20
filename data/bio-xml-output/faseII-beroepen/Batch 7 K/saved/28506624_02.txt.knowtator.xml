@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="28506624_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_42529" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="97" end="118" />
+        <spannedText>meester kamerbehanger</spannedText>
+        <creationDate>Thu May 31 13:41:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42533">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_42534">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_42530" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_42529">
+        <hasSlotMention id="EHOST_Instance_42533" />
+        <hasSlotMention id="EHOST_Instance_42534" />
+        <mentionClass id="Profession">meester kamerbehanger</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42530" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="81" end="95" />
+        <spannedText>Jacob Laatsman</spannedText>
+        <creationDate>Thu May 31 13:41:38 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42530">
+        <mentionClass id="Person">Jacob Laatsman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42531" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="221" end="232" />
+        <spannedText>Herv. pred.</spannedText>
+        <creationDate>Thu May 31 13:41:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42535">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_42531">
+        <hasSlotMention id="EHOST_Instance_42535" />
+        <mentionClass id="Profession">Herv. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42532" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="456" end="465" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Thu May 31 13:42:03 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42536">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_42532">
+        <hasSlotMention id="EHOST_Instance_42536" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

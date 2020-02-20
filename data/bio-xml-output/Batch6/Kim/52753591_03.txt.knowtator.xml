@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="52753591_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30497" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="100" end="105" />
+        <spannedText>pred.</spannedText>
+        <creationDate>Sat May 19 19:09:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30502">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30503">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30498" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30497">
+        <hasSlotMention id="EHOST_Instance_30502" />
+        <hasSlotMention id="EHOST_Instance_30503" />
+        <mentionClass id="Profession">pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30498" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="85" end="98" />
+        <spannedText>Foppe Oberman</spannedText>
+        <creationDate>Sat May 19 19:09:08 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30498">
+        <mentionClass id="Person">Foppe Oberman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30499" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="157" end="167" />
+        <spannedText>dr. theol.</spannedText>
+        <creationDate>Sat May 19 19:09:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30504">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30499">
+        <hasSlotMention id="EHOST_Instance_30504" />
+        <mentionClass id="Profession">dr. theol.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30500" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="261" end="272" />
+        <spannedText>Herv. pred.</spannedText>
+        <creationDate>Sat May 19 19:09:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30505">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30500">
+        <hasSlotMention id="EHOST_Instance_30505" />
+        <mentionClass id="Profession">Herv. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30501" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="199" end="204" />
+        <spannedText>Pred.</spannedText>
+        <creationDate>Sat May 19 19:09:43 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30506">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30501">
+        <hasSlotMention id="EHOST_Instance_30506" />
+        <mentionClass id="Profession">Pred.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

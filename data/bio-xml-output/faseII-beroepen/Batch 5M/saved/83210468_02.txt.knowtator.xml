@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="83210468_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_28511" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="226" end="236" />
+        <spannedText>journalist</spannedText>
+        <creationDate>Wed May 09 11:31:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_28519">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_28511">
+        <hasSlotMention id="EHOST_Instance_28519" />
+        <mentionClass id="Profession">journalist</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_28512" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2181" end="2217" />
+        <spannedText>vennoot van 'Belinfante &amp; Compagnie'</spannedText>
+        <creationDate>Wed May 09 11:32:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_28520">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_28512">
+        <hasSlotMention id="EHOST_Instance_28520" />
+        <mentionClass id="Profession">vennoot van 'Belinfante &amp; Compagnie'</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_28513" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2277" end="2286" />
+        <spannedText>uitgevers</spannedText>
+        <creationDate>Wed May 09 11:32:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_28521">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_28522">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_28514" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_28523">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_28515" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_28513">
+        <hasSlotMention id="EHOST_Instance_28521" />
+        <hasSlotMention id="EHOST_Instance_28522" />
+        <hasSlotMention id="EHOST_Instance_28523" />
+        <mentionClass id="Profession">uitgevers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_28514" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2291" end="2308" />
+        <spannedText>Van Embden &amp; Zoon</spannedText>
+        <creationDate>Wed May 09 11:33:11 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_28514">
+        <mentionClass id="Person">Van Embden &amp; Zoon</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_28515" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2312" end="2318" />
+        <spannedText>Proops</spannedText>
+        <creationDate>Wed May 09 11:33:13 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_28515">
+        <mentionClass id="Person">Proops</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_28516" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2863" end="2903" />
+        <spannedText>tweede directeur van de "Gazette Royale"</spannedText>
+        <creationDate>Wed May 09 11:33:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_28524">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_28516">
+        <hasSlotMention id="EHOST_Instance_28524" />
+        <mentionClass id="Profession">tweede directeur van de "Gazette Royale"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_28517" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2913" end="2932" />
+        <spannedText>Jonas Daniel Meijer</spannedText>
+        <creationDate>Wed May 09 11:33:54 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_28517">
+        <mentionClass id="Person">Jonas Daniel Meijer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_28518" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="2936" end="2952" />
+        <span start="2880" end="2903" />
+        <spannedText>van de "Gazette Royale" ... eerste directeur</spannedText>
+        <creationDate>Fri Jul 06 18:09:28 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_28518">
+        <mentionClass id="Profession">van de "Gazette Royale" ... eerste directeur</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

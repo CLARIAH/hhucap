@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="89939603_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2151" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="36" end="69" />
+        <spannedText>Cornelia Maria van Asch van Wijck</spannedText>
+        <creationDate>Fri Apr 06 13:38:09 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2151">
+        <mentionClass id="Person">Cornelia Maria van Asch van Wijck</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2152" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="266" end="278" />
+        <spannedText>gouvernantes</spannedText>
+        <creationDate>Fri Apr 06 13:38:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2156">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2152">
+        <hasSlotMention id="EHOST_Instance_2156" />
+        <mentionClass id="Profession">gouvernantes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2153" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="647" end="684" />
+        <spannedText>presidente van de internationale YWCA</spannedText>
+        <creationDate>Fri Apr 06 13:39:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2157">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_2158">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_2151" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2153">
+        <hasSlotMention id="EHOST_Instance_2157" />
+        <hasSlotMention id="EHOST_Instance_2158" />
+        <mentionClass id="Profession">presidente van de internationale YWCA</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2154" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="802" end="873" />
+        <spannedText>presidente van de vrouwenafdeling van de Nederlandse Gereformeerde Kerk</spannedText>
+        <creationDate>Fri Apr 06 13:40:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2159">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_2160">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_2151" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2154">
+        <hasSlotMention id="EHOST_Instance_2159" />
+        <hasSlotMention id="EHOST_Instance_2160" />
+        <mentionClass id="Profession">presidente van de vrouwenafdeling van de Nederlandse Gereformeerde Kerk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2155" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1026" end="1035" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Fri Apr 06 13:40:43 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2161">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2155">
+        <hasSlotMention id="EHOST_Instance_2161" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

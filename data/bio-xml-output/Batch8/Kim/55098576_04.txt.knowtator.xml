@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="55098576_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_1872" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="129" end="145" />
+        <spannedText>Geref. catecheet</spannedText>
+        <creationDate>Sun Jun 10 19:31:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1875">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1872">
+        <hasSlotMention id="EHOST_Instance_1875" />
+        <mentionClass id="Profession">Geref. catecheet</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1873" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="288" end="298" />
+        <spannedText>landbouwer</spannedText>
+        <creationDate>Sun Jun 10 19:32:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1876">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_1877">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_1874" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1873">
+        <hasSlotMention id="EHOST_Instance_1876" />
+        <hasSlotMention id="EHOST_Instance_1877" />
+        <mentionClass id="Profession">landbouwer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1874" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="235" end="252" />
+        <spannedText>Geertruy Smitmans</spannedText>
+        <creationDate>Sun Jun 10 19:32:09 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1874">
+        <mentionClass id="Person">Geertruy Smitmans</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

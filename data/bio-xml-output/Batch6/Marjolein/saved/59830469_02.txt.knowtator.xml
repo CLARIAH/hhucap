@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="59830469_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_37943" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="77" end="86" />
+        <spannedText>Jacob d'O</spannedText>
+        <creationDate>Fri May 18 11:09:57 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_37943">
+        <mentionClass id="Person">Jacob d'O</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_37944" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="67" end="76" />
+        <spannedText>apotheker</spannedText>
+        <creationDate>Fri May 18 11:10:01 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_37950">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_37951">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_37943" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_37944">
+        <hasSlotMention id="EHOST_Instance_37950" />
+        <hasSlotMention id="EHOST_Instance_37951" />
+        <mentionClass id="Profession">apotheker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_37945" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="414" end="422" />
+        <spannedText>med. dr.</spannedText>
+        <creationDate>Fri May 18 11:10:36 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_37952">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_37945">
+        <hasSlotMention id="EHOST_Instance_37952" />
+        <mentionClass id="Profession">med. dr.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_37946" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="432" end="441" />
+        <spannedText>apotheker</spannedText>
+        <creationDate>Fri May 18 11:10:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_37953">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_37946">
+        <hasSlotMention id="EHOST_Instance_37953" />
+        <mentionClass id="Profession">apotheker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_37947" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="530" end="542" />
+        <spannedText>geneesheeren</spannedText>
+        <creationDate>Fri May 18 11:10:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_37954">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_37947">
+        <hasSlotMention id="EHOST_Instance_37954" />
+        <mentionClass id="Profession">geneesheeren</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_37948" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="546" end="556" />
+        <spannedText>apothekers</spannedText>
+        <creationDate>Fri May 18 11:11:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_37955">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_37948">
+        <hasSlotMention id="EHOST_Instance_37955" />
+        <mentionClass id="Profession">apothekers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_37949" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="699" end="705" />
+        <spannedText>dokter</spannedText>
+        <creationDate>Fri May 18 11:11:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_37956">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_37949">
+        <hasSlotMention id="EHOST_Instance_37956" />
+        <mentionClass id="Profession">dokter</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

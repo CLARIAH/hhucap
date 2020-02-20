@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="20710339_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_1425" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="103" end="111" />
+        <spannedText>zakenman</spannedText>
+        <creationDate>Fri May 25 12:11:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1431">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_1432">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_1426" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1425">
+        <hasSlotMention id="EHOST_Instance_1431" />
+        <hasSlotMention id="EHOST_Instance_1432" />
+        <mentionClass id="Profession">zakenman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1426" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="112" end="125" />
+        <spannedText>Meik de Swaan</spannedText>
+        <creationDate>Fri May 25 12:11:17 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1426">
+        <mentionClass id="Person">Meik de Swaan</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1427" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="232" end="244" />
+        <spannedText>Johanna Moes</spannedText>
+        <creationDate>Fri May 25 12:11:46 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1427">
+        <mentionClass id="Person">Johanna Moes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1428" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="246" end="254" />
+        <spannedText>huisarts</spannedText>
+        <creationDate>Fri May 25 12:11:51 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1433">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_1434">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_1427" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1428">
+        <hasSlotMention id="EHOST_Instance_1433" />
+        <hasSlotMention id="EHOST_Instance_1434" />
+        <mentionClass id="Profession">huisarts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1429" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="544" end="567" />
+        <spannedText>voerde het secretariaat</spannedText>
+        <creationDate>Tue Jul 10 11:50:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1435">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1429">
+        <hasSlotMention id="EHOST_Instance_1435" />
+        <mentionClass id="Profession">voerde het secretariaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1430" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1104" end="1110" />
+        <span start="1115" end="1170" />
+        <spannedText>werkte ... bij de telefonische hulpdienst 'Vrouwen bellen Vrouwen'</spannedText>
+        <creationDate>Tue Jul 10 11:50:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1436">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1430">
+        <hasSlotMention id="EHOST_Instance_1436" />
+        <mentionClass id="Profession">werkte ... bij de telefonische hulpdienst 'Vrouwen bellen Vrouwen'</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="13287109_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_55258" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="5" end="41" />
+        <spannedText>Waller [jr.], Fran&amp;ccedil;ois Gerard</spannedText>
+        <creationDate>Mon Apr 30 17:30:42 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55258">
+        <mentionClass id="Person">Waller [jr.], Fran&amp;ccedil;ois Gerard</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55259" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="43" end="126" />
+        <spannedText>président-directeur van de Koninklijke Nederlandsche Gist- &amp;amp; Spiritusfabriek NV</spannedText>
+        <creationDate>Mon Apr 30 17:30:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55284">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55285">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55258" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55259">
+        <hasSlotMention id="EHOST_Instance_55284" />
+        <hasSlotMention id="EHOST_Instance_55285" />
+        <mentionClass id="Profession">président-directeur van de Koninklijke Nederlandsche Gist- &amp;amp; Spiritusfabriek NV</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55260" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="212" end="241" />
+        <spannedText>Fran&amp;ccedil;ois Gerard Waller</spannedText>
+        <creationDate>Mon Apr 30 17:31:04 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55260">
+        <mentionClass id="Person">Fran&amp;ccedil;ois Gerard Waller</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55261" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="243" end="311" />
+        <spannedText>président-directeur van de Nederlandsche Gist- &amp;amp; Spiritusfabriek</spannedText>
+        <creationDate>Mon Apr 30 17:31:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55286">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55287">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55260" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55261">
+        <hasSlotMention id="EHOST_Instance_55286" />
+        <hasSlotMention id="EHOST_Instance_55287" />
+        <mentionClass id="Profession">président-directeur van de Nederlandsche Gist- &amp;amp; Spiritusfabriek</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55262" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="619" end="628" />
+        <spannedText>directeur</spannedText>
+        <creationDate>Mon Apr 30 17:36:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55288">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55289">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55263" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_55290">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55260" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55262">
+        <hasSlotMention id="EHOST_Instance_55288" />
+        <hasSlotMention id="EHOST_Instance_55289" />
+        <hasSlotMention id="EHOST_Instance_55290" />
+        <mentionClass id="Profession">directeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55263" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="602" end="617" />
+        <spannedText>J.C. van Marken</spannedText>
+        <creationDate>Mon Apr 30 17:36:24 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55263">
+        <mentionClass id="Person">J.C. van Marken</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55264" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1105" end="1119" />
+        <spannedText>G. van Iterson</spannedText>
+        <creationDate>Mon Apr 30 17:37:14 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55264">
+        <mentionClass id="Person">G. van Iterson</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55265" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1149" end="1161" />
+        <spannedText>A.J. Kluyver</spannedText>
+        <creationDate>Mon Apr 30 17:37:17 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55265">
+        <mentionClass id="Person">A.J. Kluyver</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55266" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1087" end="1104" />
+        <spannedText>biochemieus prof.</spannedText>
+        <creationDate>Mon Apr 30 17:37:20 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55291">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55292">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55264" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55266">
+        <hasSlotMention id="EHOST_Instance_55291" />
+        <hasSlotMention id="EHOST_Instance_55292" />
+        <mentionClass id="Profession">biochemieus prof.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55267" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1130" end="1148" />
+        <spannedText>microbioloog prof.</spannedText>
+        <creationDate>Mon Apr 30 17:37:26 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55293">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55294">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55265" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55267">
+        <hasSlotMention id="EHOST_Instance_55293" />
+        <hasSlotMention id="EHOST_Instance_55294" />
+        <mentionClass id="Profession">microbioloog prof.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55268" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1219" end="1230" />
+        <spannedText>biochemieus</spannedText>
+        <creationDate>Mon Apr 30 17:37:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55295">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55296">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55258" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55268">
+        <hasSlotMention id="EHOST_Instance_55295" />
+        <hasSlotMention id="EHOST_Instance_55296" />
+        <mentionClass id="Profession">biochemieus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55269" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1350" end="1355" />
+        <spannedText>prof.</spannedText>
+        <creationDate>Mon Apr 30 17:37:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55297">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55298">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55270" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55269">
+        <hasSlotMention id="EHOST_Instance_55297" />
+        <hasSlotMention id="EHOST_Instance_55298" />
+        <mentionClass id="Profession">prof.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55270" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1356" end="1378" />
+        <spannedText>S.P.L. S&amp;oslash;rensen</spannedText>
+        <creationDate>Mon Apr 30 17:37:56 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55270">
+        <mentionClass id="Person">S.P.L. S&amp;oslash;rensen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55271" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1472" end="1491" />
+        <spannedText>president-directeur</spannedText>
+        <creationDate>Mon Apr 30 17:38:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55299">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55300">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55260" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55271">
+        <hasSlotMention id="EHOST_Instance_55299" />
+        <hasSlotMention id="EHOST_Instance_55300" />
+        <mentionClass id="Profession">president-directeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55272" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1825" end="1841" />
+        <spannedText>procuratiehouder</spannedText>
+        <creationDate>Mon Apr 30 17:38:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55301">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55302">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55258" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55272">
+        <hasSlotMention id="EHOST_Instance_55301" />
+        <hasSlotMention id="EHOST_Instance_55302" />
+        <mentionClass id="Profession">procuratiehouder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55273" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1923" end="1942" />
+        <spannedText>lid van de directie</spannedText>
+        <creationDate>Mon Apr 30 17:38:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55303">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55304">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55258" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55273">
+        <hasSlotMention id="EHOST_Instance_55303" />
+        <hasSlotMention id="EHOST_Instance_55304" />
+        <mentionClass id="Profession">lid van de directie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55274" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1952" end="1972" />
+        <spannedText>ir. W.H. van Leeuwen</spannedText>
+        <creationDate>Mon Apr 30 17:39:00 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55274">
+        <mentionClass id="Person">ir. W.H. van Leeuwen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55275" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1977" end="1996" />
+        <spannedText>president-directeur</spannedText>
+        <creationDate>Mon Apr 30 17:39:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55305">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55306">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55274" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55275">
+        <hasSlotMention id="EHOST_Instance_55305" />
+        <hasSlotMention id="EHOST_Instance_55306" />
+        <mentionClass id="Profession">president-directeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55276" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="2011" end="2022" />
+        <spannedText>H.F. Waller</spannedText>
+        <creationDate>Mon Apr 30 17:39:09 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55276">
+        <mentionClass id="Person">H.F. Waller</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55277" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="2027" end="2036" />
+        <spannedText>directeur</spannedText>
+        <creationDate>Mon Apr 30 17:39:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55307">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55308">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55276" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55277">
+        <hasSlotMention id="EHOST_Instance_55307" />
+        <hasSlotMention id="EHOST_Instance_55308" />
+        <mentionClass id="Profession">directeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55278" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="3092" end="3099" />
+        <spannedText>Kluyver</spannedText>
+        <creationDate>Mon Apr 30 17:40:04 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55278">
+        <mentionClass id="Person">Kluyver</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55279" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="3086" end="3091" />
+        <spannedText>Prof.</spannedText>
+        <creationDate>Mon Apr 30 17:40:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55309">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55310">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55278" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55279">
+        <hasSlotMention id="EHOST_Instance_55309" />
+        <hasSlotMention id="EHOST_Instance_55310" />
+        <mentionClass id="Profession">Prof.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55280" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="3268" end="3306" />
+        <spannedText>president-directeur van de gistfabriek</spannedText>
+        <creationDate>Mon Apr 30 17:40:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55311">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55312">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55258" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_55313">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55274" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55280">
+        <hasSlotMention id="EHOST_Instance_55311" />
+        <hasSlotMention id="EHOST_Instance_55312" />
+        <hasSlotMention id="EHOST_Instance_55313" />
+        <mentionClass id="Profession">president-directeur van de gistfabriek</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55281" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="3370" end="3381" />
+        <spannedText>commissaris</spannedText>
+        <creationDate>Mon Apr 30 17:40:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55314">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55315">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55258" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55281">
+        <hasSlotMention id="EHOST_Instance_55314" />
+        <hasSlotMention id="EHOST_Instance_55315" />
+        <mentionClass id="Profession">commissaris</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55282" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="4663" end="4699" />
+        <spannedText>voorzitterschap van de Hartstichting</spannedText>
+        <creationDate>Mon Apr 30 17:42:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55316">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55317">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55258" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55282">
+        <hasSlotMention id="EHOST_Instance_55316" />
+        <hasSlotMention id="EHOST_Instance_55317" />
+        <mentionClass id="Profession">voorzitterschap van de Hartstichting</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55283" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="4229" end="4238" />
+        <span start="4206" end="4220" />
+        <spannedText>commissariaten ... bekleedde</spannedText>
+        <creationDate>Sat Jun 30 11:33:27 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55283">
+        <mentionClass id="Profession">commissariaten ... bekleedde</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="80720603_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_4243" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1815" end="1824" />
+        <spannedText>curatoren</spannedText>
+        <creationDate>Wed Apr 04 13:37:59 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4243">
+        <mentionClass id="Profession">curatoren</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4244" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2172" end="2176" />
+        <spannedText>tolk</spannedText>
+        <creationDate>Wed Apr 04 13:38:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4250">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_4251">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_4249" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4244">
+        <hasSlotMention id="EHOST_Instance_4250" />
+        <hasSlotMention id="EHOST_Instance_4251" />
+        <mentionClass id="Profession">tolk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4245" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2230" end="2244" />
+        <spannedText>Moslim prinsen</spannedText>
+        <creationDate>Wed Apr 04 13:38:48 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4245">
+        <mentionClass id="Profession">Moslim prinsen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4246" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2338" end="2345" />
+        <spannedText>prinsen</spannedText>
+        <creationDate>Wed Apr 04 13:38:53 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4246">
+        <mentionClass id="Profession">prinsen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4247" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2350" end="2358" />
+        <spannedText>koningen</spannedText>
+        <creationDate>Wed Apr 04 13:38:56 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4247">
+        <mentionClass id="Profession">koningen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4248" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2388" end="2401" />
+        <spannedText>aartsbisschop</spannedText>
+        <creationDate>Wed Apr 04 13:38:58 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4248">
+        <mentionClass id="Profession">aartsbisschop</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4249" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="0" end="61" />
+        <spannedText>Thomas van Erpe, ook van den Erpe, bekend als Thomas Erpenius</spannedText>
+        <creationDate>Sun Apr 08 17:54:39 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4249">
+        <mentionClass id="Person">Thomas van Erpe, ook van den Erpe, bekend als Thomas Erpenius</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

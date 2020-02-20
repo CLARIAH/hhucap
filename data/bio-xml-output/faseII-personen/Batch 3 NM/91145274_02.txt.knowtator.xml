@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="91145274_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_35712" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="303" end="317" />
+        <spannedText>Antonie Wiebes</spannedText>
+        <creationDate>Mon Apr 16 09:32:44 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_35712">
+        <mentionClass id="Person">Antonie Wiebes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35713" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="932" end="986" />
+        <spannedText>assistent bij het Rijksmuseum van Natuurlijke Historie</spannedText>
+        <creationDate>Mon Apr 16 09:34:36 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35724">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_35713">
+        <hasSlotMention id="EHOST_Instance_35724" />
+        <mentionClass id="Profession">assistent bij het Rijksmuseum van Natuurlijke Historie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35714" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2208" end="2218" />
+        <spannedText>H. Boschma</spannedText>
+        <creationDate>Mon Apr 16 09:35:44 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_35714">
+        <mentionClass id="Person">H. Boschma</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35715" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2230" end="2279" />
+        <spannedText>directeur van het Museum van Natuurlijke Historie</spannedText>
+        <creationDate>Mon Apr 16 09:35:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35725">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_35726">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_35714" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_35715">
+        <hasSlotMention id="EHOST_Instance_35725" />
+        <hasSlotMention id="EHOST_Instance_35726" />
+        <mentionClass id="Profession">directeur van het Museum van Natuurlijke Historie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35716" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="5709" end="5768" />
+        <spannedText>onderdirecteur van het Rijksmuseum van Natuurlijke Historie</spannedText>
+        <creationDate>Mon Apr 16 09:38:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35727">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_35716">
+        <hasSlotMention id="EHOST_Instance_35727" />
+        <mentionClass id="Profession">onderdirecteur van het Rijksmuseum van Natuurlijke Historie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35717" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="5806" end="5846" />
+        <spannedText>gewoon hoogleraar in de evolutiebiologie</spannedText>
+        <creationDate>Mon Apr 16 09:38:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35728">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_35717">
+        <hasSlotMention id="EHOST_Instance_35728" />
+        <mentionClass id="Profession">gewoon hoogleraar in de evolutiebiologie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35718" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="6273" end="6279" />
+        <spannedText>docent</spannedText>
+        <creationDate>Mon Apr 16 09:38:36 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35729">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_35718">
+        <hasSlotMention id="EHOST_Instance_35729" />
+        <mentionClass id="Profession">docent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35719" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="319" end="333" />
+        <spannedText>Hoofdingenieur</spannedText>
+        <creationDate>Sat Jun 23 20:59:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35730">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_35731">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_35712" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_35719">
+        <hasSlotMention id="EHOST_Instance_35730" />
+        <hasSlotMention id="EHOST_Instance_35731" />
+        <mentionClass id="Profession">Hoofdingenieur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35720" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1711" end="1737" />
+        <spannedText>wetenschappelijk ambtenaar</spannedText>
+        <creationDate>Sat Jun 23 21:00:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35732">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_35720">
+        <hasSlotMention id="EHOST_Instance_35732" />
+        <mentionClass id="Profession">wetenschappelijk ambtenaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35721" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="2198" end="2203" />
+        <spannedText>prof.</spannedText>
+        <creationDate>Sat Jun 23 21:01:01 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35733">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_35734">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_35714" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_35721">
+        <hasSlotMention id="EHOST_Instance_35733" />
+        <hasSlotMention id="EHOST_Instance_35734" />
+        <mentionClass id="Profession">prof.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35722" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="4130" end="4139" />
+        <spannedText>botanicus</spannedText>
+        <creationDate>Sat Jun 23 21:01:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35735">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_35736">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_35723" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_35722">
+        <hasSlotMention id="EHOST_Instance_35735" />
+        <hasSlotMention id="EHOST_Instance_35736" />
+        <mentionClass id="Profession">botanicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35723" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="4140" end="4149" />
+        <spannedText>C.C. Berg</spannedText>
+        <creationDate>Fri Jul 06 09:33:39 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_35723">
+        <mentionClass id="Person">C.C. Berg</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

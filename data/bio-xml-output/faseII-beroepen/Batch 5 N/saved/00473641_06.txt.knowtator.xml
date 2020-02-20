@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="00473641_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2483" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="855" end="869" />
+        <spannedText>Herman Bosscha</spannedText>
+        <creationDate>Mon May 07 15:40:34 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2483">
+        <mentionClass id="Person">Herman Bosscha</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2484" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="876" end="888" />
+        <spannedText>Rec&amp;#173;tor</spannedText>
+        <creationDate>Mon May 07 15:40:38 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2486">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_2487">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_2483" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2484">
+        <hasSlotMention id="EHOST_Instance_2486" />
+        <hasSlotMention id="EHOST_Instance_2487" />
+        <mentionClass id="Profession">Rec&amp;#173;tor</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2485" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="5407" end="5439" />
+        <spannedText>Eectoraat der Latijnsche Scholen</spannedText>
+        <creationDate>Mon May 07 15:45:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2488">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2485">
+        <hasSlotMention id="EHOST_Instance_2488" />
+        <mentionClass id="Profession">Eectoraat der Latijnsche Scholen</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

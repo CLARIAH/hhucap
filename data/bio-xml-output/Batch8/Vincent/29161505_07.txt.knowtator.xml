@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="29161505_07.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2109" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="100" end="107" />
+        <spannedText>Notaris</spannedText>
+        <creationDate>Fri Jun 08 17:11:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2115">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2109">
+        <hasSlotMention id="EHOST_Instance_2115" />
+        <mentionClass id="Profession">Notaris</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2110" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="301" end="310" />
+        <spannedText>Notariaat</spannedText>
+        <creationDate>Fri Jun 08 17:11:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2116">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2110">
+        <hasSlotMention id="EHOST_Instance_2116" />
+        <mentionClass id="Profession">Notariaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2111" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="489" end="498" />
+        <spannedText>huisvrouw</spannedText>
+        <creationDate>Fri Jun 08 17:14:26 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2117">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_2118">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_2112" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2111">
+        <hasSlotMention id="EHOST_Instance_2117" />
+        <hasSlotMention id="EHOST_Instance_2118" />
+        <mentionClass id="Profession">huisvrouw</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2112" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="499" end="517" />
+        <spannedText>Wilhelmina van Lil</spannedText>
+        <creationDate>Fri Jun 08 17:14:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2112">
+        <mentionClass id="Person">Wilhelmina van Lil</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2113" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="668" end="672" />
+        <spannedText>Paus</spannedText>
+        <creationDate>Fri Jun 08 17:14:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2119">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_2120">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_2114" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2113">
+        <hasSlotMention id="EHOST_Instance_2119" />
+        <hasSlotMention id="EHOST_Instance_2120" />
+        <mentionClass id="Profession">Paus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2114" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="673" end="685" />
+        <spannedText>Gregoris XIV</spannedText>
+        <creationDate>Fri Jun 08 17:14:55 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2114">
+        <mentionClass id="Person">Gregoris XIV</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="73272910_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_38209" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="327" end="340" />
+        <spannedText>kunstschilder</spannedText>
+        <creationDate>Fri May 18 14:06:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_38213">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_38209">
+        <hasSlotMention id="EHOST_Instance_38213" />
+        <mentionClass id="Profession">kunstschilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38210" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="591" end="603" />
+        <spannedText>fijnschilder</spannedText>
+        <creationDate>Fri May 18 14:07:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_38214">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_38210">
+        <hasSlotMention id="EHOST_Instance_38214" />
+        <mentionClass id="Profession">fijnschilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38211" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="691" end="708" />
+        <spannedText>Jan Tiddo Fockens</spannedText>
+        <creationDate>Fri May 18 14:07:17 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_38211">
+        <mentionClass id="Person">Jan Tiddo Fockens</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38212" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="684" end="690" />
+        <spannedText>jurist</spannedText>
+        <creationDate>Fri May 18 14:07:19 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_38215">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_38216">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_38211" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_38212">
+        <hasSlotMention id="EHOST_Instance_38215" />
+        <hasSlotMention id="EHOST_Instance_38216" />
+        <mentionClass id="Profession">jurist</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

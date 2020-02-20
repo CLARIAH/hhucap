@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="67589830_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_13986" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="38" end="72" />
+        <spannedText>Gravin van Kauwenborg en Sternborg</spannedText>
+        <creationDate>Fri May 18 12:36:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13993">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Mother" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_13986">
+        <hasSlotMention id="EHOST_Instance_13993" />
+        <mentionClass id="Profession">Gravin van Kauwenborg en Sternborg</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13987" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="184" end="189" />
+        <spannedText>Theda</spannedText>
+        <creationDate>Fri May 18 12:38:15 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_13987">
+        <mentionClass id="Person">Theda</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13988" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="191" end="197" />
+        <spannedText>Gravin</spannedText>
+        <creationDate>Fri May 18 12:38:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13994">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_13995">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_13987" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_13988">
+        <hasSlotMention id="EHOST_Instance_13994" />
+        <hasSlotMention id="EHOST_Instance_13995" />
+        <mentionClass id="Profession">Gravin</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13989" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="260" end="274" />
+        <spannedText>Edzard Sirxena</spannedText>
+        <creationDate>Fri May 18 12:38:42 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_13989">
+        <mentionClass id="Person">Edzard Sirxena</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13990" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="276" end="300" />
+        <spannedText>graaf van Oost-Friesland</spannedText>
+        <creationDate>Fri May 18 12:38:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13996">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_13997">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_13989" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_13990">
+        <hasSlotMention id="EHOST_Instance_13996" />
+        <hasSlotMention id="EHOST_Instance_13997" />
+        <mentionClass id="Profession">graaf van Oost-Friesland</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13991" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="302" end="318" />
+        <spannedText>Philips de Goede</spannedText>
+        <creationDate>Fri May 18 12:38:56 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_13991">
+        <mentionClass id="Person">Philips de Goede</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13992" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="320" end="341" />
+        <spannedText>Hertog van Bourgondië</spannedText>
+        <creationDate>Fri May 18 12:39:01 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13998">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_13999">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_13991" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_13992">
+        <hasSlotMention id="EHOST_Instance_13998" />
+        <hasSlotMention id="EHOST_Instance_13999" />
+        <mentionClass id="Profession">Hertog van Bourgondië</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

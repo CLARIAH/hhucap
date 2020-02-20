@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="52831164_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_35361" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="914" end="927" />
+        <spannedText>Willem Arnold</spannedText>
+        <creationDate>Thu Apr 12 16:25:10 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_35361">
+        <mentionClass id="Person">Willem Arnold</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35362" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="468" end="494" />
+        <spannedText>lid der Provinciale staten</spannedText>
+        <creationDate>Fri Jun 22 21:18:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35366">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_35362">
+        <hasSlotMention id="EHOST_Instance_35366" />
+        <mentionClass id="Profession">lid der Provinciale staten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35363" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="971" end="991" />
+        <spannedText>lid der Prov. staten</spannedText>
+        <creationDate>Fri Jun 22 21:18:29 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35367">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Child" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_35368">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_35361" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_35363">
+        <hasSlotMention id="EHOST_Instance_35367" />
+        <hasSlotMention id="EHOST_Instance_35368" />
+        <mentionClass id="Profession">lid der Prov. staten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35364" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="375" end="382" />
+        <spannedText>ambtman</spannedText>
+        <creationDate>Fri Jul 06 09:10:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35369">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_35364">
+        <hasSlotMention id="EHOST_Instance_35369" />
+        <mentionClass id="Profession">ambtman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35365" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="408" end="438" />
+        <spannedText>geadmitteerd in de ridderschap</spannedText>
+        <creationDate>Fri Jul 06 09:11:00 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35370">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_35365">
+        <hasSlotMention id="EHOST_Instance_35370" />
+        <mentionClass id="Profession">geadmitteerd in de ridderschap</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="68345544_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_78715" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="18" end="32" />
+        <spannedText>kunsthandelaar</spannedText>
+        <creationDate>Thu May 03 11:15:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78717">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_78718">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_78716" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_78715">
+        <hasSlotMention id="EHOST_Instance_78717" />
+        <hasSlotMention id="EHOST_Instance_78718" />
+        <mentionClass id="Profession">kunsthandelaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78716" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="187" end="195" />
+        <spannedText>lodewijk</spannedText>
+        <creationDate>Thu May 03 11:15:16 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78716">
+        <mentionClass id="Person">lodewijk</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

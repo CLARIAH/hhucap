@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="01625363_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_43734" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="98" end="119" />
+        <spannedText>hoogleraar plantkunde</spannedText>
+        <creationDate>Mon Apr 16 17:24:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43738">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43734">
+        <hasSlotMention id="EHOST_Instance_43738" />
+        <mentionClass id="Profession">hoogleraar plantkunde</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43735" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="476" end="487" />
+        <spannedText>conservator</spannedText>
+        <creationDate>Mon Apr 16 17:24:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43739">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43735">
+        <hasSlotMention id="EHOST_Instance_43739" />
+        <mentionClass id="Profession">conservator</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43736" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="674" end="755" />
+        <spannedText>hoogleraar in de bijzondere plantkunde en de leer van de verspreiding der planten</spannedText>
+        <creationDate>Mon Apr 16 17:25:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43740">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_43741">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_43737" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43736">
+        <hasSlotMention id="EHOST_Instance_43740" />
+        <hasSlotMention id="EHOST_Instance_43741" />
+        <mentionClass id="Profession">hoogleraar in de bijzondere plantkunde en de leer van de verspreiding der planten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43737" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="774" end="779" />
+        <spannedText>Pulle</spannedText>
+        <creationDate>Mon Apr 16 17:25:09 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43737">
+        <mentionClass id="Person">Pulle</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="34077005_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_42558" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="216" end="234" />
+        <spannedText>Minister van Staat</spannedText>
+        <creationDate>Thu May 31 14:11:59 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42567">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_42558">
+        <hasSlotMention id="EHOST_Instance_42567" />
+        <mentionClass id="Profession">Minister van Staat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42559" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="4012" end="4021" />
+        <spannedText>Predikant</spannedText>
+        <creationDate>Thu May 31 14:13:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42568">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_42569">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_42560" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_42559">
+        <hasSlotMention id="EHOST_Instance_42568" />
+        <hasSlotMention id="EHOST_Instance_42569" />
+        <mentionClass id="Profession">Predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42560" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="3708" end="3724" />
+        <spannedText>Abraham de Vries</spannedText>
+        <creationDate>Thu May 31 14:14:39 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42560">
+        <mentionClass id="Person">Abraham de Vries</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42561" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="5136" end="5145" />
+        <spannedText>paedagoog</spannedText>
+        <creationDate>Thu May 31 14:15:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42570">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_42571">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_42562" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_42561">
+        <hasSlotMention id="EHOST_Instance_42570" />
+        <hasSlotMention id="EHOST_Instance_42571" />
+        <mentionClass id="Profession">paedagoog</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42562" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="5112" end="5119" />
+        <spannedText>Prinsen</spannedText>
+        <creationDate>Thu May 31 14:15:06 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42562">
+        <mentionClass id="Person">Prinsen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42563" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="76" end="86" />
+        <spannedText>Voorzitter</spannedText>
+        <creationDate>Wed Jul 11 10:54:00 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42563">
+        <mentionClass id="Profession">Voorzitter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42564" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="236" end="276" />
+        <spannedText>Staatsraad in buitengewoner&amp;#187; dienst</spannedText>
+        <creationDate>Wed Jul 11 10:54:10 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42564">
+        <mentionClass id="Profession">Staatsraad in buitengewoner&amp;#187; dienst</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42565" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="449" end="458" />
+        <spannedText>staatsman</spannedText>
+        <creationDate>Wed Jul 11 10:54:21 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42565">
+        <mentionClass id="Profession">staatsman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42566" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="4144" end="4189" />
+        <spannedText>lid van het Koninklijk Nederlandsch Instituut</spannedText>
+        <creationDate>Wed Jul 11 10:57:04 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42566">
+        <mentionClass id="Profession">lid van het Koninklijk Nederlandsch Instituut</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

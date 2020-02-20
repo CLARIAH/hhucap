@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="42753732_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_68158" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="288" end="294" />
+        <spannedText>jurist</spannedText>
+        <creationDate>Fri May 18 12:41:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68161">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68158">
+        <hasSlotMention id="EHOST_Instance_68161" />
+        <mentionClass id="Profession">jurist</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_68159" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="304" end="376" />
+        <spannedText>hoogleraar burgerlijk recht, Handelsrecht en Burgerlijke Rechtsvordering</spannedText>
+        <creationDate>Fri May 18 12:41:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68162">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68159">
+        <hasSlotMention id="EHOST_Instance_68162" />
+        <mentionClass id="Profession">hoogleraar burgerlijk recht, Handelsrecht en Burgerlijke Rechtsvordering</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_68160" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="416" end="440" />
+        <spannedText>hoogleraar Romeins Recht</spannedText>
+        <creationDate>Fri May 18 12:41:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_68163">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_68160">
+        <hasSlotMention id="EHOST_Instance_68163" />
+        <mentionClass id="Profession">hoogleraar Romeins Recht</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

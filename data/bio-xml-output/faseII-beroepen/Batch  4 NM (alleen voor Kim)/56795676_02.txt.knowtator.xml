@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="56795676_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_78116" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1774" end="1791" />
+        <spannedText>makelaar in tabak</spannedText>
+        <creationDate>Fri Apr 20 12:33:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78121">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78116">
+        <hasSlotMention id="EHOST_Instance_78121" />
+        <mentionClass id="Profession">makelaar in tabak</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78117" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="5614" end="5625" />
+        <spannedText>conservator</spannedText>
+        <creationDate>Fri Apr 20 12:37:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78122">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78117">
+        <hasSlotMention id="EHOST_Instance_78122" />
+        <mentionClass id="Profession">conservator</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78118" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="6878" end="6901" />
+        <spannedText>buitengewoon hoogleraar</spannedText>
+        <creationDate>Fri Apr 20 12:37:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78123">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_78124">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_78119" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_78118">
+        <hasSlotMention id="EHOST_Instance_78123" />
+        <hasSlotMention id="EHOST_Instance_78124" />
+        <mentionClass id="Profession">buitengewoon hoogleraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78119" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="6902" end="6915" />
+        <spannedText>S.G. de Vries</spannedText>
+        <creationDate>Fri Apr 20 12:37:59 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78119">
+        <mentionClass id="Person">S.G. de Vries</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78120" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="6732" end="6778" />
+        <spannedText>lector in de Middeleeuwse handschrif- tenkunde</spannedText>
+        <creationDate>Fri Apr 20 12:38:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78125">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78120">
+        <hasSlotMention id="EHOST_Instance_78125" />
+        <mentionClass id="Profession">lector in de Middeleeuwse handschrif- tenkunde</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

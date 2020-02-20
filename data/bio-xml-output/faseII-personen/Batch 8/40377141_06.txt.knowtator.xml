@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="40377141_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_258" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="85" end="97" />
+        <spannedText>Glasschryver</spannedText>
+        <creationDate>Sun Jun 10 22:21:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_262">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_263">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_259" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_258">
+        <hasSlotMention id="EHOST_Instance_262" />
+        <hasSlotMention id="EHOST_Instance_263" />
+        <mentionClass id="Profession">Glasschryver</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_259" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="106" end="117" />
+        <spannedText>Jan Verburg</spannedText>
+        <creationDate>Sun Jun 10 22:21:19 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_259">
+        <mentionClass id="Person">Jan Verburg</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_260" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="219" end="232" />
+        <spannedText>Glasschilders</spannedText>
+        <creationDate>Sun Jun 10 22:21:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_264">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_260">
+        <hasSlotMention id="EHOST_Instance_264" />
+        <mentionClass id="Profession">Glasschilders</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_261" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="267" end="280" />
+        <spannedText>Glasschryvers</spannedText>
+        <creationDate>Sun Jun 10 22:21:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_265">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_261">
+        <hasSlotMention id="EHOST_Instance_265" />
+        <mentionClass id="Profession">Glasschryvers</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

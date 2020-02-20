@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="89007714_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_665" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="48" end="52" />
+        <spannedText>arts</spannedText>
+        <creationDate>Sat Mar 03 14:14:20 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_676">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_665">
+        <hasSlotMention id="EHOST_Instance_676" />
+        <mentionClass id="Profession">arts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_666" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="28" end="46" />
+        <spannedText>Bernard Westerdijk</spannedText>
+        <creationDate>Sat Mar 03 14:14:31 CET 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_677">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_665" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_666">
+        <hasSlotMention id="EHOST_Instance_677" />
+        <mentionClass id="Person">Bernard Westerdijk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_667" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="138" end="210" />
+        <spannedText>directrice van het fytopathologisch laboratorium Willy Commelin Scholten</spannedText>
+        <creationDate>Sat Mar 03 14:15:11 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_678">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_667">
+        <hasSlotMention id="EHOST_Instance_678" />
+        <mentionClass id="Profession">directrice van het fytopathologisch laboratorium Willy Commelin Scholten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_668" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="250" end="268" />
+        <spannedText>Johanna Westerdijk</spannedText>
+        <creationDate>Sat Mar 03 14:15:27 CET 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_679">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_667" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_680">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_671" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_681">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_672" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_682">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_673" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_683">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_674" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_684">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_675" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_668">
+        <hasSlotMention id="EHOST_Instance_679" />
+        <hasSlotMention id="EHOST_Instance_680" />
+        <hasSlotMention id="EHOST_Instance_681" />
+        <hasSlotMention id="EHOST_Instance_682" />
+        <hasSlotMention id="EHOST_Instance_683" />
+        <hasSlotMention id="EHOST_Instance_684" />
+        <mentionClass id="Person">Johanna Westerdijk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_669" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="273" end="282" />
+        <spannedText>professor</spannedText>
+        <creationDate>Sat Mar 03 14:15:34 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_685">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NoFamilyMember" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_669">
+        <hasSlotMention id="EHOST_Instance_685" />
+        <mentionClass id="Profession">professor</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_670" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="283" end="296" />
+        <spannedText>F.A.F.C. Went</spannedText>
+        <creationDate>Sat Mar 03 14:15:47 CET 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_686">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_669" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_670">
+        <hasSlotMention id="EHOST_Instance_686" />
+        <mentionClass id="Person">F.A.F.C. Went</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_671" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="695" end="739" />
+        <spannedText>buitengewoon hoogleraar in de plantenziekten</spannedText>
+        <creationDate>Sat Mar 03 14:16:15 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_687">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_671">
+        <hasSlotMention id="EHOST_Instance_687" />
+        <mentionClass id="Profession">buitengewoon hoogleraar in de plantenziekten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_672" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="840" end="884" />
+        <spannedText>buitengewoon hoogleraar in de fytopathologie</spannedText>
+        <creationDate>Sat Mar 03 14:16:34 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_688">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_672">
+        <hasSlotMention id="EHOST_Instance_688" />
+        <mentionClass id="Profession">buitengewoon hoogleraar in de fytopathologie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_673" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1484" end="1554" />
+        <spannedText>bestuurlid van de Vereniging van Vrouwen met een Academische Opleiding</spannedText>
+        <creationDate>Sat Mar 03 14:17:07 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_689">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_673">
+        <hasSlotMention id="EHOST_Instance_689" />
+        <mentionClass id="Profession">bestuurlid van de Vereniging van Vrouwen met een Academische Opleiding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_674" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1578" end="1641" />
+        <spannedText>presidente van the International Federation of University Women</spannedText>
+        <creationDate>Sat Mar 03 14:17:19 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_690">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_674">
+        <hasSlotMention id="EHOST_Instance_690" />
+        <mentionClass id="Profession">presidente van the International Federation of University Women</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_675" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1704" end="1765" />
+        <spannedText>lid van de Koninklijke Nederlandse Academie van Wetenschappen</spannedText>
+        <creationDate>Sat Mar 03 14:17:31 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_691">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_675">
+        <hasSlotMention id="EHOST_Instance_691" />
+        <mentionClass id="Profession">lid van de Koninklijke Nederlandse Academie van Wetenschappen</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

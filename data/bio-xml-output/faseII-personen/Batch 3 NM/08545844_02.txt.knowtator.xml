@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="08545844_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_34825" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="177" end="224" />
+        <spannedText>vertegenwoordiger namens de Algemene Rekenkamer</spannedText>
+        <creationDate>Thu Apr 12 16:31:10 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_34828">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_34825">
+        <hasSlotMention id="EHOST_Instance_34828" />
+        <mentionClass id="Profession">vertegenwoordiger namens de Algemene Rekenkamer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_34826" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="407" end="444" />
+        <spannedText>secretaris van de Algemene Rekenkamer</spannedText>
+        <creationDate>Thu Apr 12 16:31:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_34829">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_34826">
+        <hasSlotMention id="EHOST_Instance_34829" />
+        <mentionClass id="Profession">secretaris van de Algemene Rekenkamer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_34827" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="71" end="79" />
+        <span start="96" end="114" />
+        <spannedText>functies ... accountantskantoor</spannedText>
+        <creationDate>Fri Jul 06 08:39:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_34830">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_34827">
+        <hasSlotMention id="EHOST_Instance_34830" />
+        <mentionClass id="Profession">functies ... accountantskantoor</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

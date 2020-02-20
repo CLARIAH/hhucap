@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="51788338_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_9100" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="0" end="21" />
+        <spannedText>ZOUTMAN, Johan Arnold</spannedText>
+        <creationDate>Tue Apr 24 12:28:29 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9100">
+        <mentionClass id="Person">ZOUTMAN, Johan Arnold</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9101" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="23" end="37" />
+        <spannedText>marineofficier</spannedText>
+        <creationDate>Tue Apr 24 12:28:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9155">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9156">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9101">
+        <hasSlotMention id="EHOST_Instance_9155" />
+        <hasSlotMention id="EHOST_Instance_9156" />
+        <mentionClass id="Profession">marineofficier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9102" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="115" end="135" />
+        <spannedText>Johan Arnold Zoutman</spannedText>
+        <creationDate>Tue Apr 24 12:28:44 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9102">
+        <mentionClass id="Person">Johan Arnold Zoutman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9103" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="137" end="146" />
+        <spannedText>procureur</spannedText>
+        <creationDate>Tue Apr 24 12:28:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9157">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9158">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9102" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9103">
+        <hasSlotMention id="EHOST_Instance_9157" />
+        <hasSlotMention id="EHOST_Instance_9158" />
+        <mentionClass id="Profession">procureur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9104" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="618" end="626" />
+        <spannedText>advocaat</spannedText>
+        <creationDate>Tue Apr 24 12:29:20 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9159">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9160">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9102" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_9161">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9106" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9104">
+        <hasSlotMention id="EHOST_Instance_9159" />
+        <hasSlotMention id="EHOST_Instance_9160" />
+        <hasSlotMention id="EHOST_Instance_9161" />
+        <mentionClass id="Profession">advocaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9105" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="630" end="639" />
+        <spannedText>procureur</spannedText>
+        <creationDate>Tue Apr 24 12:29:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9162">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9163">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9102" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_9164">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9106" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9105">
+        <hasSlotMention id="EHOST_Instance_9162" />
+        <hasSlotMention id="EHOST_Instance_9163" />
+        <hasSlotMention id="EHOST_Instance_9164" />
+        <mentionClass id="Profession">procureur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9106" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="583" end="587" />
+        <spannedText>Dirk</spannedText>
+        <creationDate>Tue Apr 24 12:29:44 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9106">
+        <mentionClass id="Person">Dirk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9107" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="913" end="926" />
+        <spannedText>zeeofficieren</spannedText>
+        <creationDate>Tue Apr 24 12:30:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9165">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9107">
+        <hasSlotMention id="EHOST_Instance_9165" />
+        <mentionClass id="Profession">zeeofficieren</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9108" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1008" end="1051" />
+        <spannedText>als adelborst in dienst bij de Admiraliteit</spannedText>
+        <creationDate>Tue Apr 24 12:31:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9166">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9167">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9108">
+        <hasSlotMention id="EHOST_Instance_9166" />
+        <hasSlotMention id="EHOST_Instance_9167" />
+        <mentionClass id="Profession">als adelborst in dienst bij de Admiraliteit</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9109" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1149" end="1158" />
+        <spannedText>luitenant</spannedText>
+        <creationDate>Tue Apr 24 12:31:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9168">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9169">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9109">
+        <hasSlotMention id="EHOST_Instance_9168" />
+        <hasSlotMention id="EHOST_Instance_9169" />
+        <mentionClass id="Profession">luitenant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9110" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1178" end="1186" />
+        <spannedText>kapitein</spannedText>
+        <creationDate>Tue Apr 24 12:31:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9170">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9171">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9110">
+        <hasSlotMention id="EHOST_Instance_9170" />
+        <hasSlotMention id="EHOST_Instance_9171" />
+        <mentionClass id="Profession">kapitein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9111" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1412" end="1422" />
+        <spannedText>commandeur</spannedText>
+        <creationDate>Tue Apr 24 12:31:43 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9172">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9173">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9111">
+        <hasSlotMention id="EHOST_Instance_9172" />
+        <hasSlotMention id="EHOST_Instance_9173" />
+        <mentionClass id="Profession">commandeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9112" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1512" end="1521" />
+        <spannedText>Willem IV</spannedText>
+        <creationDate>Tue Apr 24 12:31:56 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9112">
+        <mentionClass id="Person">Willem IV</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9113" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1501" end="1511" />
+        <spannedText>stadhouder</spannedText>
+        <creationDate>Tue Apr 24 12:31:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9174">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9175">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9112" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9113">
+        <hasSlotMention id="EHOST_Instance_9174" />
+        <hasSlotMention id="EHOST_Instance_9175" />
+        <mentionClass id="Profession">stadhouder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9114" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1530" end="1561" />
+        <spannedText>extraordinaris kapitein-ter-zee</spannedText>
+        <creationDate>Tue Apr 24 12:32:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9176">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9177">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9114">
+        <hasSlotMention id="EHOST_Instance_9176" />
+        <hasSlotMention id="EHOST_Instance_9177" />
+        <mentionClass id="Profession">extraordinaris kapitein-ter-zee</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9115" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1592" end="1607" />
+        <spannedText>tweede kapitein</spannedText>
+        <creationDate>Tue Apr 24 12:32:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9178">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9179">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9115">
+        <hasSlotMention id="EHOST_Instance_9178" />
+        <hasSlotMention id="EHOST_Instance_9179" />
+        <mentionClass id="Profession">tweede kapitein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9116" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1828" end="1836" />
+        <spannedText>kapitein</spannedText>
+        <creationDate>Tue Apr 24 12:32:38 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9180">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9181">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9116">
+        <hasSlotMention id="EHOST_Instance_9180" />
+        <hasSlotMention id="EHOST_Instance_9181" />
+        <mentionClass id="Profession">kapitein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9117" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2224" end="2231" />
+        <spannedText>consuls</spannedText>
+        <creationDate>Tue Apr 24 12:34:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9182">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9117">
+        <hasSlotMention id="EHOST_Instance_9182" />
+        <mentionClass id="Profession">consuls</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9118" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2314" end="2324" />
+        <spannedText>officieren</spannedText>
+        <creationDate>Tue Apr 24 12:34:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9183">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9184">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9119" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_9185">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9120" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9118">
+        <hasSlotMention id="EHOST_Instance_9183" />
+        <hasSlotMention id="EHOST_Instance_9184" />
+        <hasSlotMention id="EHOST_Instance_9185" />
+        <mentionClass id="Profession">officieren</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9119" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2329" end="2349" />
+        <spannedText>Adriaan Roemer Vlacq</spannedText>
+        <creationDate>Tue Apr 24 12:34:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9119">
+        <mentionClass id="Person">Adriaan Roemer Vlacq</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9120" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2353" end="2373" />
+        <spannedText>Adriaan van der Does</spannedText>
+        <creationDate>Tue Apr 24 12:34:36 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9120">
+        <mentionClass id="Person">Adriaan van der Does</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9121" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2396" end="2412" />
+        <spannedText>kapitein-ter-zee</spannedText>
+        <creationDate>Tue Apr 24 12:34:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9186">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9187">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9121">
+        <hasSlotMention id="EHOST_Instance_9186" />
+        <hasSlotMention id="EHOST_Instance_9187" />
+        <mentionClass id="Profession">kapitein-ter-zee</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9122" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2890" end="2958" />
+        <spannedText>rentmeester van de domeinen en van de geestelijke goederen Waltherus</spannedText>
+        <creationDate>Tue Apr 24 12:35:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9188">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="FatherInLaw" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9122">
+        <hasSlotMention id="EHOST_Instance_9188" />
+        <mentionClass id="Profession">rentmeester van de domeinen en van de geestelijke goederen Waltherus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9123" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3121" end="3129" />
+        <spannedText>Willem V</spannedText>
+        <creationDate>Tue Apr 24 12:36:06 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9123">
+        <mentionClass id="Person">Willem V</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9124" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3103" end="3119" />
+        <spannedText>prins van Oranje</spannedText>
+        <creationDate>Tue Apr 24 12:36:10 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9189">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9190">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9123" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9124">
+        <hasSlotMention id="EHOST_Instance_9189" />
+        <hasSlotMention id="EHOST_Instance_9190" />
+        <mentionClass id="Profession">prins van Oranje</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9125" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3138" end="3155" />
+        <spannedText>admiraal-generaal</spannedText>
+        <creationDate>Tue Apr 24 12:36:20 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9191">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9192">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9123" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9125">
+        <hasSlotMention id="EHOST_Instance_9191" />
+        <hasSlotMention id="EHOST_Instance_9192" />
+        <mentionClass id="Profession">admiraal-generaal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9126" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3259" end="3273" />
+        <spannedText>marineofficier</spannedText>
+        <creationDate>Tue Apr 24 12:36:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9193">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9194">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9126">
+        <hasSlotMention id="EHOST_Instance_9193" />
+        <hasSlotMention id="EHOST_Instance_9194" />
+        <mentionClass id="Profession">marineofficier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9127" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3441" end="3449" />
+        <spannedText>kapitein</spannedText>
+        <creationDate>Tue Apr 24 12:37:10 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9195">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9196">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9127">
+        <hasSlotMention id="EHOST_Instance_9195" />
+        <hasSlotMention id="EHOST_Instance_9196" />
+        <mentionClass id="Profession">kapitein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9128" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3778" end="3809" />
+        <spannedText>Lodewijk graaf van Bylandt-Halt</spannedText>
+        <creationDate>Tue Apr 24 12:37:41 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9128">
+        <mentionClass id="Person">Lodewijk graaf van Bylandt-Halt</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9129" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3769" end="3777" />
+        <spannedText>kapitein</spannedText>
+        <creationDate>Tue Apr 24 12:37:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9197">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9198">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9128" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9129">
+        <hasSlotMention id="EHOST_Instance_9197" />
+        <hasSlotMention id="EHOST_Instance_9198" />
+        <mentionClass id="Profession">kapitein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9130" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3858" end="3883" />
+        <spannedText>schout-bij-nacht titulair</spannedText>
+        <creationDate>Tue Apr 24 12:38:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9199">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9200">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9130">
+        <hasSlotMention id="EHOST_Instance_9199" />
+        <hasSlotMention id="EHOST_Instance_9200" />
+        <mentionClass id="Profession">schout-bij-nacht titulair</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9131" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3998" end="4014" />
+        <spannedText>Anthonis Staring</spannedText>
+        <creationDate>Tue Apr 24 12:38:16 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9131">
+        <mentionClass id="Person">Anthonis Staring</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9132" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3989" end="3997" />
+        <spannedText>kapitein</spannedText>
+        <creationDate>Tue Apr 24 12:38:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9201">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9202">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9131" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9132">
+        <hasSlotMention id="EHOST_Instance_9201" />
+        <hasSlotMention id="EHOST_Instance_9202" />
+        <mentionClass id="Profession">kapitein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9133" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="4467" end="4483" />
+        <spannedText>opperbevelhebber</spannedText>
+        <creationDate>Tue Apr 24 12:38:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9203">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9204">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9133">
+        <hasSlotMention id="EHOST_Instance_9203" />
+        <hasSlotMention id="EHOST_Instance_9204" />
+        <mentionClass id="Profession">opperbevelhebber</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9134" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="4636" end="4647" />
+        <spannedText>Hyde Parker</spannedText>
+        <creationDate>Tue Apr 24 12:39:06 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9134">
+        <mentionClass id="Person">Hyde Parker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9135" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="4622" end="4635" />
+        <spannedText>vice-admiraal</spannedText>
+        <creationDate>Tue Apr 24 12:39:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9205">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9206">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9134" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9135">
+        <hasSlotMention id="EHOST_Instance_9205" />
+        <hasSlotMention id="EHOST_Instance_9206" />
+        <mentionClass id="Profession">vice-admiraal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9136" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="6736" end="6744" />
+        <spannedText>Willem V</spannedText>
+        <creationDate>Tue Apr 24 12:41:06 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9136">
+        <mentionClass id="Person">Willem V</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9137" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="6725" end="6735" />
+        <spannedText>stadhouder</spannedText>
+        <creationDate>Tue Apr 24 12:41:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9207">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9208">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9136" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9137">
+        <hasSlotMention id="EHOST_Instance_9207" />
+        <hasSlotMention id="EHOST_Instance_9208" />
+        <mentionClass id="Profession">stadhouder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9138" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="6845" end="6888" />
+        <spannedText>vice-admiraal van Holland en West-Friesland</spannedText>
+        <creationDate>Tue Apr 24 12:41:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9209">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9210">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9138">
+        <hasSlotMention id="EHOST_Instance_9209" />
+        <hasSlotMention id="EHOST_Instance_9210" />
+        <mentionClass id="Profession">vice-admiraal van Holland en West-Friesland</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9139" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="6914" end="6923" />
+        <spannedText>kapiteins</spannedText>
+        <creationDate>Tue Apr 24 12:41:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9211">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9139">
+        <hasSlotMention id="EHOST_Instance_9211" />
+        <mentionClass id="Profession">kapiteins</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9140" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="6951" end="6967" />
+        <spannedText>schout-bij-nacht</spannedText>
+        <creationDate>Tue Apr 24 12:41:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9212">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9140">
+        <hasSlotMention id="EHOST_Instance_9212" />
+        <mentionClass id="Profession">schout-bij-nacht</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9141" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7143" end="7153" />
+        <spannedText>Stadhouder</spannedText>
+        <creationDate>Tue Apr 24 12:42:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9213">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9214">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9136" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9141">
+        <hasSlotMention id="EHOST_Instance_9213" />
+        <hasSlotMention id="EHOST_Instance_9214" />
+        <mentionClass id="Profession">Stadhouder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9142" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7820" end="7833" />
+        <spannedText>vice-admiraal</spannedText>
+        <creationDate>Tue Apr 24 12:42:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9215">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9216">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9142">
+        <hasSlotMention id="EHOST_Instance_9215" />
+        <hasSlotMention id="EHOST_Instance_9216" />
+        <mentionClass id="Profession">vice-admiraal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9143" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7910" end="7989" />
+        <spannedText>kapitein van een compagnie onder het tweede bataljon van het Regiment Mariniers</spannedText>
+        <creationDate>Tue Apr 24 12:43:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9217">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9218">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9143">
+        <hasSlotMention id="EHOST_Instance_9217" />
+        <hasSlotMention id="EHOST_Instance_9218" />
+        <mentionClass id="Profession">kapitein van een compagnie onder het tweede bataljon van het Regiment Mariniers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9144" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7994" end="8012" />
+        <spannedText>luitenant-admiraal</spannedText>
+        <creationDate>Tue Apr 24 12:43:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9219">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9220">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9145" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9144">
+        <hasSlotMention id="EHOST_Instance_9219" />
+        <hasSlotMention id="EHOST_Instance_9220" />
+        <mentionClass id="Profession">luitenant-admiraal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9145" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="8013" end="8039" />
+        <spannedText>Willem baron van Wassenaar</spannedText>
+        <creationDate>Tue Apr 24 12:43:36 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9145">
+        <mentionClass id="Person">Willem baron van Wassenaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9146" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="8194" end="8204" />
+        <spannedText>Stadhouder</spannedText>
+        <creationDate>Tue Apr 24 12:43:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9221">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9222">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9136" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9146">
+        <hasSlotMention id="EHOST_Instance_9221" />
+        <hasSlotMention id="EHOST_Instance_9222" />
+        <mentionClass id="Profession">Stadhouder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9147" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="8401" end="8419" />
+        <spannedText>luitenant-admiraal</spannedText>
+        <creationDate>Tue Apr 24 12:44:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9223">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9147">
+        <hasSlotMention id="EHOST_Instance_9223" />
+        <mentionClass id="Profession">luitenant-admiraal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9148" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="8501" end="8515" />
+        <spannedText>vlagofficieren</spannedText>
+        <creationDate>Tue Apr 24 12:44:18 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9224">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9148">
+        <hasSlotMention id="EHOST_Instance_9224" />
+        <mentionClass id="Profession">vlagofficieren</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9149" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="9140" end="9153" />
+        <spannedText>vice-admiraal</spannedText>
+        <creationDate>Tue Apr 24 12:45:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9225">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9226">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9149">
+        <hasSlotMention id="EHOST_Instance_9225" />
+        <hasSlotMention id="EHOST_Instance_9226" />
+        <mentionClass id="Profession">vice-admiraal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9150" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="9224" end="9234" />
+        <spannedText>Stadhouder</spannedText>
+        <creationDate>Tue Apr 24 12:45:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9227">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9228">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9136" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9150">
+        <hasSlotMention id="EHOST_Instance_9227" />
+        <hasSlotMention id="EHOST_Instance_9228" />
+        <mentionClass id="Profession">Stadhouder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9151" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="9397" end="9415" />
+        <spannedText>luitenant-admiraal</spannedText>
+        <creationDate>Tue Apr 24 12:45:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9229">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9151">
+        <hasSlotMention id="EHOST_Instance_9229" />
+        <mentionClass id="Profession">luitenant-admiraal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9152" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="9659" end="9692" />
+        <spannedText>extraordinaris luitenant-admiraal</spannedText>
+        <creationDate>Tue Apr 24 12:46:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9230">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9231">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9100" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9152">
+        <hasSlotMention id="EHOST_Instance_9230" />
+        <hasSlotMention id="EHOST_Instance_9231" />
+        <mentionClass id="Profession">extraordinaris luitenant-admiraal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9153" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="9883" end="9903" />
+        <spannedText>scheepsartilleristen</spannedText>
+        <creationDate>Tue Apr 24 12:46:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9232">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9153">
+        <hasSlotMention id="EHOST_Instance_9232" />
+        <mentionClass id="Profession">scheepsartilleristen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9154" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="9998" end="10010" />
+        <spannedText>vlagofficier</spannedText>
+        <creationDate>Tue Apr 24 12:46:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9233">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9154">
+        <hasSlotMention id="EHOST_Instance_9233" />
+        <mentionClass id="Profession">vlagofficier</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

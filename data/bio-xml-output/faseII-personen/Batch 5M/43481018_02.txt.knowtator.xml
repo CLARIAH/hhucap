@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="43481018_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_6015" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="154" end="185" />
+        <spannedText>Jacob Jedesz (Eduardsz) Feitama</spannedText>
+        <creationDate>Wed May 09 11:43:24 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_6015">
+        <mentionClass id="Person">Jacob Jedesz (Eduardsz) Feitama</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6016" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="146" end="153" />
+        <spannedText>brouwer</spannedText>
+        <creationDate>Wed May 09 11:43:11 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6020">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_6021">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_6015" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_6016">
+        <hasSlotMention id="EHOST_Instance_6020" />
+        <hasSlotMention id="EHOST_Instance_6021" />
+        <mentionClass id="Profession">brouwer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6017" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1217" end="1224" />
+        <spannedText>brouwer</spannedText>
+        <creationDate>Wed May 09 11:44:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6022">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_6023">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_6019" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_6017">
+        <hasSlotMention id="EHOST_Instance_6022" />
+        <hasSlotMention id="EHOST_Instance_6023" />
+        <mentionClass id="Profession">brouwer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6018" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1733" end="1741" />
+        <spannedText>Filosoef</spannedText>
+        <creationDate>Wed May 09 11:45:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6024">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_6018">
+        <hasSlotMention id="EHOST_Instance_6024" />
+        <mentionClass id="Profession">Filosoef</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6019" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1103" end="1123" />
+        <spannedText>Jede Jacobsz Feitama</spannedText>
+        <creationDate>Wed May 09 11:46:07 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_6019">
+        <mentionClass id="Person">Jede Jacobsz Feitama</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

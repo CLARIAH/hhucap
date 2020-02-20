@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="06814002_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_62106" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="67" end="82" />
+        <spannedText>Tweede Kamerlid</spannedText>
+        <creationDate>Sat May 26 14:59:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_62111">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_62106">
+        <hasSlotMention id="EHOST_Instance_62111" />
+        <mentionClass id="Profession">Tweede Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62107" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="373" end="387" />
+        <spannedText>parlementariër</spannedText>
+        <creationDate>Sat May 26 15:00:03 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_62112">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_62107">
+        <hasSlotMention id="EHOST_Instance_62112" />
+        <mentionClass id="Profession">parlementariër</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62108" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="0" end="27" />
+        <spannedText>Voorman van de Boerenpartij</spannedText>
+        <creationDate>Sat May 26 15:00:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_62113">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_62108">
+        <hasSlotMention id="EHOST_Instance_62113" />
+        <mentionClass id="Profession">Voorman van de Boerenpartij</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62109" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="546" end="554" />
+        <spannedText>Kamerlid</spannedText>
+        <creationDate>Sat May 26 15:00:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_62114">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_62109">
+        <hasSlotMention id="EHOST_Instance_62114" />
+        <mentionClass id="Profession">Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62110" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="105" end="111" />
+        <spannedText>Boeren</spannedText>
+        <creationDate>Mon Jul 30 17:40:19 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_62110">
+        <mentionClass id="Profession">Boeren</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

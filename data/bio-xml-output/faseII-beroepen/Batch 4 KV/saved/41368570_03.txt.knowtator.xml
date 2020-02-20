@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="41368570_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_55849" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1252" end="1269" />
+        <spannedText>Willem Procurator</spannedText>
+        <creationDate>Mon Apr 30 18:02:52 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55849">
+        <mentionClass id="Person">Willem Procurator</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55850" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1274" end="1294" />
+        <spannedText>benedictijner monnik</spannedText>
+        <creationDate>Sat Jun 30 13:12:24 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_55856">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_55857">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_55849" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_55850">
+        <hasSlotMention id="EHOST_Instance_55856" />
+        <hasSlotMention id="EHOST_Instance_55857" />
+        <mentionClass id="Profession">benedictijner monnik</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55851" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2206" end="2219" />
+        <spannedText>kloosterlinge</spannedText>
+        <creationDate>Sat Jun 30 13:14:16 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55851">
+        <mentionClass id="Profession">kloosterlinge</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55852" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2448" end="2458" />
+        <spannedText>diplomaten</spannedText>
+        <creationDate>Sat Jun 30 13:14:25 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55852">
+        <mentionClass id="Profession">diplomaten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55853" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2460" end="2468" />
+        <spannedText>gezanten</spannedText>
+        <creationDate>Sat Jun 30 13:14:27 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55853">
+        <mentionClass id="Profession">gezanten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55854" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3071" end="3083" />
+        <spannedText>boodschapper</spannedText>
+        <creationDate>Sat Jun 30 13:15:12 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55854">
+        <mentionClass id="Profession">boodschapper</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_55855" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3485" end="3492" />
+        <spannedText>klerken</spannedText>
+        <creationDate>Sat Jun 30 13:15:30 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_55855">
+        <mentionClass id="Profession">klerken</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

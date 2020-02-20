@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="29480189_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_20171" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="479" end="512" />
+        <spannedText>correspondent voor "De Telegraaf"</spannedText>
+        <creationDate>Wed Apr 25 16:38:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20178">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20171">
+        <hasSlotMention id="EHOST_Instance_20178" />
+        <mentionClass id="Profession">correspondent voor "De Telegraaf"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20172" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="824" end="841" />
+        <spannedText>Aron Heiman Cohen</spannedText>
+        <creationDate>Wed Apr 25 16:39:46 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_20172">
+        <mentionClass id="Person">Aron Heiman Cohen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20173" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="814" end="823" />
+        <spannedText>winkelier</spannedText>
+        <creationDate>Wed Apr 25 16:39:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20179">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_20180">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_20172" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_20173">
+        <hasSlotMention id="EHOST_Instance_20179" />
+        <hasSlotMention id="EHOST_Instance_20180" />
+        <mentionClass id="Profession">winkelier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20174" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1318" end="1371" />
+        <spannedText>nam hij dienst in het Nederlands-Indische leger (NIL)</spannedText>
+        <creationDate>Sat Jun 30 10:40:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20181">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20174">
+        <hasSlotMention id="EHOST_Instance_20181" />
+        <mentionClass id="Profession">nam hij dienst in het Nederlands-Indische leger (NIL)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20175" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1942" end="1951" />
+        <spannedText>corrector</spannedText>
+        <creationDate>Wed Apr 25 16:41:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20182">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20175">
+        <hasSlotMention id="EHOST_Instance_20182" />
+        <mentionClass id="Profession">corrector</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20176" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="4727" end="4760" />
+        <spannedText>correspondent voor "De Telegraaf"</spannedText>
+        <creationDate>Wed Apr 25 16:43:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20183">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20176">
+        <hasSlotMention id="EHOST_Instance_20183" />
+        <mentionClass id="Profession">correspondent voor "De Telegraaf"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_20177" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1250" end="1260" />
+        <spannedText>leerlooier</spannedText>
+        <creationDate>Sat Jun 30 10:41:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_20184">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_20177">
+        <hasSlotMention id="EHOST_Instance_20184" />
+        <mentionClass id="Profession">leerlooier</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

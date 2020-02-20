@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="14924202_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_157943" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="50" end="60" />
+        <spannedText>secretaris</spannedText>
+        <creationDate>Sun Sep 02 13:36:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_157947">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_157943">
+        <hasSlotMention id="EHOST_Instance_157947" />
+        <mentionClass id="Profession">secretaris</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_157944" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="193" end="202" />
+        <spannedText>Statenlid</spannedText>
+        <creationDate>Wed May 02 20:51:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_157948">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_157944">
+        <hasSlotMention id="EHOST_Instance_157948" />
+        <mentionClass id="Profession">Statenlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_157945" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="278" end="293" />
+        <spannedText>Tweede Kamerlid</spannedText>
+        <creationDate>Wed May 02 20:51:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_157949">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_157945">
+        <hasSlotMention id="EHOST_Instance_157949" />
+        <mentionClass id="Profession">Tweede Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_157946" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="122" end="125" />
+        <span start="152" end="176" />
+        <spannedText>Had ... zitting in de Staatsraad</spannedText>
+        <creationDate>Sun Sep 02 13:36:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_157950">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_157946">
+        <hasSlotMention id="EHOST_Instance_157950" />
+        <mentionClass id="Profession">Had ... zitting in de Staatsraad</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

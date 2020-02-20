@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="08528481_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_158094" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="40" end="68" />
+        <spannedText>handelaar in goud en juwelen</spannedText>
+        <creationDate>Wed May 02 20:33:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_158096">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_158094">
+        <hasSlotMention id="EHOST_Instance_158096" />
+        <mentionClass id="Profession">handelaar in goud en juwelen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_158095" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="73" end="108" />
+        <spannedText>eigenaar van een groot bankiershuis</spannedText>
+        <creationDate>Wed May 02 20:34:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_158097">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_158095">
+        <hasSlotMention id="EHOST_Instance_158097" />
+        <mentionClass id="Profession">eigenaar van een groot bankiershuis</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

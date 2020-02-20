@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="42731702_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_16124" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="10" end="18" />
+        <spannedText>priester</spannedText>
+        <creationDate>Thu May 03 12:16:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_16131">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_16124">
+        <hasSlotMention id="EHOST_Instance_16131" />
+        <mentionClass id="Profession">priester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_16125" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="22" end="31" />
+        <spannedText>staatsman</spannedText>
+        <creationDate>Thu May 03 12:16:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_16132">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_16125">
+        <hasSlotMention id="EHOST_Instance_16132" />
+        <mentionClass id="Profession">staatsman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_16126" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="311" end="322" />
+        <spannedText>mijnwerkers</spannedText>
+        <creationDate>Thu May 03 12:16:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_16133">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_16126">
+        <hasSlotMention id="EHOST_Instance_16133" />
+        <mentionClass id="Profession">mijnwerkers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_16127" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="332" end="349" />
+        <spannedText>fractievoorzitter</spannedText>
+        <creationDate>Thu May 03 12:16:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_16134">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_16127">
+        <hasSlotMention id="EHOST_Instance_16134" />
+        <mentionClass id="Profession">fractievoorzitter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_16128" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="382" end="425" />
+        <spannedText>voorzitter van de grootste regeringsfractie</spannedText>
+        <creationDate>Thu May 03 12:17:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_16135">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_16128">
+        <hasSlotMention id="EHOST_Instance_16135" />
+        <mentionClass id="Profession">voorzitter van de grootste regeringsfractie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_16129" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="128" end="143" />
+        <spannedText>Tweede Kamerlid</spannedText>
+        <creationDate>Fri Jul 06 09:58:20 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_16129">
+        <mentionClass id="Profession">Tweede Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_16130" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="149" end="155" />
+        <spannedText>docent</spannedText>
+        <creationDate>Fri Jul 06 09:58:28 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_16130">
+        <mentionClass id="Profession">docent</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

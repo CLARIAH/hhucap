@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="18435028_10.txt">
+    <annotation>
+        <mention id="EHOST_Instance_22287" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="29" end="50" />
+        <spannedText>Samuel Adrianus Naber</spannedText>
+        <creationDate>Mon May 07 12:03:01 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22287">
+        <mentionClass id="Person">Samuel Adrianus Naber</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22288" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="52" end="109" />
+        <spannedText>hoogleraar in de Griekse en Romeinse letteren en oudheden</spannedText>
+        <creationDate>Mon May 07 12:03:03 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22294">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_22295">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_22287" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22288">
+        <hasSlotMention id="EHOST_Instance_22294" />
+        <hasSlotMention id="EHOST_Instance_22295" />
+        <mentionClass id="Profession">hoogleraar in de Griekse en Romeinse letteren en oudheden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22289" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="640" end="657" />
+        <spannedText>hulponderwijzeres</spannedText>
+        <creationDate>Mon May 07 12:03:29 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22296">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22289">
+        <hasSlotMention id="EHOST_Instance_22296" />
+        <mentionClass id="Profession">hulponderwijzeres</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22290" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1578" end="1588" />
+        <spannedText>redactrice</spannedText>
+        <creationDate>Mon May 07 12:04:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22297">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22290">
+        <hasSlotMention id="EHOST_Instance_22297" />
+        <mentionClass id="Profession">redactrice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22291" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1606" end="1617" />
+        <spannedText>schrijfster</spannedText>
+        <creationDate>Mon May 07 12:04:32 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22298">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22291">
+        <hasSlotMention id="EHOST_Instance_22298" />
+        <mentionClass id="Profession">schrijfster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22292" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2244" end="2283" />
+        <spannedText>presidente van de Nationale Vrouwenraad</spannedText>
+        <creationDate>Mon May 07 12:05:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22299">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22292">
+        <hasSlotMention id="EHOST_Instance_22299" />
+        <mentionClass id="Profession">presidente van de Nationale Vrouwenraad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22293" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2371" end="2383" />
+        <spannedText>gemeenteraad</spannedText>
+        <creationDate>Mon May 07 12:05:20 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22300">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22293">
+        <hasSlotMention id="EHOST_Instance_22300" />
+        <mentionClass id="Profession">gemeenteraad</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

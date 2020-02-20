@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="29078077_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_64844" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="27" end="39" />
+        <spannedText>scheikundige</spannedText>
+        <creationDate>Wed May 30 11:15:53 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64873">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64844">
+        <hasSlotMention id="EHOST_Instance_64873" />
+        <mentionClass id="Profession">scheikundige</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64845" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="113" end="133" />
+        <spannedText>hoofd van een school</spannedText>
+        <creationDate>Wed May 30 11:16:01 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64874">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_64875">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_64846" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_64845">
+        <hasSlotMention id="EHOST_Instance_64874" />
+        <hasSlotMention id="EHOST_Instance_64875" />
+        <mentionClass id="Profession">hoofd van een school</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64846" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="100" end="111" />
+        <spannedText>Jan de Boer</spannedText>
+        <creationDate>Wed May 30 11:16:04 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_64846">
+        <mentionClass id="Person">Jan de Boer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64847" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="510" end="560" />
+        <spannedText>assistent voor anorganische en fysische chemie</spannedText>
+        <creationDate>Wed May 30 11:16:36 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64876">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64847">
+        <hasSlotMention id="EHOST_Instance_64876" />
+        <mentionClass id="Profession">assistent voor anorganische en fysische chemie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64848" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="630" end="641" />
+        <spannedText>leraarschap</spannedText>
+        <creationDate>Wed May 30 11:16:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64877">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64848">
+        <hasSlotMention id="EHOST_Instance_64877" />
+        <mentionClass id="Profession">leraarschap</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64849" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="859" end="864" />
+        <spannedText>prof.</spannedText>
+        <creationDate>Wed May 30 11:16:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64878">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_64879">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_64850" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_64849">
+        <hasSlotMention id="EHOST_Instance_64878" />
+        <hasSlotMention id="EHOST_Instance_64879" />
+        <mentionClass id="Profession">prof.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64850" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="865" end="880" />
+        <spannedText>H.J. Backer</spannedText>
+        <creationDate>Wed May 30 11:17:03 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_64850">
+        <mentionClass id="Person">H.J. Backer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64851" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="972" end="980" />
+        <spannedText>chemicus</spannedText>
+        <creationDate>Wed May 30 11:17:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64880">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64851">
+        <hasSlotMention id="EHOST_Instance_64880" />
+        <mentionClass id="Profession">chemicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64852" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1212" end="1220" />
+        <spannedText>chemicus</spannedText>
+        <creationDate>Wed May 30 11:17:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64881">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_64882">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_64853" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_64852">
+        <hasSlotMention id="EHOST_Instance_64881" />
+        <hasSlotMention id="EHOST_Instance_64882" />
+        <mentionClass id="Profession">chemicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64853" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1221" end="1235" />
+        <spannedText>A.E. van Arkel</spannedText>
+        <creationDate>Wed May 30 11:17:23 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_64853">
+        <mentionClass id="Person">A.E. van Arkel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64854" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2511" end="2571" />
+        <spannedText>medewerkers in het Natuurkundig Laboratorium van Philips</spannedText>
+        <creationDate>Wed May 30 11:18:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64883">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64854">
+        <hasSlotMention id="EHOST_Instance_64883" />
+        <mentionClass id="Profession">medewerkers in het Natuurkundig Laboratorium van Philips</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64855" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3049" end="3093" />
+        <spannedText>hoogleraar in de anorganische scheikunde</spannedText>
+        <creationDate>Wed May 30 11:18:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64884">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_64885">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_64856" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_64855">
+        <hasSlotMention id="EHOST_Instance_64884" />
+        <hasSlotMention id="EHOST_Instance_64885" />
+        <mentionClass id="Profession">hoogleraar in de anorganische scheikunde</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64856" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3013" end="3022" />
+        <spannedText>Van Arkel</spannedText>
+        <creationDate>Wed May 30 11:18:30 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_64856">
+        <mentionClass id="Person">Van Arkel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64857" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3577" end="3590" />
+        <spannedText>scheikundigen</spannedText>
+        <creationDate>Wed May 30 11:19:00 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64886">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64857">
+        <hasSlotMention id="EHOST_Instance_64886" />
+        <mentionClass id="Profession">scheikundigen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64858" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4005" end="4016" />
+        <spannedText>onderzoeker</spannedText>
+        <creationDate>Wed May 30 11:19:22 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64887">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64858">
+        <hasSlotMention id="EHOST_Instance_64887" />
+        <mentionClass id="Profession">onderzoeker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64859" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4264" end="4325" />
+        <spannedText>hoofd van het Centraal Laboratorium voor Defensievraagstukken</spannedText>
+        <creationDate>Wed May 30 11:19:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64888">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64859">
+        <hasSlotMention id="EHOST_Instance_64888" />
+        <mentionClass id="Profession">hoofd van het Centraal Laboratorium voor Defensievraagstukken</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64860" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4539" end="4547" />
+        <spannedText>kapitein</spannedText>
+        <creationDate>Wed May 30 11:19:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64889">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64860">
+        <hasSlotMention id="EHOST_Instance_64889" />
+        <mentionClass id="Profession">kapitein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64861" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4559" end="4565" />
+        <spannedText>majoor</spannedText>
+        <creationDate>Wed May 30 11:19:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64890">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64861">
+        <hasSlotMention id="EHOST_Instance_64890" />
+        <mentionClass id="Profession">majoor</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64862" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4687" end="4704" />
+        <spannedText>luitenant-kolonel</spannedText>
+        <creationDate>Wed May 30 11:20:11 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64891">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64862">
+        <hasSlotMention id="EHOST_Instance_64891" />
+        <mentionClass id="Profession">luitenant-kolonel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64863" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4713" end="4720" />
+        <spannedText>kolonel</spannedText>
+        <creationDate>Wed May 30 11:20:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64892">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64863">
+        <hasSlotMention id="EHOST_Instance_64892" />
+        <mentionClass id="Profession">kolonel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64864" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4885" end="4939" />
+        <spannedText>leidende functie bij de Unilever Research Organization</spannedText>
+        <creationDate>Wed May 30 11:20:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64893">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64864">
+        <hasSlotMention id="EHOST_Instance_64893" />
+        <mentionClass id="Profession">leidende functie bij de Unilever Research Organization</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64865" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4996" end="5074" />
+        <spannedText>wetenschappelijk adviseur op het Centraal Laboratorium van de Staatsmijnen</spannedText>
+        <creationDate>Wed May 30 11:20:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64894">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64865">
+        <hasSlotMention id="EHOST_Instance_64894" />
+        <mentionClass id="Profession">wetenschappelijk adviseur op het Centraal Laboratorium van de Staatsmijnen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64866" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="5123" end="5146" />
+        <spannedText>buitengewoon hoogleraar</spannedText>
+        <creationDate>Wed May 30 11:21:06 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64895">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64866">
+        <hasSlotMention id="EHOST_Instance_64895" />
+        <mentionClass id="Profession">buitengewoon hoogleraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64867" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="510" end="519" />
+        <span start="575" end="597" />
+        <spannedText>assistent ... voor organische chemie</spannedText>
+        <creationDate>Fri Aug 24 19:17:05 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_64867">
+        <mentionClass id="Profession">assistent ... voor organische chemie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64868" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="4579" end="4652" />
+        <spannedText>lid van de Buitengewone Raad van Advies van de Nederlandsche regering</spannedText>
+        <creationDate>Fri Aug 24 19:38:18 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_64868">
+        <mentionClass id="Profession">lid van de Buitengewone Raad van Advies van de Nederlandsche regering</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64869" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="6777" end="6861" />
+        <spannedText>voorzitter van de wetenschappelijke adviesraad van het Reactor Centrum Nederland</spannedText>
+        <creationDate>Fri Aug 24 23:07:27 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_64869">
+        <mentionClass id="Profession">voorzitter van de wetenschappelijke adviesraad van het Reactor Centrum Nederland</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64870" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="6777" end="6791" />
+        <span start="6881" end="6917" />
+        <spannedText>voorzitter van ... de Centrale Raad voor de Kernenergie</spannedText>
+        <creationDate>Fri Aug 24 23:07:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_64870">
+        <mentionClass id="Profession">voorzitter van ... de Centrale Raad voor de Kernenergie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64871" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="7169" end="7260" />
+        <spannedText>lid van het Algemeen Bestuur van de Koninklijke Nederlandsche Chemische Vereeniging</spannedText>
+        <creationDate>Fri Aug 24 23:07:52 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_64871">
+        <mentionClass id="Profession">lid van het Algemeen Bestuur van de Koninklijke Nederlandsche Chemische Vereeniging</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64872" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="7310" end="7325" />
+        <spannedText>voorzitterschap</spannedText>
+        <creationDate>Fri Aug 24 23:07:55 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_64872">
+        <mentionClass id="Profession">voorzitterschap</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

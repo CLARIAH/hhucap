@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="17570769_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_41388" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="112" end="119" />
+        <spannedText>soldaat</spannedText>
+        <creationDate>Wed May 30 14:57:28 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41395">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41388">
+        <hasSlotMention id="EHOST_Instance_41395" />
+        <mentionClass id="Profession">soldaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41389" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="218" end="261" />
+        <spannedText>kapitein van het VOC-schip Huis ter Meijen</spannedText>
+        <creationDate>Wed May 30 14:57:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41396">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41397">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41390" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41389">
+        <hasSlotMention id="EHOST_Instance_41396" />
+        <hasSlotMention id="EHOST_Instance_41397" />
+        <mentionClass id="Profession">kapitein van het VOC-schip Huis ter Meijen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41390" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="191" end="216" />
+        <spannedText>Johan Splinter Stavorinus</spannedText>
+        <creationDate>Wed May 30 14:57:51 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_41390">
+        <mentionClass id="Person">Johan Splinter Stavorinus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41391" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="540" end="548" />
+        <spannedText>kapitein</spannedText>
+        <creationDate>Wed May 30 14:58:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41398">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41399">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41392" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41391">
+        <hasSlotMention id="EHOST_Instance_41398" />
+        <hasSlotMention id="EHOST_Instance_41399" />
+        <mentionClass id="Profession">kapitein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41392" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="268" end="271" />
+        <spannedText>hij</spannedText>
+        <creationDate>Wed May 30 14:58:23 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_41392">
+        <mentionClass id="Person">hij</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41393" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1417" end="1424" />
+        <spannedText>soldaat</spannedText>
+        <creationDate>Wed May 30 14:59:00 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41400">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_41393">
+        <hasSlotMention id="EHOST_Instance_41400" />
+        <mentionClass id="Profession">soldaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_41394" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1849" end="1857" />
+        <spannedText>kapitein</spannedText>
+        <creationDate>Wed May 30 14:59:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_41401">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_41402">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_41392" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_41394">
+        <hasSlotMention id="EHOST_Instance_41401" />
+        <hasSlotMention id="EHOST_Instance_41402" />
+        <mentionClass id="Profession">kapitein</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

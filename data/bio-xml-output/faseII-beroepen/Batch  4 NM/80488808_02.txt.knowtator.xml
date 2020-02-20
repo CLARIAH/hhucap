@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="80488808_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_77038" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1214" end="1241" />
+        <spannedText>wetenschappelijk medewerker</spannedText>
+        <creationDate>Mon Apr 30 11:22:48 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_77041">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_77038">
+        <hasSlotMention id="EHOST_Instance_77041" />
+        <mentionClass id="Profession">wetenschappelijk medewerker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_77039" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3205" end="3215" />
+        <spannedText>Wilhelmina</spannedText>
+        <creationDate>Mon Apr 30 11:24:11 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_77039">
+        <mentionClass id="Person">Wilhelmina</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_77040" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="666" end="670" />
+        <span start="675" end="737" />
+        <spannedText>trad ... als assistent in dienst van Philips' Natuurkundig Laboratorium</spannedText>
+        <creationDate>Tue Jul 03 14:56:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_77040">
+        <mentionClass id="Profession">trad ... als assistent in dienst van Philips' Natuurkundig Laboratorium</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="04048397_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30592" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="0" end="55" />
+        <spannedText>Gereformeerde hoogleraar aan de Katholieke Universiteit</spannedText>
+        <creationDate>Wed Apr 18 11:36:01 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30596">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30592">
+        <hasSlotMention id="EHOST_Instance_30596" />
+        <mentionClass id="Profession">Gereformeerde hoogleraar aan de Katholieke Universiteit</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30593" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="209" end="226" />
+        <spannedText>politieke leiders</spannedText>
+        <creationDate>Wed Apr 18 11:36:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30597">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30593">
+        <hasSlotMention id="EHOST_Instance_30597" />
+        <mentionClass id="Profession">politieke leiders</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30594" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="526" end="561" />
+        <spannedText>woordvoerder onderwijs en justitie.</spannedText>
+        <creationDate>Wed Apr 18 11:36:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30598">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30594">
+        <hasSlotMention id="EHOST_Instance_30598" />
+        <mentionClass id="Profession">woordvoerder onderwijs en justitie.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30595" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="469" end="484" />
+        <spannedText>Eerste Kamerlid</spannedText>
+        <creationDate>Wed Apr 18 11:36:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30599">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30595">
+        <hasSlotMention id="EHOST_Instance_30599" />
+        <mentionClass id="Profession">Eerste Kamerlid</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

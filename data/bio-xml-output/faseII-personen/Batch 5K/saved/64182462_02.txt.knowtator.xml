@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="64182462_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_12477" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="121" end="126" />
+        <spannedText>pred.</spannedText>
+        <creationDate>Wed Jul 11 19:21:36 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12480">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_12481">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_12478" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12477">
+        <hasSlotMention id="EHOST_Instance_12480" />
+        <hasSlotMention id="EHOST_Instance_12481" />
+        <mentionClass id="Profession">pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12478" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="103" end="119" />
+        <spannedText>Foppe Ober- man</spannedText>
+        <creationDate>Sat Jul 14 14:46:58 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12478">
+        <mentionClass id="Person">Foppe Ober- man</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12479" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="204" end="215" />
+        <spannedText>Herv. pred.</spannedText>
+        <creationDate>Sat Jul 14 14:47:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12482">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12479">
+        <hasSlotMention id="EHOST_Instance_12482" />
+        <mentionClass id="Profession">Herv. pred.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="14924202_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_12250" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="193" end="202" />
+        <spannedText>Statenlid</spannedText>
+        <creationDate>Wed May 02 20:51:44 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12253">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12250">
+        <hasSlotMention id="EHOST_Instance_12253" />
+        <mentionClass id="Profession">Statenlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12251" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="278" end="293" />
+        <spannedText>Tweede Kamerlid</spannedText>
+        <creationDate>Wed May 02 20:51:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12254">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12251">
+        <hasSlotMention id="EHOST_Instance_12254" />
+        <mentionClass id="Profession">Tweede Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12252" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="50" end="68" />
+        <spannedText>secretaris van Oss</spannedText>
+        <creationDate>Wed Jul 11 10:42:01 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12255">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12252">
+        <hasSlotMention id="EHOST_Instance_12255" />
+        <mentionClass id="Profession">secretaris van Oss</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

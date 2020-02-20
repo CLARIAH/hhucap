@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="81573753_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_11652" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="0" end="30" />
+        <spannedText>HAREN, Carolina Wilhelmina van</spannedText>
+        <creationDate>Sat Mar 17 16:00:17 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11652">
+        <mentionClass id="Person">HAREN, Carolina Wilhelmina van</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11653" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="360" end="380" />
+        <spannedText>Willem van Hogendorp</spannedText>
+        <creationDate>Sat Mar 17 16:01:17 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11653">
+        <mentionClass id="Person">Willem van Hogendorp</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11654" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="394" end="400" />
+        <spannedText>jurist</spannedText>
+        <creationDate>Sat Mar 17 16:01:21 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11667">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_11668">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_11653" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11654">
+        <hasSlotMention id="EHOST_Instance_11667" />
+        <hasSlotMention id="EHOST_Instance_11668" />
+        <mentionClass id="Profession">jurist</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11655" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="4784" end="4794" />
+        <spannedText>Van Harens</spannedText>
+        <creationDate>Sat Mar 17 16:05:44 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11655">
+        <mentionClass id="Person">Van Harens</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11656" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="5953" end="5961" />
+        <spannedText>Willem V</spannedText>
+        <creationDate>Sat Mar 17 16:07:03 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11656">
+        <mentionClass id="Person">Willem V</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11657" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="5942" end="5952" />
+        <spannedText>stadhouder</spannedText>
+        <creationDate>Sat Mar 17 16:07:06 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11669">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_11670">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_11656" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11657">
+        <hasSlotMention id="EHOST_Instance_11669" />
+        <hasSlotMention id="EHOST_Instance_11670" />
+        <mentionClass id="Profession">stadhouder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11658" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="6051" end="6071" />
+        <spannedText>Amalia von Schmettau</spannedText>
+        <creationDate>Sat Mar 17 16:07:18 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11658">
+        <mentionClass id="Person">Amalia von Schmettau</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11659" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="7642" end="7650" />
+        <spannedText>advocaat</spannedText>
+        <creationDate>Sat Mar 17 16:09:19 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11659">
+        <mentionClass id="Profession">advocaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11660" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="9183" end="9192" />
+        <spannedText>schrijver</spannedText>
+        <creationDate>Sat Mar 17 16:10:26 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11671">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_11672">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_11661" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11660">
+        <hasSlotMention id="EHOST_Instance_11671" />
+        <hasSlotMention id="EHOST_Instance_11672" />
+        <mentionClass id="Profession">schrijver</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11661" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="9067" end="9087" />
+        <spannedText>Onno Zwier van Haren</spannedText>
+        <creationDate>Sat Mar 17 16:10:29 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11661">
+        <mentionClass id="Person">Onno Zwier van Haren</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11662" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="10131" end="10157" />
+        <spannedText>Henriëtte L.T. de Beaufort</spannedText>
+        <creationDate>Sat Mar 17 16:11:42 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11662">
+        <mentionClass id="Person">Henriëtte L.T. de Beaufort</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11663" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="10121" end="10130" />
+        <spannedText>historica</spannedText>
+        <creationDate>Sat Mar 17 16:11:44 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11673">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_11674">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_11662" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11663">
+        <hasSlotMention id="EHOST_Instance_11673" />
+        <hasSlotMention id="EHOST_Instance_11674" />
+        <mentionClass id="Profession">historica</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11664" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="227" end="263" />
+        <spannedText>gecommitteerde bij de Raad van State</spannedText>
+        <creationDate>Wed Jun 20 23:03:26 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11664">
+        <mentionClass id="Profession">gecommitteerde bij de Raad van State</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11665" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="567" end="603" />
+        <spannedText>gecommitteerde bij de Raad van State</spannedText>
+        <creationDate>Wed Jun 20 23:03:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11665">
+        <mentionClass id="Profession">gecommitteerde bij de Raad van State</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11666" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="5815" end="5846" />
+        <spannedText>lid van de Gecommitteerde Raden</spannedText>
+        <creationDate>Wed Jun 20 23:05:46 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11666">
+        <mentionClass id="Profession">lid van de Gecommitteerde Raden</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

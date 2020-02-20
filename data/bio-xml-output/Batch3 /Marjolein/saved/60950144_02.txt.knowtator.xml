@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="60950144_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_9879" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="0" end="16" />
+        <spannedText>VERDUIN, ABRAHAM</spannedText>
+        <creationDate>Tue Apr 24 14:57:45 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9879">
+        <mentionClass id="Person">VERDUIN, ABRAHAM</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9880" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="134" end="150" />
+        <spannedText>zonistisch pred.</spannedText>
+        <creationDate>Tue Apr 24 14:58:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9882">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9883">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9879" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9880">
+        <hasSlotMention id="EHOST_Instance_9882" />
+        <hasSlotMention id="EHOST_Instance_9883" />
+        <mentionClass id="Profession">zonistisch pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9881" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="394" end="403" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Tue Apr 24 14:58:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9884">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9885">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9879" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9881">
+        <hasSlotMention id="EHOST_Instance_9884" />
+        <hasSlotMention id="EHOST_Instance_9885" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

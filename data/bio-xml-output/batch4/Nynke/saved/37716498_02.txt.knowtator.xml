@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="37716498_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_23718" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="226" end="237" />
+        <spannedText>Jan Huisman</spannedText>
+        <creationDate>Tue Apr 24 14:23:48 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23718">
+        <mentionClass id="Person">Jan Huisman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23719" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="239" end="257" />
+        <spannedText>apothekersbediende</spannedText>
+        <creationDate>Tue Apr 24 14:23:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23722">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_23723">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_23718" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23719">
+        <hasSlotMention id="EHOST_Instance_23722" />
+        <hasSlotMention id="EHOST_Instance_23723" />
+        <mentionClass id="Profession">apothekersbediende</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23720" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="445" end="466" />
+        <spannedText>godsdienstonderwijzer</spannedText>
+        <creationDate>Tue Apr 24 14:24:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23724">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23720">
+        <hasSlotMention id="EHOST_Instance_23724" />
+        <mentionClass id="Profession">godsdienstonderwijzer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23721" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="6424" end="6438" />
+        <spannedText>bibliothecaris</spannedText>
+        <creationDate>Tue Apr 24 14:28:28 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23725">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23721">
+        <hasSlotMention id="EHOST_Instance_23725" />
+        <mentionClass id="Profession">bibliothecaris</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

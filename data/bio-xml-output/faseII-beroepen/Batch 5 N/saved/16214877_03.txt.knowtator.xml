@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="16214877_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2775" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="85" end="104" />
+        <spannedText>Jan Jacob Schultens</spannedText>
+        <creationDate>Mon May 07 12:01:26 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2775">
+        <mentionClass id="Person">Jan Jacob Schultens</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2776" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="106" end="119" />
+        <spannedText>hoogle- raar</spannedText>
+        <creationDate>Mon May 07 12:01:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2778">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_2779">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_2775" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2776">
+        <hasSlotMention id="EHOST_Instance_2778" />
+        <hasSlotMention id="EHOST_Instance_2779" />
+        <mentionClass id="Profession">hoogle- raar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2777" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="241" end="288" />
+        <spannedText>Hoogl. oosterse talen en Hebreeuwse oudhe- den</spannedText>
+        <creationDate>Mon May 07 12:01:38 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2780">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2777">
+        <hasSlotMention id="EHOST_Instance_2780" />
+        <mentionClass id="Profession">Hoogl. oosterse talen en Hebreeuwse oudhe- den</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

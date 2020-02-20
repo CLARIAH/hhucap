@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="02262966_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_6578" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="48" end="60" />
+        <spannedText>verpleegster</spannedText>
+        <creationDate>Tue Apr 17 16:00:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6583">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_6578">
+        <hasSlotMention id="EHOST_Instance_6583" />
+        <mentionClass id="Profession">verpleegster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6579" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="64" end="82" />
+        <spannedText>adjunct-directrice</spannedText>
+        <creationDate>Tue Apr 17 16:00:36 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6584">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_6579">
+        <hasSlotMention id="EHOST_Instance_6584" />
+        <mentionClass id="Profession">adjunct-directrice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6580" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="211" end="228" />
+        <spannedText>lekenverpleegster</spannedText>
+        <creationDate>Tue Apr 17 16:00:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_6580">
+        <mentionClass id="Profession">lekenverpleegster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6581" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="379" end="392" />
+        <spannedText>verpleegkunde</spannedText>
+        <creationDate>Tue Apr 17 16:00:53 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_6581">
+        <mentionClass id="Profession">verpleegkunde</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6582" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="575" end="590" />
+        <spannedText>verpleegkundige</spannedText>
+        <creationDate>Tue Apr 17 16:00:59 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6585">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_6582">
+        <hasSlotMention id="EHOST_Instance_6585" />
+        <mentionClass id="Profession">verpleegkundige</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

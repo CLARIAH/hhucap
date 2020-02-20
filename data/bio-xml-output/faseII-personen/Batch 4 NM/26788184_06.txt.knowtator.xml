@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="26788184_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_7950" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="158" end="188" />
+        <spannedText>agent van binnenlandsche zaken</spannedText>
+        <creationDate>Mon Apr 30 11:10:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7957">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7950">
+        <hasSlotMention id="EHOST_Instance_7957" />
+        <mentionClass id="Profession">agent van binnenlandsche zaken</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7951" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="211" end="217" />
+        <spannedText>Peyman</spannedText>
+        <creationDate>Mon Apr 30 11:10:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7951">
+        <mentionClass id="Person">Peyman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7952" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="219" end="224" />
+        <spannedText>Gogel</spannedText>
+        <creationDate>Mon Apr 30 11:10:44 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7952">
+        <mentionClass id="Person">Gogel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7953" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="228" end="234" />
+        <spannedText>Tadema</spannedText>
+        <creationDate>Mon Apr 30 11:10:46 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7953">
+        <mentionClass id="Person">Tadema</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7954" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="236" end="285" />
+        <spannedText>agenten van oorlog, marine, financiën en justitie</spannedText>
+        <creationDate>Mon Apr 30 11:10:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7958">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_7959">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_7952" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7960">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_7951" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7961">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_7953" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7954">
+        <hasSlotMention id="EHOST_Instance_7958" />
+        <hasSlotMention id="EHOST_Instance_7959" />
+        <hasSlotMention id="EHOST_Instance_7960" />
+        <hasSlotMention id="EHOST_Instance_7961" />
+        <mentionClass id="Profession">agenten van oorlog, marine, financiën en justitie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7955" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="406" end="433" />
+        <spannedText>agent van inwendige politie</spannedText>
+        <creationDate>Mon Apr 30 11:11:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7962">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7955">
+        <hasSlotMention id="EHOST_Instance_7962" />
+        <mentionClass id="Profession">agent van inwendige politie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7956" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="474" end="480" />
+        <spannedText>baljuw</spannedText>
+        <creationDate>Mon Apr 30 11:11:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7963">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7956">
+        <hasSlotMention id="EHOST_Instance_7963" />
+        <mentionClass id="Profession">baljuw</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

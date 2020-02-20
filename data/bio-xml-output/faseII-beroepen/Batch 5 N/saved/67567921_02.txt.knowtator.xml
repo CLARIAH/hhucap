@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="67567921_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3169" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="94" end="109" />
+        <spannedText>Coenraad Brandt</spannedText>
+        <creationDate>Mon May 07 10:47:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3169">
+        <mentionClass id="Person">Coenraad Brandt</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3170" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="111" end="128" />
+        <spannedText>leraar Nederlands</spannedText>
+        <creationDate>Mon May 07 10:47:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3196">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_3197">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_3169" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3170">
+        <hasSlotMention id="EHOST_Instance_3196" />
+        <hasSlotMention id="EHOST_Instance_3197" />
+        <mentionClass id="Profession">leraar Nederlands</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3171" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1078" end="1088" />
+        <spannedText>hoogleraar</spannedText>
+        <creationDate>Mon May 07 10:48:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3198">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_3199">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_3172" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3171">
+        <hasSlotMention id="EHOST_Instance_3198" />
+        <hasSlotMention id="EHOST_Instance_3199" />
+        <mentionClass id="Profession">hoogleraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3172" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1089" end="1100" />
+        <spannedText>J. Huizinga</spannedText>
+        <creationDate>Mon May 07 10:48:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3172">
+        <mentionClass id="Person">J. Huizinga</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3173" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1576" end="1582" />
+        <spannedText>leraar</spannedText>
+        <creationDate>Mon May 07 10:49:00 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3200">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3173">
+        <hasSlotMention id="EHOST_Instance_3200" />
+        <mentionClass id="Profession">leraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3174" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1770" end="1776" />
+        <spannedText>docent</spannedText>
+        <creationDate>Mon May 07 10:49:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3201">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3174">
+        <hasSlotMention id="EHOST_Instance_3201" />
+        <mentionClass id="Profession">docent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3175" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3865" end="3897" />
+        <spannedText>J.W. Berkelbach van der Sprenkel</spannedText>
+        <creationDate>Mon May 07 10:51:04 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3175">
+        <mentionClass id="Person">J.W. Berkelbach van der Sprenkel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3176" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3901" end="3917" />
+        <spannedText>redactie voerden</spannedText>
+        <creationDate>Fri Jul 06 15:39:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3202">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_3203">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_3175" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3176">
+        <hasSlotMention id="EHOST_Instance_3202" />
+        <hasSlotMention id="EHOST_Instance_3203" />
+        <mentionClass id="Profession">redactie voerden</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3177" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4004" end="4014" />
+        <spannedText>hoogleraar</spannedText>
+        <creationDate>Mon May 07 10:51:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3204">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_3205">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_3178" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3177">
+        <hasSlotMention id="EHOST_Instance_3204" />
+        <hasSlotMention id="EHOST_Instance_3205" />
+        <mentionClass id="Profession">hoogleraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3178" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4015" end="4027" />
+        <spannedText>F.L. Ganshof</spannedText>
+        <creationDate>Mon May 07 10:51:18 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3178">
+        <mentionClass id="Person">F.L. Ganshof</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3179" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4345" end="4351" />
+        <spannedText>docent</spannedText>
+        <creationDate>Mon May 07 10:51:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3206">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3179">
+        <hasSlotMention id="EHOST_Instance_3206" />
+        <mentionClass id="Profession">docent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3180" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="4932" end="4988" />
+        <spannedText>politiek hoofdredacteur van het Nieuw Utrechts Dagblad.</spannedText>
+        <creationDate>Fri Jul 06 15:41:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3207">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3180">
+        <hasSlotMention id="EHOST_Instance_3207" />
+        <mentionClass id="Profession">politiek hoofdredacteur van het Nieuw Utrechts Dagblad.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3181" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="5457" end="5512" />
+        <spannedText>buitengewoon hoogleraar in de 20ste-eeuwse geschiedenis</spannedText>
+        <creationDate>Mon May 07 10:52:34 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3208">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3181">
+        <hasSlotMention id="EHOST_Instance_3208" />
+        <mentionClass id="Profession">buitengewoon hoogleraar in de 20ste-eeuwse geschiedenis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3182" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="5538" end="5561" />
+        <span start="5575" end="5623" />
+        <spannedText>buitengewoon hoogleraar ... in de algemene geschiedenis van de nieuwste tijd</spannedText>
+        <creationDate>Mon May 07 10:52:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3209">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3182">
+        <hasSlotMention id="EHOST_Instance_3209" />
+        <mentionClass id="Profession">buitengewoon hoogleraar ... in de algemene geschiedenis van de nieuwste tijd</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3183" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="5743" end="5758" />
+        <spannedText>hoogleraarschap</spannedText>
+        <creationDate>Mon May 07 10:52:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3210">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3183">
+        <hasSlotMention id="EHOST_Instance_3210" />
+        <mentionClass id="Profession">hoogleraarschap</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3184" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="5964" end="5974" />
+        <spannedText>hoogleraar</spannedText>
+        <creationDate>Mon May 07 10:53:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3211">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3184">
+        <hasSlotMention id="EHOST_Instance_3211" />
+        <mentionClass id="Profession">hoogleraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3185" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="5989" end="5995" />
+        <spannedText>docent</spannedText>
+        <creationDate>Mon May 07 10:53:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3212">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3185">
+        <hasSlotMention id="EHOST_Instance_3212" />
+        <mentionClass id="Profession">docent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3186" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="7864" end="7920" />
+        <spannedText>hoogleraar-directeur van het Instituut voor Geschiedenis</spannedText>
+        <creationDate>Mon May 07 10:54:41 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3213">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3186">
+        <hasSlotMention id="EHOST_Instance_3213" />
+        <mentionClass id="Profession">hoogleraar-directeur van het Instituut voor Geschiedenis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3187" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="7988" end="8044" />
+        <spannedText>voorzitter van de Faculteit der Letteren en Wijsbegeerte</spannedText>
+        <creationDate>Mon May 07 10:54:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3214">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3187">
+        <hasSlotMention id="EHOST_Instance_3214" />
+        <mentionClass id="Profession">voorzitter van de Faculteit der Letteren en Wijsbegeerte</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3188" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="32" end="42" />
+        <spannedText>historicus</spannedText>
+        <creationDate>Fri Jul 06 15:36:23 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3188">
+        <mentionClass id="Profession">historicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3189" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="626" end="636" />
+        <spannedText>historicus</spannedText>
+        <creationDate>Fri Jul 06 15:36:45 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3189">
+        <mentionClass id="Profession">historicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3190" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3327" end="3342" />
+        <spannedText>lid van de SDAP</spannedText>
+        <creationDate>Fri Jul 06 15:39:20 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3190">
+        <mentionClass id="Profession">lid van de SDAP</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3191" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="4157" end="4166" />
+        <spannedText>historici</spannedText>
+        <creationDate>Fri Jul 06 15:40:14 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3191">
+        <mentionClass id="Profession">historici</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3192" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7241" end="7332" />
+        <spannedText>lid van het hoofdbestuur van het Genootschap van Leeraren aan Nederlandschen Gymnasi&amp;euml;n</spannedText>
+        <creationDate>Fri Jul 06 15:42:54 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3192">
+        <mentionClass id="Profession">lid van het hoofdbestuur van het Genootschap van Leeraren aan Nederlandschen Gymnasi&amp;euml;n</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3193" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7390" end="7434" />
+        <spannedText>Huismeester van het Stads-ambachtskinderhuis</spannedText>
+        <creationDate>Fri Jul 06 15:43:08 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3193">
+        <mentionClass id="Profession">Huismeester van het Stads-ambachtskinderhuis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3194" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7537" end="7590" />
+        <spannedText>zitting in het bestuur van het Historisch Genootschap</spannedText>
+        <creationDate>Fri Jul 06 15:43:19 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3194">
+        <mentionClass id="Profession">zitting in het bestuur van het Historisch Genootschap</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3195" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="7627" end="7637" />
+        <span start="7560" end="7590" />
+        <spannedText>van het Historisch Genootschap ... voorzitter</spannedText>
+        <creationDate>Fri Jul 06 15:43:24 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3195">
+        <mentionClass id="Profession">van het Historisch Genootschap ... voorzitter</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="08604978_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2922" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="57" end="76" />
+        <spannedText>Fiepko van der Goot</spannedText>
+        <creationDate>Mon May 07 13:43:55 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2922">
+        <mentionClass id="Person">Fiepko van der Goot</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2923" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="78" end="87" />
+        <spannedText>ingenieur</spannedText>
+        <creationDate>Mon May 07 13:43:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2935">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_2936">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_2922" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2923">
+        <hasSlotMention id="EHOST_Instance_2935" />
+        <hasSlotMention id="EHOST_Instance_2936" />
+        <mentionClass id="Profession">ingenieur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2924" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1634" end="1642" />
+        <span start="1649" end="1666" />
+        <spannedText>minister ... van Sociale Zaken</spannedText>
+        <creationDate>Mon May 07 13:45:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2937">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_2938">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_2925" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2924">
+        <hasSlotMention id="EHOST_Instance_2937" />
+        <hasSlotMention id="EHOST_Instance_2938" />
+        <mentionClass id="Profession">minister ... van Sociale Zaken</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2925" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1643" end="1648" />
+        <spannedText>Romme</spannedText>
+        <creationDate>Mon May 07 13:45:08 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2925">
+        <mentionClass id="Person">Romme</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2926" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1875" end="1883" />
+        <spannedText>minister</spannedText>
+        <creationDate>Mon May 07 13:45:26 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2939">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2926">
+        <hasSlotMention id="EHOST_Instance_2939" />
+        <mentionClass id="Profession">minister</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2927" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3090" end="3100" />
+        <spannedText>medeauteur</spannedText>
+        <creationDate>Mon May 07 13:46:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2940">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2927">
+        <hasSlotMention id="EHOST_Instance_2940" />
+        <mentionClass id="Profession">medeauteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2928" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="3104" end="3113" />
+        <spannedText>redacteur</spannedText>
+        <creationDate>Mon May 07 13:46:28 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2941">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_2928">
+        <hasSlotMention id="EHOST_Instance_2941" />
+        <mentionClass id="Profession">redacteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2929" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="220" end="230" />
+        <spannedText>historicus</spannedText>
+        <creationDate>Fri Jul 06 12:17:05 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2929">
+        <mentionClass id="Profession">historicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2930" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="413" end="420" />
+        <spannedText>econoom</spannedText>
+        <creationDate>Fri Jul 06 12:17:13 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2930">
+        <mentionClass id="Profession">econoom</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2931" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2360" end="2371" />
+        <span start="2283" end="2337" />
+        <spannedText>van de International Association of Radio Women (IARW) ... voorzitster</spannedText>
+        <creationDate>Fri Jul 06 12:18:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2931">
+        <mentionClass id="Profession">van de International Association of Radio Women (IARW) ... voorzitster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2932" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2953" end="2964" />
+        <span start="2856" end="2916" />
+        <spannedText>van het Internationaal Archief voor de Vrouwenbeweging (IAV) ... voorzitster</spannedText>
+        <creationDate>Fri Jul 06 12:19:36 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2932">
+        <mentionClass id="Profession">van het Internationaal Archief voor de Vrouwenbeweging (IAV) ... voorzitster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2933" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2996" end="3007" />
+        <span start="2856" end="2916" />
+        <spannedText>van het Internationaal Archief voor de Vrouwenbeweging (IAV) ... voorzitster</spannedText>
+        <creationDate>Fri Jul 06 12:19:50 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2933">
+        <mentionClass id="Profession">van het Internationaal Archief voor de Vrouwenbeweging (IAV) ... voorzitster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2934" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="3602" end="3655" />
+        <spannedText>lid van de Rassemblement Universel pour la Paix (RUP)</spannedText>
+        <creationDate>Fri Jul 06 12:20:29 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2934">
+        <mentionClass id="Profession">lid van de Rassemblement Universel pour la Paix (RUP)</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

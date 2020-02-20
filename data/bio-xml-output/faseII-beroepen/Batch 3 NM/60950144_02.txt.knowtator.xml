@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="60950144_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_43610" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="121" end="150" />
+        <spannedText>Doops- gez. zonistisch pred.</spannedText>
+        <creationDate>Thu Apr 12 16:29:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43612">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43610">
+        <hasSlotMention id="EHOST_Instance_43612" />
+        <mentionClass id="Profession">Doops- gez. zonistisch pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43611" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="394" end="403" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Thu Apr 12 16:29:53 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43611">
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

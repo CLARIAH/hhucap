@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="51736278_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_25608" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="172" end="183" />
+        <spannedText>Hoogleeraar</spannedText>
+        <creationDate>Thu May 17 20:39:51 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25611">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_25612">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_25609" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25608">
+        <hasSlotMention id="EHOST_Instance_25611" />
+        <hasSlotMention id="EHOST_Instance_25612" />
+        <mentionClass id="Profession">Hoogleeraar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25609" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="214" end="221" />
+        <spannedText>Holtius</spannedText>
+        <creationDate>Thu May 17 20:40:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25609">
+        <mentionClass id="Person">Holtius</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25610" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="4461" end="4519" />
+        <spannedText>hoogleeraarambt in de staats- en historische wetenschappen</spannedText>
+        <creationDate>Thu May 17 20:42:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25613">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25610">
+        <hasSlotMention id="EHOST_Instance_25613" />
+        <mentionClass id="Profession">hoogleeraarambt in de staats- en historische wetenschappen</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

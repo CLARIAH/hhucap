@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="42967910_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_63883" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="180" end="206" />
+        <spannedText>diplomatische betrekkingen</spannedText>
+        <creationDate>Thu May 24 20:44:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_63889">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_63883">
+        <hasSlotMention id="EHOST_Instance_63889" />
+        <mentionClass id="Profession">diplomatische betrekkingen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63884" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="220" end="242" />
+        <spannedText>secretaris van legatie</spannedText>
+        <creationDate>Thu May 24 20:44:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_63890">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_63884">
+        <hasSlotMention id="EHOST_Instance_63890" />
+        <mentionClass id="Profession">secretaris van legatie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63885" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="256" end="320" />
+        <spannedText>secretaris-generaal van het departement van binnenlandsche zaken</spannedText>
+        <creationDate>Thu May 24 20:44:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_63891">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_63885">
+        <hasSlotMention id="EHOST_Instance_63891" />
+        <mentionClass id="Profession">secretaris-generaal van het departement van binnenlandsche zaken</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63886" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="374" end="387" />
+        <spannedText>Ennius Herman</spannedText>
+        <creationDate>Thu May 24 20:45:01 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63886">
+        <mentionClass id="Person">Ennius Herman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63887" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="389" end="423" />
+        <spannedText>raadsheer bij het hooge geregtshof</spannedText>
+        <creationDate>Thu May 24 20:45:03 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_63892">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="FatherInLaw" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_63893">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_63886" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_63887">
+        <hasSlotMention id="EHOST_Instance_63892" />
+        <hasSlotMention id="EHOST_Instance_63893" />
+        <mentionClass id="Profession">raadsheer bij het hooge geregtshof</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63888" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="106" end="154" />
+        <spannedText>tresaurier der orde van den Nederlandschen Leeuw</spannedText>
+        <creationDate>Tue Aug 21 18:58:14 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63888">
+        <mentionClass id="Profession">tresaurier der orde van den Nederlandschen Leeuw</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

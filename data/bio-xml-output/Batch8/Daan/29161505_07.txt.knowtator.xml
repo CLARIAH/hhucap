@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="29161505_07.txt">
+    <annotation>
+        <mention id="EHOST_Instance_799" />
+        <annotator id="eHOST_2010">Daan</annotator>
+        <span start="100" end="107" />
+        <spannedText>Notaris</spannedText>
+        <creationDate>Thu Jun 14 14:01:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_801">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_799">
+        <hasSlotMention id="EHOST_Instance_801" />
+        <mentionClass id="Profession">Notaris</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_800" />
+        <annotator id="eHOST_2010">Daan</annotator>
+        <span start="301" end="310" />
+        <spannedText>Notariaat</spannedText>
+        <creationDate>Thu Jun 14 14:01:23 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_802">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_800">
+        <hasSlotMention id="EHOST_Instance_802" />
+        <mentionClass id="Profession">Notariaat</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

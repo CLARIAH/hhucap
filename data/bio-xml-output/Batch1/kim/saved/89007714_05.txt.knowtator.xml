@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="89007714_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_4193" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="0" end="18" />
+        <spannedText>Johanna Westerdijk</spannedText>
+        <creationDate>Mon Mar 26 18:50:15 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4193">
+        <mentionClass id="Person">Johanna Westerdijk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4194" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="52" end="61" />
+        <spannedText>botanicus</spannedText>
+        <creationDate>Mon Mar 26 18:50:19 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4200">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4194">
+        <hasSlotMention id="EHOST_Instance_4200" />
+        <mentionClass id="Profession">botanicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4195" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="105" end="140" />
+        <spannedText>hoogleraar in de plantenziektekunde</spannedText>
+        <creationDate>Mon Mar 26 18:50:29 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4201">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4195">
+        <hasSlotMention id="EHOST_Instance_4201" />
+        <mentionClass id="Profession">hoogleraar in de plantenziektekunde</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4196" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="549" end="597" />
+        <spannedText>directeur van het Phytopathologisch Laboratorium</spannedText>
+        <creationDate>Mon Mar 26 18:50:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4202">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4196">
+        <hasSlotMention id="EHOST_Instance_4202" />
+        <mentionClass id="Profession">directeur van het Phytopathologisch Laboratorium</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4197" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="683" end="764" />
+        <spannedText>stichteres van de schimmelcollectie in het Centraal Bureau voor Schimmelcultures</spannedText>
+        <creationDate>Mon Mar 26 18:51:10 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4203">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4197">
+        <hasSlotMention id="EHOST_Instance_4203" />
+        <mentionClass id="Profession">stichteres van de schimmelcollectie in het Centraal Bureau voor Schimmelcultures</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4198" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="771" end="781" />
+        <spannedText>Westerdijk</spannedText>
+        <creationDate>Mon Mar 26 18:51:18 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4198">
+        <mentionClass id="Person">Westerdijk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4199" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="1088" end="1106" />
+        <spannedText>Westerdijk,Johanna</spannedText>
+        <creationDate>Mon Mar 26 18:51:29 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4199">
+        <mentionClass id="Person">Westerdijk,Johanna</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

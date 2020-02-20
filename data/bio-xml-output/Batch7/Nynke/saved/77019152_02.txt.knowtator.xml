@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="77019152_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_21637" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="164" end="188" />
+        <spannedText>Johan Willem Georg Coops</spannedText>
+        <creationDate>Wed May 30 11:26:57 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_21637">
+        <mentionClass id="Person">Johan Willem Georg Coops</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21638" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="190" end="231" />
+        <spannedText>administrateur Departement van Waterstaat</spannedText>
+        <creationDate>Wed May 30 11:26:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_21639">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_21640">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_21637" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_21638">
+        <hasSlotMention id="EHOST_Instance_21639" />
+        <hasSlotMention id="EHOST_Instance_21640" />
+        <mentionClass id="Profession">administrateur Departement van Waterstaat</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

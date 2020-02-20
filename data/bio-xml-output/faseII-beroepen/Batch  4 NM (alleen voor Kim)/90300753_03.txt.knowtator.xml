@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="90300753_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_78126" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="299" end="313" />
+        <spannedText>romanschrijver</spannedText>
+        <creationDate>Fri Apr 20 12:16:01 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78130">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78126">
+        <hasSlotMention id="EHOST_Instance_78130" />
+        <mentionClass id="Profession">romanschrijver</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78127" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="687" end="742" />
+        <spannedText>bijzonder hoogleraar in de reformatorische wijsbegeerte</spannedText>
+        <creationDate>Fri Apr 20 12:16:56 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78131">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78127">
+        <hasSlotMention id="EHOST_Instance_78131" />
+        <mentionClass id="Profession">bijzonder hoogleraar in de reformatorische wijsbegeerte</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78128" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="286" end="295" />
+        <spannedText>classicus</spannedText>
+        <creationDate>Thu Jul 05 22:04:17 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78128">
+        <mentionClass id="Profession">classicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78129" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="276" end="284" />
+        <spannedText>filosoof</spannedText>
+        <creationDate>Thu Jul 05 22:04:17 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78129">
+        <mentionClass id="Profession">filosoof</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

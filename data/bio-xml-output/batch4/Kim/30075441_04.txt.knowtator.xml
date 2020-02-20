@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="30075441_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30986" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="0" end="19" />
+        <spannedText>Carel Daniel Asser</spannedText>
+        <creationDate>Wed Apr 18 13:31:21 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30986">
+        <mentionClass id="Person">Carel Daniel Asser</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30987" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="275" end="301" />
+        <spannedText>raadsheer van de Hoge Raad</spannedText>
+        <creationDate>Wed Apr 18 13:31:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30994">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30987">
+        <hasSlotMention id="EHOST_Instance_30994" />
+        <mentionClass id="Profession">raadsheer van de Hoge Raad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30988" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="556" end="564" />
+        <spannedText>advocaat</spannedText>
+        <creationDate>Wed Apr 18 13:31:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30995">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30988">
+        <hasSlotMention id="EHOST_Instance_30995" />
+        <mentionClass id="Profession">advocaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30989" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="603" end="629" />
+        <spannedText>raadsheer van de Hoge Raad</spannedText>
+        <creationDate>Wed Apr 18 13:31:56 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30996">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30989">
+        <hasSlotMention id="EHOST_Instance_30996" />
+        <mentionClass id="Profession">raadsheer van de Hoge Raad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30990" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="696" end="717" />
+        <spannedText>minister van justitie</spannedText>
+        <creationDate>Wed Apr 18 13:32:05 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30997">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_30998">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_30991" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30990">
+        <hasSlotMention id="EHOST_Instance_30997" />
+        <hasSlotMention id="EHOST_Instance_30998" />
+        <mentionClass id="Profession">minister van justitie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30991" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="718" end="739" />
+        <spannedText>Michel Henri Godefroi</spannedText>
+        <creationDate>Wed Apr 18 13:32:07 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30991">
+        <mentionClass id="Person">Michel Henri Godefroi</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30992" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="861" end="875" />
+        <spannedText>rechtsgeleerde</spannedText>
+        <creationDate>Wed Apr 18 13:32:19 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30999">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Child" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30992">
+        <hasSlotMention id="EHOST_Instance_30999" />
+        <mentionClass id="Profession">rechtsgeleerde</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30993" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="879" end="895" />
+        <spannedText>Nobelprijswinaar</spannedText>
+        <creationDate>Wed Apr 18 13:32:21 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31000">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Child" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30993">
+        <hasSlotMention id="EHOST_Instance_31000" />
+        <mentionClass id="Profession">Nobelprijswinaar</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

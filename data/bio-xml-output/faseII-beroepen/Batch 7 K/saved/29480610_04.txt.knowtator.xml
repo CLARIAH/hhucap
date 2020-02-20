@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="29480610_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_42177" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="28" end="38" />
+        <spannedText>journalist</spannedText>
+        <creationDate>Thu May 31 13:43:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42181">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_42177">
+        <hasSlotMention id="EHOST_Instance_42181" />
+        <mentionClass id="Profession">journalist</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42178" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="135" end="169" />
+        <spannedText>hoofdredacteur van 'De Locomotief'</spannedText>
+        <creationDate>Thu May 31 13:43:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42182">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_42178">
+        <hasSlotMention id="EHOST_Instance_42182" />
+        <mentionClass id="Profession">hoofdredacteur van 'De Locomotief'</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42179" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="309" end="361" />
+        <spannedText>koloniaal specialist van de SDAP-Tweede Kamerfractie</spannedText>
+        <creationDate>Thu May 31 13:43:42 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_42183">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_42179">
+        <hasSlotMention id="EHOST_Instance_42183" />
+        <mentionClass id="Profession">koloniaal specialist van de SDAP-Tweede Kamerfractie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_42180" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="42" end="92" />
+        <spannedText>redacteur van het Kort Verslag van de Tweede Kamer</spannedText>
+        <creationDate>Tue Jul 10 14:28:10 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_42180">
+        <mentionClass id="Profession">redacteur van het Kort Verslag van de Tweede Kamer</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

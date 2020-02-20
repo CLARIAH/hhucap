@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="79493493_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_46348" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="132" end="139" />
+        <spannedText>rabbijn</spannedText>
+        <creationDate>Sat May 19 19:43:20 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_46352">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_46353">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_46351" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_46348">
+        <hasSlotMention id="EHOST_Instance_46352" />
+        <hasSlotMention id="EHOST_Instance_46353" />
+        <mentionClass id="Profession">rabbijn</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_46349" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="218" end="225" />
+        <spannedText>rabbijn</spannedText>
+        <creationDate>Sat May 19 19:43:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_46354">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_46349">
+        <hasSlotMention id="EHOST_Instance_46354" />
+        <mentionClass id="Profession">rabbijn</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_46350" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="329" end="342" />
+        <spannedText>Geref. pred.</spannedText>
+        <creationDate>Sun Jul 08 11:58:12 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_46355">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_46350">
+        <hasSlotMention id="EHOST_Instance_46355" />
+        <mentionClass id="Profession">Geref. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_46351" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="111" end="129" />
+        <spannedText>David Vail of Weil</spannedText>
+        <creationDate>Mon Jul 16 17:34:07 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_46351">
+        <mentionClass id="Person">David Vail of Weil</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

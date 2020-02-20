@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="80303534_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_35667" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="113" end="122" />
+        <spannedText>procureur</spannedText>
+        <creationDate>Mon Apr 16 17:43:30 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35672">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_35673">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_35668" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_35667">
+        <hasSlotMention id="EHOST_Instance_35672" />
+        <hasSlotMention id="EHOST_Instance_35673" />
+        <mentionClass id="Profession">procureur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35668" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="86" end="111" />
+        <spannedText>Justus van Toorenenbergen</spannedText>
+        <creationDate>Mon Apr 16 17:43:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_35668">
+        <mentionClass id="Person">Justus van Toorenenbergen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35669" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="187" end="198" />
+        <spannedText>Herv. pred.</spannedText>
+        <creationDate>Mon Apr 16 17:43:56 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35674">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_35669">
+        <hasSlotMention id="EHOST_Instance_35674" />
+        <mentionClass id="Profession">Herv. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35670" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="474" end="483" />
+        <spannedText>predikant</spannedText>
+        <creationDate>Mon Apr 16 17:44:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35675">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_35676">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_35671" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_35670">
+        <hasSlotMention id="EHOST_Instance_35675" />
+        <hasSlotMention id="EHOST_Instance_35676" />
+        <mentionClass id="Profession">predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_35671" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="484" end="497" />
+        <spannedText>S.G. Jorissen</spannedText>
+        <creationDate>Mon Apr 16 17:44:27 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_35671">
+        <mentionClass id="Person">S.G. Jorissen</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

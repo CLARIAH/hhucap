@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="27734268_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_6235" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="377" end="392" />
+        <spannedText>toneelrecensent</spannedText>
+        <creationDate>Mon Apr 16 16:58:17 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6238">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_6235">
+        <hasSlotMention id="EHOST_Instance_6238" />
+        <mentionClass id="Profession">toneelrecensent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6236" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="396" end="409" />
+        <spannedText>kunstcriticus</spannedText>
+        <creationDate>Mon Apr 16 16:58:19 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6239">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_6236">
+        <hasSlotMention id="EHOST_Instance_6239" />
+        <mentionClass id="Profession">kunstcriticus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6237" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="475" end="524" />
+        <spannedText>regeringsadviseur voor de minister van O.K. en W.</spannedText>
+        <creationDate>Mon Apr 16 16:58:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_6240">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_6237">
+        <hasSlotMention id="EHOST_Instance_6240" />
+        <mentionClass id="Profession">regeringsadviseur voor de minister van O.K. en W.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

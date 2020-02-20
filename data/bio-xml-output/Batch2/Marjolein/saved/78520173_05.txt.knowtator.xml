@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="78520173_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5673" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="42" end="57" />
+        <spannedText>herv. predikant</spannedText>
+        <creationDate>Fri Apr 06 14:17:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5675">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_5676">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_5674" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5673">
+        <hasSlotMention id="EHOST_Instance_5675" />
+        <hasSlotMention id="EHOST_Instance_5676" />
+        <mentionClass id="Profession">herv. predikant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5674" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="12" end="28" />
+        <spannedText>Daniël Hendriksz</spannedText>
+        <creationDate>Fri Apr 06 14:17:52 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5674">
+        <mentionClass id="Person">Daniël Hendriksz</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="46827131_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30432" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="101" end="152" />
+        <spannedText>ontvanger-generaal van het college der admiraliteit</spannedText>
+        <creationDate>Sat May 19 18:32:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30434">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30432">
+        <hasSlotMention id="EHOST_Instance_30434" />
+        <mentionClass id="Profession">ontvanger-generaal van het college der admiraliteit</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30433" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="295" end="307" />
+        <spannedText>burgemeester</spannedText>
+        <creationDate>Sat May 19 18:32:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30435">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30433">
+        <hasSlotMention id="EHOST_Instance_30435" />
+        <mentionClass id="Profession">burgemeester</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

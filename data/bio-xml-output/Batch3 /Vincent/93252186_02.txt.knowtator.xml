@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="93252186_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_9489" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="0" end="32" />
+        <spannedText>CANCRINUS, WERNERUS WILHEL- MUS</spannedText>
+        <creationDate>Thu Apr 12 21:16:07 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9489">
+        <mentionClass id="Person">CANCRINUS, WERNERUS WILHEL- MUS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9490" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="166" end="191" />
+        <spannedText>Conrector Latijnse school</spannedText>
+        <creationDate>Thu Apr 12 21:16:36 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9493">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9494">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9489" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9490">
+        <hasSlotMention id="EHOST_Instance_9493" />
+        <hasSlotMention id="EHOST_Instance_9494" />
+        <mentionClass id="Profession">Conrector Latijnse school</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9491" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="212" end="224" />
+        <spannedText>Geref. pred.</spannedText>
+        <creationDate>Thu Apr 12 21:17:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9495">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9496">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9489" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9491">
+        <hasSlotMention id="EHOST_Instance_9495" />
+        <hasSlotMention id="EHOST_Instance_9496" />
+        <mentionClass id="Profession">Geref. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9492" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="857" end="862" />
+        <spannedText>pred.</spannedText>
+        <creationDate>Thu Apr 12 21:17:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9497">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9498">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9489" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9492">
+        <hasSlotMention id="EHOST_Instance_9497" />
+        <hasSlotMention id="EHOST_Instance_9498" />
+        <mentionClass id="Profession">pred.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

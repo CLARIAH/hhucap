@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="79234394_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_22485" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="198" end="205" />
+        <spannedText>planter</spannedText>
+        <creationDate>Fri Apr 20 12:04:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22488">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_22489">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_22487" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22485">
+        <hasSlotMention id="EHOST_Instance_22488" />
+        <hasSlotMention id="EHOST_Instance_22489" />
+        <mentionClass id="Profession">planter</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22486" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="209" end="231" />
+        <spannedText>West-Indisch ambtenaar</spannedText>
+        <creationDate>Fri Apr 20 12:04:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22490">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Partner" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_22491">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_22487" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22486">
+        <hasSlotMention id="EHOST_Instance_22490" />
+        <hasSlotMention id="EHOST_Instance_22491" />
+        <mentionClass id="Profession">West-Indisch ambtenaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22487" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="132" end="184" />
+        <spannedText>Willem Hendrik Victor graaf van Heerdt tot Eversberg</spannedText>
+        <creationDate>Fri Apr 20 12:05:03 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22487">
+        <mentionClass id="Person">Willem Hendrik Victor graaf van Heerdt tot Eversberg</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

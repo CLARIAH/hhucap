@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="48218647_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_78084" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="210" end="222" />
+        <spannedText>opperrabbijn</spannedText>
+        <creationDate>Wed Apr 18 11:35:00 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78091">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78084">
+        <hasSlotMention id="EHOST_Instance_78091" />
+        <mentionClass id="Profession">opperrabbijn</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78085" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="748" end="754" />
+        <spannedText>parnas</spannedText>
+        <creationDate>Wed Apr 18 11:35:49 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78092">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="FatherInLaw" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_78093">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_78086" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_78085">
+        <hasSlotMention id="EHOST_Instance_78092" />
+        <hasSlotMention id="EHOST_Instance_78093" />
+        <mentionClass id="Profession">parnas</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78086" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="755" end="773" />
+        <spannedText>David Leeuwensteen</spannedText>
+        <creationDate>Wed Apr 18 11:35:50 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78086">
+        <mentionClass id="Person">David Leeuwensteen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78087" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1270" end="1282" />
+        <spannedText>opperrabbijn</spannedText>
+        <creationDate>Wed Apr 18 11:36:10 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78094">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78087">
+        <hasSlotMention id="EHOST_Instance_78094" />
+        <mentionClass id="Profession">opperrabbijn</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78088" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1381" end="1393" />
+        <spannedText>opperrabbijn</spannedText>
+        <creationDate>Wed Apr 18 11:36:20 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78095">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78088">
+        <hasSlotMention id="EHOST_Instance_78095" />
+        <mentionClass id="Profession">opperrabbijn</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78089" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1647" end="1659" />
+        <spannedText>opperrabbijn</spannedText>
+        <creationDate>Wed Apr 18 11:36:31 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78096">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_78097">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_78090" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_78089">
+        <hasSlotMention id="EHOST_Instance_78096" />
+        <hasSlotMention id="EHOST_Instance_78097" />
+        <mentionClass id="Profession">opperrabbijn</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78090" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="1660" end="1683" />
+        <spannedText>Salomon Jozef Rozenbach</spannedText>
+        <creationDate>Wed Apr 18 11:36:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78090">
+        <mentionClass id="Person">Salomon Jozef Rozenbach</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

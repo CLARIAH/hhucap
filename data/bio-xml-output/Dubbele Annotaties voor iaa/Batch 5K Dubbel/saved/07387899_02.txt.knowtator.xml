@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="07387899_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_158844" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="162" end="175" />
+        <spannedText>stadsadvocaat</spannedText>
+        <creationDate>Wed May 02 20:32:24 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_158848">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_158844">
+        <hasSlotMention id="EHOST_Instance_158848" />
+        <mentionClass id="Profession">stadsadvocaat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_158845" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="662" end="699" />
+        <spannedText>conservatrice in het museum van Artis</spannedText>
+        <creationDate>Wed May 02 20:32:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_158849">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_158845">
+        <hasSlotMention id="EHOST_Instance_158849" />
+        <mentionClass id="Profession">conservatrice in het museum van Artis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_158846" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1384" end="1399" />
+        <span start="1269" end="1291" />
+        <span start="1295" end="1361" />
+        <spannedText>de propagandacommissie ... van de afdeling Amsterdam van de Vereeniging voor Vrouwenkiesrecht ... voorzitster van</spannedText>
+        <creationDate>Sun Sep 02 16:11:40 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_158850">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_158846">
+        <hasSlotMention id="EHOST_Instance_158850" />
+        <mentionClass id="Profession">de propagandacommissie ... van de afdeling Amsterdam van de Vereeniging voor Vrouwenkiesrecht ... voorzitster van</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_158847" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="1477" end="1516" />
+        <span start="1426" end="1469" />
+        <spannedText>tot de tentoonstelling ‘De Vrouw 1813-1913’ ... voorzitster van het organiserend comité</spannedText>
+        <creationDate>Sun Sep 02 16:12:37 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_158851">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_158847">
+        <hasSlotMention id="EHOST_Instance_158851" />
+        <mentionClass id="Profession">tot de tentoonstelling ‘De Vrouw 1813-1913’ ... voorzitster van het organiserend comité</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

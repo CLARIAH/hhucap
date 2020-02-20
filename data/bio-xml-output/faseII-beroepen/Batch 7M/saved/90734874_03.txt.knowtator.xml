@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="90734874_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_62229" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="83" end="115" />
+        <spannedText>Gerardus Albertus Lutje Spelberg</spannedText>
+        <creationDate>Sat May 26 14:45:40 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_62229">
+        <mentionClass id="Person">Gerardus Albertus Lutje Spelberg</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62230" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="117" end="148" />
+        <spannedText>hoofd open- bare lagere school</spannedText>
+        <creationDate>Sat May 26 14:45:43 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_62234">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_62235">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_62229" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_62230">
+        <hasSlotMention id="EHOST_Instance_62234" />
+        <hasSlotMention id="EHOST_Instance_62235" />
+        <mentionClass id="Profession">hoofd open- bare lagere school</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62231" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="302" end="313" />
+        <spannedText>Herv. pred.</spannedText>
+        <creationDate>Sat May 26 14:46:04 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_62236">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_62231">
+        <hasSlotMention id="EHOST_Instance_62236" />
+        <mentionClass id="Profession">Herv. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62232" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="363" end="383" />
+        <spannedText>Predikant-secretaris</spannedText>
+        <creationDate>Sat May 26 14:46:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_62237">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_62232">
+        <hasSlotMention id="EHOST_Instance_62237" />
+        <mentionClass id="Profession">Predikant-secretaris</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_62233" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="420" end="450" />
+        <spannedText>hoofdredacteur Vrije geluiden</spannedText>
+        <creationDate>Sat May 26 14:46:25 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_62238">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_62233">
+        <hasSlotMention id="EHOST_Instance_62238" />
+        <mentionClass id="Profession">hoofdredacteur Vrije geluiden</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

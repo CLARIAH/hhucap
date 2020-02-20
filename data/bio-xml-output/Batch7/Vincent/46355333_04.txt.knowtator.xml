@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="46355333_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_11326" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="450" end="486" />
+        <spannedText>secretaris van het waterschap Heycop</spannedText>
+        <creationDate>Fri May 25 21:49:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11333">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_11326">
+        <hasSlotMention id="EHOST_Instance_11333" />
+        <mentionClass id="Profession">secretaris van het waterschap Heycop</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11327" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="583" end="604" />
+        <spannedText>officier van justitie</spannedText>
+        <creationDate>Fri May 25 21:49:11 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11334">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_11327">
+        <hasSlotMention id="EHOST_Instance_11334" />
+        <mentionClass id="Profession">officier van justitie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11328" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="682" end="700" />
+        <spannedText>procureur-generaal</spannedText>
+        <creationDate>Fri May 25 21:49:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11335">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_11328">
+        <hasSlotMention id="EHOST_Instance_11335" />
+        <mentionClass id="Profession">procureur-generaal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11329" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="852" end="873" />
+        <spannedText>Maria Eleonora Jacoba</spannedText>
+        <creationDate>Fri May 25 21:49:41 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11329">
+        <mentionClass id="Person">Maria Eleonora Jacoba</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11330" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="874" end="895" />
+        <spannedText>barones van Haersolte</spannedText>
+        <creationDate>Fri May 25 21:49:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11336">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="MotherInLaw" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_11337">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_11329" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11330">
+        <hasSlotMention id="EHOST_Instance_11336" />
+        <hasSlotMention id="EHOST_Instance_11337" />
+        <mentionClass id="Profession">barones van Haersolte</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11331" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="933" end="944" />
+        <spannedText>vice-consul</spannedText>
+        <creationDate>Fri May 25 21:49:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11338">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Child" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_11339">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_11332" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11331">
+        <hasSlotMention id="EHOST_Instance_11338" />
+        <hasSlotMention id="EHOST_Instance_11339" />
+        <mentionClass id="Profession">vice-consul</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11332" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="914" end="931" />
+        <spannedText>Johan Jacob Römer</spannedText>
+        <creationDate>Fri May 25 21:49:59 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11332">
+        <mentionClass id="Person">Johan Jacob Römer</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

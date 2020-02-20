@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="89007714_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_738" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="0" end="18" />
+        <spannedText>Johanna Westerdijk</spannedText>
+        <creationDate>Sat Mar 03 14:32:39 CET 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_743">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_739" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_744">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_740" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_745">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_741" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_738">
+        <hasSlotMention id="EHOST_Instance_743" />
+        <hasSlotMention id="EHOST_Instance_744" />
+        <hasSlotMention id="EHOST_Instance_745" />
+        <mentionClass id="Person">Johanna Westerdijk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_739" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="52" end="61" />
+        <spannedText>botanicus</spannedText>
+        <creationDate>Sat Mar 03 14:32:41 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_746">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_739">
+        <hasSlotMention id="EHOST_Instance_746" />
+        <mentionClass id="Profession">botanicus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_740" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="92" end="140" />
+        <spannedText>buitengewoon hoogleraar in de plantenziektekunde</spannedText>
+        <creationDate>Sat Mar 03 14:32:53 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_747">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_740">
+        <hasSlotMention id="EHOST_Instance_747" />
+        <mentionClass id="Profession">buitengewoon hoogleraar in de plantenziektekunde</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_741" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="549" end="624" />
+        <spannedText>directeur van het Phytopathologisch Laboratorium 'Willie Commelin Scholten'</spannedText>
+        <creationDate>Sat Mar 03 14:33:20 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_748">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_741">
+        <hasSlotMention id="EHOST_Instance_748" />
+        <mentionClass id="Profession">directeur van het Phytopathologisch Laboratorium 'Willie Commelin Scholten'</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_742" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="655" end="670" />
+        <spannedText>Jan Ritzema Bos</spannedText>
+        <creationDate>Sat Mar 03 14:33:32 CET 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_749">
+        <mentionSlot id="Person to Profession" />
+        <complexSlotMentionValue value="EHOST_Instance_741" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_742">
+        <hasSlotMention id="EHOST_Instance_749" />
+        <mentionClass id="Person">Jan Ritzema Bos</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

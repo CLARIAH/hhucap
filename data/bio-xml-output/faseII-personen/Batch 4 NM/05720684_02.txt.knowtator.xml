@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="05720684_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_7190" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="0" end="8" />
+        <spannedText>Schilder</spannedText>
+        <creationDate>Fri Apr 20 11:55:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7194">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7190">
+        <hasSlotMention id="EHOST_Instance_7194" />
+        <mentionClass id="Profession">Schilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7191" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="10" end="18" />
+        <spannedText>tekenaar</spannedText>
+        <creationDate>Fri Apr 20 11:55:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7195">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7191">
+        <hasSlotMention id="EHOST_Instance_7195" />
+        <mentionClass id="Profession">tekenaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7192" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="193" end="201" />
+        <spannedText>schilder</spannedText>
+        <creationDate>Fri Apr 20 11:55:26 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7196">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_7197">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_7193" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7192">
+        <hasSlotMention id="EHOST_Instance_7196" />
+        <hasSlotMention id="EHOST_Instance_7197" />
+        <mentionClass id="Profession">schilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7193" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="202" end="214" />
+        <spannedText>hendrik roos</spannedText>
+        <creationDate>Fri Apr 20 11:55:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7193">
+        <mentionClass id="Person">hendrik roos</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

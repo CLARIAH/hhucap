@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="37127230_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_78826" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="195" end="203" />
+        <spannedText>schilder</spannedText>
+        <creationDate>Thu May 03 13:23:08 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78831">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_78832">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_78829" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_78826">
+        <hasSlotMention id="EHOST_Instance_78831" />
+        <hasSlotMention id="EHOST_Instance_78832" />
+        <mentionClass id="Profession">schilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78827" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="217" end="226" />
+        <spannedText>teekenaar</spannedText>
+        <creationDate>Thu May 03 13:23:14 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78833">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78827">
+        <hasSlotMention id="EHOST_Instance_78833" />
+        <mentionClass id="Profession">teekenaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78828" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="230" end="235" />
+        <spannedText>etser</spannedText>
+        <creationDate>Thu May 03 13:23:20 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78834">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78828">
+        <hasSlotMention id="EHOST_Instance_78834" />
+        <mentionClass id="Profession">etser</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78829" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="132" end="135" />
+        <spannedText>Hij</spannedText>
+        <creationDate>Thu May 03 13:23:26 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_78829">
+        <mentionClass id="Person">Hij</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_78830" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="644" end="654" />
+        <spannedText>kunstenaar</spannedText>
+        <creationDate>Thu May 03 13:23:51 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_78835">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_78830">
+        <hasSlotMention id="EHOST_Instance_78835" />
+        <mentionClass id="Profession">kunstenaar</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

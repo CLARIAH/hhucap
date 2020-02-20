@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88486583_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_4229" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="83" end="108" />
+        <spannedText>Pieter Hendrik Beversluis</spannedText>
+        <creationDate>Wed Apr 04 13:31:04 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4229">
+        <mentionClass id="Person">Pieter Hendrik Beversluis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4230" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="110" end="128" />
+        <spannedText>muziekhan- delaar</spannedText>
+        <creationDate>Wed Apr 04 13:31:11 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4235">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_4236">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_4229" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4230">
+        <hasSlotMention id="EHOST_Instance_4235" />
+        <hasSlotMention id="EHOST_Instance_4236" />
+        <mentionClass id="Profession">muziekhan- delaar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4231" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="194" end="205" />
+        <spannedText>Herv. pred.</spannedText>
+        <creationDate>Wed Apr 04 13:31:32 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4237">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_4238">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_4232" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4231">
+        <hasSlotMention id="EHOST_Instance_4237" />
+        <hasSlotMention id="EHOST_Instance_4238" />
+        <mentionClass id="Profession">Herv. pred.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4232" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="0" end="20" />
+        <spannedText>BEVERSLUIS, MARTINUS</spannedText>
+        <creationDate>Wed Apr 04 13:31:36 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4232">
+        <mentionClass id="Person">BEVERSLUIS, MARTINUS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4233" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="133" end="160" />
+        <spannedText>Gijsberta Christina Martina</spannedText>
+        <creationDate>Wed Apr 04 13:31:45 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4233">
+        <mentionClass id="Person">Gijsberta Christina Martina</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4234" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="161" end="179" />
+        <spannedText>Los. Stud. theol.</spannedText>
+        <creationDate>Wed Apr 04 13:31:54 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4239">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Mother" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_4240">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_4233" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4234">
+        <hasSlotMention id="EHOST_Instance_4239" />
+        <hasSlotMention id="EHOST_Instance_4240" />
+        <mentionClass id="Profession">Los. Stud. theol.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88468114_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_1019" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="0" end="25" />
+        <spannedText>Joseph Barend Stokvis Jr</spannedText>
+        <creationDate>Sat Mar 24 21:31:49 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1019">
+        <mentionClass id="Person">Joseph Barend Stokvis Jr</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1020" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="169" end="173" />
+        <spannedText>arts</spannedText>
+        <creationDate>Sat Mar 24 21:32:36 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1026">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_1027">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_1019" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1020">
+        <hasSlotMention id="EHOST_Instance_1026" />
+        <hasSlotMention id="EHOST_Instance_1027" />
+        <mentionClass id="Profession">arts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1021" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="177" end="190" />
+        <spannedText>verloskundige</spannedText>
+        <creationDate>Sat Mar 24 21:32:42 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1028">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_1029">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_1019" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1021">
+        <hasSlotMention id="EHOST_Instance_1028" />
+        <hasSlotMention id="EHOST_Instance_1029" />
+        <mentionClass id="Profession">verloskundige</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1022" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="950" end="954" />
+        <spannedText>arts</spannedText>
+        <creationDate>Sat Mar 24 21:34:39 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1030">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_1031">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_1019" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1022">
+        <hasSlotMention id="EHOST_Instance_1030" />
+        <hasSlotMention id="EHOST_Instance_1031" />
+        <mentionClass id="Profession">arts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1023" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="958" end="971" />
+        <spannedText>verloskundige</spannedText>
+        <creationDate>Sat Mar 24 21:34:49 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1032">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_1033">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_1019" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1023">
+        <hasSlotMention id="EHOST_Instance_1032" />
+        <hasSlotMention id="EHOST_Instance_1033" />
+        <mentionClass id="Profession">verloskundige</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1024" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1382" end="1403" />
+        <spannedText>Barend Joseph Stokvis</spannedText>
+        <creationDate>Sat Mar 24 21:35:23 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1024">
+        <mentionClass id="Person">Barend Joseph Stokvis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1025" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="1417" end="1421" />
+        <spannedText>arts</spannedText>
+        <creationDate>Sat Mar 24 21:35:30 CET 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1034">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Child" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_1035">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_1024" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1025">
+        <hasSlotMention id="EHOST_Instance_1034" />
+        <hasSlotMention id="EHOST_Instance_1035" />
+        <mentionClass id="Profession">arts</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

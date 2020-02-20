@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="08814162_07.txt">
+    <annotation>
+        <mention id="EHOST_Instance_7301" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="622" end="647" />
+        <spannedText>commissionair in effecten</spannedText>
+        <creationDate>Fri Apr 20 16:02:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7308">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7301">
+        <hasSlotMention id="EHOST_Instance_7308" />
+        <mentionClass id="Profession">commissionair in effecten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7302" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2148" end="2160" />
+        <spannedText>verpleegster</spannedText>
+        <creationDate>Fri Apr 20 16:07:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7309">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_7310">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_7303" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7302">
+        <hasSlotMention id="EHOST_Instance_7309" />
+        <hasSlotMention id="EHOST_Instance_7310" />
+        <mentionClass id="Profession">verpleegster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7303" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="2124" end="2142" />
+        <spannedText>Juppie van Stockum</spannedText>
+        <creationDate>Fri Apr 20 16:08:08 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7303">
+        <mentionClass id="Person">Juppie van Stockum</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7304" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="252" end="265" />
+        <spannedText>letterkundige</spannedText>
+        <creationDate>Tue Jul 03 14:42:45 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7311">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7304">
+        <hasSlotMention id="EHOST_Instance_7311" />
+        <mentionClass id="Profession">letterkundige</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7305" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="269" end="280" />
+        <spannedText>criminoloog</spannedText>
+        <creationDate>Tue Jul 03 14:42:46 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7312">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7305">
+        <hasSlotMention id="EHOST_Instance_7312" />
+        <mentionClass id="Profession">criminoloog</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7306" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="2692" end="2703" />
+        <spannedText>criminoloog</spannedText>
+        <creationDate>Tue Jul 03 14:44:15 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7313">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7306">
+        <hasSlotMention id="EHOST_Instance_7313" />
+        <mentionClass id="Profession">criminoloog</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7307" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="2391" end="2402" />
+        <spannedText>criminoloog</spannedText>
+        <creationDate>Tue Jul 03 14:44:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7314">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7307">
+        <hasSlotMention id="EHOST_Instance_7314" />
+        <mentionClass id="Profession">criminoloog</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

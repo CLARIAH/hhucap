@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="82409948_06.txt">
+    <annotation>
+        <mention id="EHOST_Instance_9314" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="105" end="137" />
+        <spannedText>Sekretaris op de Assurantiekamer</spannedText>
+        <creationDate>Tue Apr 24 12:57:55 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9318">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9319">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9315" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9314">
+        <hasSlotMention id="EHOST_Instance_9318" />
+        <hasSlotMention id="EHOST_Instance_9319" />
+        <mentionClass id="Profession">Sekretaris op de Assurantiekamer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9315" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="73" end="83" />
+        <spannedText>Grootvader</spannedText>
+        <creationDate>Tue Apr 24 12:58:12 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9315">
+        <mentionClass id="Person">Grootvader</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9316" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="35" end="49" />
+        <spannedText>Geheymschryver</spannedText>
+        <creationDate>Tue Apr 24 12:58:29 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9320">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_9321">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_9317" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9316">
+        <hasSlotMention id="EHOST_Instance_9320" />
+        <hasSlotMention id="EHOST_Instance_9321" />
+        <mentionClass id="Profession">Geheymschryver</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9317" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="16" end="30" />
+        <spannedText>Overgrootvader</spannedText>
+        <creationDate>Tue Apr 24 12:58:41 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9317">
+        <mentionClass id="Person">Overgrootvader</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

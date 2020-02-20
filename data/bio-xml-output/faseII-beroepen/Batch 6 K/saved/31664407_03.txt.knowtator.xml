@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="31664407_03.txt">
+    <annotation>
+        <mention id="EHOST_Instance_94620" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="326" end="339" />
+        <spannedText>onder- zoeker</spannedText>
+        <creationDate>Fri May 18 21:24:27 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94623">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_94620">
+        <hasSlotMention id="EHOST_Instance_94623" />
+        <mentionClass id="Profession">onder- zoeker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94621" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="345" end="362" />
+        <spannedText>academisch docent</spannedText>
+        <creationDate>Fri May 18 21:24:29 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94624">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_94621">
+        <hasSlotMention id="EHOST_Instance_94624" />
+        <mentionClass id="Profession">academisch docent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94622" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="370" end="379" />
+        <spannedText>schrijver</spannedText>
+        <creationDate>Sun Jul 08 10:36:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_94622">
+        <mentionClass id="Profession">schrijver</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

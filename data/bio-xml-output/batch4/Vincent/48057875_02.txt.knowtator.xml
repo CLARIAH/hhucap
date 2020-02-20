@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="48057875_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_22535" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="6" end="13" />
+        <spannedText>Juriste</spannedText>
+        <creationDate>Mon Apr 30 18:34:43 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22538">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_22539">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_22536" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22535">
+        <hasSlotMention id="EHOST_Instance_22538" />
+        <hasSlotMention id="EHOST_Instance_22539" />
+        <mentionClass id="Profession">Juriste</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22536" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="197" end="214" />
+        <spannedText>Anneke van Baalen</spannedText>
+        <creationDate>Mon Apr 30 18:35:00 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22536">
+        <mentionClass id="Person">Anneke van Baalen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22537" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="329" end="337" />
+        <spannedText>advocaat</spannedText>
+        <creationDate>Mon Apr 30 18:35:13 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22540">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_22541">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_22536" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22537">
+        <hasSlotMention id="EHOST_Instance_22540" />
+        <hasSlotMention id="EHOST_Instance_22541" />
+        <mentionClass id="Profession">advocaat</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

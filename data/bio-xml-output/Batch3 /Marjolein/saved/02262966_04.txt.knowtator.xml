@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="02262966_04.txt">
+    <annotation>
+        <mention id="EHOST_Instance_8988" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="0" end="13" />
+        <spannedText>Anna Reynvaan</spannedText>
+        <creationDate>Tue Apr 24 11:30:06 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_8988">
+        <mentionClass id="Person">Anna Reynvaan</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8989" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="48" end="60" />
+        <spannedText>verpleegster</spannedText>
+        <creationDate>Tue Apr 24 11:30:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8993">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_8994">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_8988" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_8989">
+        <hasSlotMention id="EHOST_Instance_8993" />
+        <hasSlotMention id="EHOST_Instance_8994" />
+        <mentionClass id="Profession">verpleegster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8990" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="64" end="82" />
+        <spannedText>adjunct-directrice</spannedText>
+        <creationDate>Tue Apr 24 11:30:16 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8995">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_8996">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_8988" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_8990">
+        <hasSlotMention id="EHOST_Instance_8995" />
+        <hasSlotMention id="EHOST_Instance_8996" />
+        <mentionClass id="Profession">adjunct-directrice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8991" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="211" end="228" />
+        <spannedText>lekenverpleegster</spannedText>
+        <creationDate>Tue Apr 24 11:30:39 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8997">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8991">
+        <hasSlotMention id="EHOST_Instance_8997" />
+        <mentionClass id="Profession">lekenverpleegster</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8992" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="575" end="590" />
+        <spannedText>verpleegkundige</spannedText>
+        <creationDate>Tue Apr 24 11:31:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8998">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8992">
+        <hasSlotMention id="EHOST_Instance_8998" />
+        <mentionClass id="Profession">verpleegkundige</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

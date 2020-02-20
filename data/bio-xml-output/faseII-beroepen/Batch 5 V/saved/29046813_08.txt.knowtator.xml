@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="29046813_08.txt">
+    <annotation>
+        <mention id="EHOST_Instance_13495" />
+        <annotator id="eHOST_2010">Vincent</annotator>
+        <span start="27" end="35" />
+        <spannedText>Schilder</spannedText>
+        <creationDate>Thu May 17 20:11:58 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13497">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_13495">
+        <hasSlotMention id="EHOST_Instance_13497" />
+        <mentionClass id="Profession">Schilder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13496" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="121" end="133" />
+        <spannedText>Konterfijter</spannedText>
+        <creationDate>Sun Jul 01 12:52:43 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_13496">
+        <mentionClass id="Profession">Konterfijter</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="04368031_05.txt">
+    <annotation>
+        <mention id="EHOST_Instance_61495" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="563" end="588" />
+        <spannedText>secretaris-penningmeester</spannedText>
+        <creationDate>Sat May 26 15:33:59 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_61502">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_61495">
+        <hasSlotMention id="EHOST_Instance_61502" />
+        <mentionClass id="Profession">secretaris-penningmeester</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61496" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="711" end="721" />
+        <spannedText>secretaris</spannedText>
+        <creationDate>Mon May 28 15:30:57 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_61503">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_61496">
+        <hasSlotMention id="EHOST_Instance_61503" />
+        <mentionClass id="Profession">secretaris</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61497" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2447" end="2456" />
+        <spannedText>directeur</spannedText>
+        <creationDate>Mon May 28 15:32:07 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_61504">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_61505">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_61498" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_61497">
+        <hasSlotMention id="EHOST_Instance_61504" />
+        <hasSlotMention id="EHOST_Instance_61505" />
+        <mentionClass id="Profession">directeur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61498" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2410" end="2428" />
+        <spannedText>J. M. van Bemmelen</spannedText>
+        <creationDate>Mon May 28 15:32:17 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_61498">
+        <mentionClass id="Person">J. M. van Bemmelen</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61499" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="2799" end="2808" />
+        <spannedText>assistent</spannedText>
+        <creationDate>Mon May 28 15:32:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_61506">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_61499">
+        <hasSlotMention id="EHOST_Instance_61506" />
+        <mentionClass id="Profession">assistent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61500" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="5481" end="5488" />
+        <spannedText>physici</spannedText>
+        <creationDate>Mon May 28 15:34:28 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_61507">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_61500">
+        <hasSlotMention id="EHOST_Instance_61507" />
+        <mentionClass id="Profession">physici</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_61501" />
+        <annotator id="eHOST_2010">Nynke</annotator>
+        <span start="7076" end="7087" />
+        <spannedText>medewerkers</spannedText>
+        <creationDate>Mon Jul 30 16:27:07 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_61501">
+        <mentionClass id="Profession">medewerkers</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

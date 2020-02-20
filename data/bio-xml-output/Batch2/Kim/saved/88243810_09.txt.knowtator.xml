@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="88243810_09.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5174" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="0" end="6" />
+        <spannedText>HEYDEN</spannedText>
+        <creationDate>Mon Apr 09 09:36:15 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5174">
+        <mentionClass id="Person">HEYDEN</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5175" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="7" end="52" />
+        <spannedText>Kwam te voorschijn op het groot Narrentonneel</spannedText>
+        <creationDate>Mon Apr 09 09:36:19 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5178">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5175">
+        <hasSlotMention id="EHOST_Instance_5178" />
+        <mentionClass id="Profession">Kwam te voorschijn op het groot Narrentonneel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5176" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="184" end="196" />
+        <spannedText>Glasschryver</spannedText>
+        <creationDate>Mon Apr 09 09:36:36 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5179">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5176">
+        <hasSlotMention id="EHOST_Instance_5179" />
+        <mentionClass id="Profession">Glasschryver</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5177" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="249" end="294" />
+        <spannedText>schilderen van oude- ennieuwmodische-gebouwen</spannedText>
+        <creationDate>Mon Apr 09 09:36:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5180">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="NotFamily" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5177">
+        <hasSlotMention id="EHOST_Instance_5180" />
+        <mentionClass id="Profession">schilderen van oude- ennieuwmodische-gebouwen</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

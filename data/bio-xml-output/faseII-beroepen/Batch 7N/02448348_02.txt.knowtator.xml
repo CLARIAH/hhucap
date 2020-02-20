@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="02448348_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_64099" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="69" end="75" />
+        <spannedText>monnik</spannedText>
+        <creationDate>Tue May 29 11:17:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64101">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64099">
+        <hasSlotMention id="EHOST_Instance_64101" />
+        <mentionClass id="Profession">monnik</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_64100" />
+        <annotator id="eHOST_2010">nynke</annotator>
+        <span start="177" end="185" />
+        <spannedText>vicarius</spannedText>
+        <creationDate>Tue May 29 11:17:09 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_64102">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_64100">
+        <hasSlotMention id="EHOST_Instance_64102" />
+        <mentionClass id="Profession">vicarius</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

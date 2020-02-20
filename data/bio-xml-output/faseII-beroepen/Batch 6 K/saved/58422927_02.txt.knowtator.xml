@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="58422927_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_94939" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="16" end="31" />
+        <spannedText>Tweede Kamerlid</spannedText>
+        <creationDate>Sat May 19 19:13:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94944">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_94939">
+        <hasSlotMention id="EHOST_Instance_94944" />
+        <mentionClass id="Profession">Tweede Kamerlid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94940" />
+        <annotator id="eHOST_2010">Kim</annotator>
+        <span start="321" end="329" />
+        <spannedText>raadslid</spannedText>
+        <creationDate>Sat May 19 19:14:02 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94945">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_94940">
+        <hasSlotMention id="EHOST_Instance_94945" />
+        <mentionClass id="Profession">raadslid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94941" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="81" end="123" />
+        <spannedText>onderwijswoordvoerders van de PvdA-fractie</spannedText>
+        <creationDate>Sun Jul 08 11:51:33 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_94941">
+        <mentionClass id="Profession">onderwijswoordvoerders van de PvdA-fractie</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94942" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="166" end="178" />
+        <spannedText>politieagent</spannedText>
+        <creationDate>Sun Jul 08 11:51:37 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_94942">
+        <mentionClass id="Profession">politieagent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_94943" />
+        <annotator id="eHOST_2010">Marjolein</annotator>
+        <span start="230" end="239" />
+        <span start="244" end="286" />
+        <spannedText>bekleedde ... bestuurlijke functies bij de Rooie Vrouwen</spannedText>
+        <creationDate>Sun Jul 08 11:51:46 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_94943">
+        <mentionClass id="Profession">bekleedde ... bestuurlijke functies bij de Rooie Vrouwen</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

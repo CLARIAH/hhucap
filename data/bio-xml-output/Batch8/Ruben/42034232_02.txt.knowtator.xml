@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="42034232_02.txt">
+    <annotation>
+        <mention id="EHOST_Instance_388" />
+        <annotator id="eHOST_2010">Ruben</annotator>
+        <span start="778" end="793" />
+        <spannedText>Johannes Tenten</spannedText>
+        <creationDate>Mon Jun 11 10:39:32 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_388">
+        <mentionClass id="Person">Johannes Tenten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_389" />
+        <annotator id="eHOST_2010">Ruben</annotator>
+        <span start="869" end="879" />
+        <spannedText>expediteur</spannedText>
+        <creationDate>Mon Jun 11 10:39:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_395">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="Father" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_396">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_388" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_389">
+        <hasSlotMention id="EHOST_Instance_395" />
+        <hasSlotMention id="EHOST_Instance_396" />
+        <mentionClass id="Profession">expediteur</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_390" />
+        <annotator id="eHOST_2010">Ruben</annotator>
+        <span start="1069" end="1080" />
+        <spannedText>schoenmaker</spannedText>
+        <creationDate>Mon Jun 11 10:39:47 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_397">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_398">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_394" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_390">
+        <hasSlotMention id="EHOST_Instance_397" />
+        <hasSlotMention id="EHOST_Instance_398" />
+        <mentionClass id="Profession">schoenmaker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_391" />
+        <annotator id="eHOST_2010">Ruben</annotator>
+        <span start="1176" end="1186" />
+        <spannedText>kruidenier</spannedText>
+        <creationDate>Mon Jun 11 10:39:50 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_399">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="OtherFamilyMember" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_400">
+        <mentionSlot id="profession_holder" />
+        <complexSlotMentionValue value="EHOST_Instance_393" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_391">
+        <hasSlotMention id="EHOST_Instance_399" />
+        <hasSlotMention id="EHOST_Instance_400" />
+        <mentionClass id="Profession">kruidenier</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_392" />
+        <annotator id="eHOST_2010">Ruben</annotator>
+        <span start="1264" end="1273" />
+        <spannedText>timmerman</spannedText>
+        <creationDate>Mon Jun 11 10:39:52 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_401">
+        <mentionSlot id="ProfessionOf" />
+        <stringSlotMentionValue value="BioSubject" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_392">
+        <hasSlotMention id="EHOST_Instance_401" />
+        <mentionClass id="Profession">timmerman</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_393" />
+        <annotator id="eHOST_2010">Ruben</annotator>
+        <span start="1096" end="1120" />
+        <spannedText>Gradus Johannes (Gerrit)</spannedText>
+        <creationDate>Mon Jun 11 10:40:11 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_393">
+        <mentionClass id="Person">Gradus Johannes (Gerrit)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_394" />
+        <annotator id="eHOST_2010">Ruben</annotator>
+        <span start="1040" end="1062" />
+        <spannedText>Gradus Antonius (Toon)</spannedText>
+        <creationDate>Mon Jun 11 10:40:28 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_394">
+        <mentionClass id="Person">Gradus Antonius (Toon)</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+
